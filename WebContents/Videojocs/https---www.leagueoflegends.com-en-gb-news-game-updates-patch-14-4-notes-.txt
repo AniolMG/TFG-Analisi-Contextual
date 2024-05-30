@@ -1,0 +1,475 @@
+This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising purposes. You may change your settings at any time or accept the default settings. You may close this banner to continue with only essential cookies. Privacy Notice
+Storage Preferences
+Targeted Advertising
+Personalization
+Analytics
+Save
+Accept All
+Reject All
+PATCH 14.4 NOTES
+5 DAYS AGO
+AUTHORRIOT RIRU
+Hold the door! Here comes patch 14.4!
+
+In this week's patch we have quite a few feels-good-to-play quality of life updates for some gameplay systems and champions. To kick things off we have a kit update for Rek'Sai, an update to help tethers in game feel more responsive, and some follow-up QoL adjustments for Smolder. We also have some feels-good-to-play-against changes to make champions like Illaoi, Fiora, and tank Bard more reasonable if you find yourself matched up with them. We're also making some updates to support power curves, fountain regeneration, Lost Chapter items, adjustments to Emerald+ LP gains, and ARAM!
+
+In other news, this is the patch where we update our minimum specs to no longer support Windows 7, 8, and 8.1, so make sure you upgrade! We also have an update on the Vanguard rollout plan, so make sure you read the full section below for all the details.
+
+On the TFT side of things, it's the Remix Rumble Championship patch, so make sure you're all caught up on the TFT patch notes here!
+Lilu "Riot Riru" Cabreros
+Patch Highlights
+Porcelain Protector Aurelion Sol, Porcelain Darius, Porcelain Graves, Porcelain Morgana, Porcelain Miss Fortune, Porcelain Irelia, Prestige Porcelain Kindred, and Victorious Tryndamere will be available on February 22, 2024 at 20:00 UTC.
+Vanguard
+We've been communicating in the past few patch notes that Vanguard was coming, but after some time on the PBE testing the diagnostics check, we've elected to change the rollout plan. Instead of a Global rollout, we're going to be releasing in a single region first with patch 14.5. This allows us time on live servers to evaluate how Vanguard is functioning and being experienced before making adjustments if required.
+
+For more information on Vanguard or help making sure you're ready for Vanguard please check out our support article so that you can continue to play League once Vanguard is required.
+Windows Min Spec Update
+As of this patch, our minimum system requirements have been updated and we will no longer be supporting Windows 7, 8, and 8.1 for all League of Legends and Teamfight Tactics games. To maintain the stability and performance of our games, we sometimes need to deprecate support for legacy operating systems that aren't widely used by our players. If you're still playing on these versions of Windows, please consider updating to continue playing. Please see our min spec support page for more details.
+Champions
+Ahri
+Health growth increased. Q damage increased.
+With the removal of Everfrost, Ahri lost a lot of the reliability an additional root could create and the durability the item provided. We want to give her power back in some more exciting aspects of her kit, so we're increasing the damage of her Q for two reasons. First, when it came down to more reliability versus more damage, we thought Ahri players would appreciate more potent damage. Second, being able to land both parts of her Q also rewarded more skill expression. We're also giving her a bit more health so she can afford to take some damage while she's kiting around fights with her ultimate.
+Base Stats
+Health Growth: 96 ⇒ 104
+Q - Orb of Deception
+Magic Damage per Pass: 40/65/90/115/140 (+45% AP) ⇒ 40/65/90/115/140 (+50% AP)
+Aurelion Sol
+Q Bonus Magic DPS decreased.
+Aurelion Sol is still performing too well and we've decided to reduce some more of his power. He now gets more stacks from Q, both because the stack gain was increased and also because he can cast it more frequently due to the potent mana buffs. We'd like to retain how well it stacks and scales with Stardust, but nerf its AP ratio and some base damage to account for that.
+Q - Breath of Light
+Bonus Magic Damage per Second: 60 / 70 / 80 / 90 / 100 (+ 35% AP) (+ (3.1% Stardust)% of target's maximum health ⇒ 55 / 65 / 75 / 85 / 95 (+ 30% AP) (+ (3.1% Stardust)% of target's maximum health
+Bard
+Armor growth decreased, level 1 attack speed and attack speed ratio increased. Passive bonus damage increased. Q damage increased.
+Bard is currently quite powerful and is especially durable due to having more than enough base values on his kit to not require anything but tank items. In this patch, we're closing the gap between tank and mage/enchanter-style builds by lowering his base values while preserving his AP scaling to nudge him toward those purchases more often. On top of that, he gets a guaranteed 200 HP from the new support items, so he's generally a bit too durable.
+
+As one final set of changes, we're making discharging Meeps feel a bit better by increasing his overall attack speed. Nashor's Tooth, anyone?
+Base Stats
+Armor Growth: 5.2 ⇒ 5
+Level 1 Attack Speed: 0.625 ⇒ 0.658
+Attack Speed Ratio: 0.625 ⇒ 0.658
+Passive - Traveler's Call
+Damage: 35 (+14 per 5 Chimes)(+30% AP) Bonus Magic Damage ⇒ 35 (+10 per 5 Chimes) (+40% AP) Bonus Magic Damage
+Q - Cosmic Binding
+Damage: 80/125/170/215/260 (+65% AP) ⇒ 80/120/160/200/240 (+80% AP)
+Fiora
+W attack speed slow decreased.
+In this patch, we want to address Fiora's trading pattern in certain matchups where her W attack speed slow is hard to answer when used as an opener. She's currently performing quite well and has room to lose some power, so we'll be halving the attack speed slow to provide more counterplay for players that find themselves matched up against the Grand Duelist.
+W - Riposte
+Attack Speed Slow: 50% for 2 seconds ⇒ 25% for 2 seconds
+Illaoi
+Passive damage decreased.
+With last patch's tentacle range increase, Illaoi ended up being a bit more powerful than anticipated. As her full attack damage build is massively outperforming her tankier options, we're addressing her power by adjusting her passive damage.
+Passive - Prophet of an Elder God
+Damage: 9-162 (based on level) (+115% Total AD) ⇒ 9-162 (based on level) (+100% Total AD)
+Jayce
+Base AD increased. W mana restoration increased and magic damage increased. E now roots enemies on initial cast.
+Jayce's E sometimes suffered from a weird effect, occasionally throwing players in an odd direction when cast during an opponent's dash. To resolve this, we adjusted it to work more like Lee Sin's R, now rooting on cast. This also means it will no longer knock enemies outside of auto attack range when cast at max range.
+
+Additionally, we're looking to flatten Jayce's power curve slightly, giving him a bit more agency (and mana) to skirmish in lane. This should make him less dependent on Muramana and make early mana runes feel more valuable.
+Base Stats
+Attack Damage: 57 ⇒ 59
+W - Lightning Field
+Mana Restore: 10/12/14/16/18/20 ⇒ 15/17/19/21/23/25
+Magic Damage per Second: 35/50/65/80/95/110 ⇒ 40/55/70/85/100/115
+E - Thundering Blow
+newGrounded in Science: Now roots enemies on initial cast. (Note: Similar to Lee Sin's R root.)
+K'Sante
+Base health and mana increased. Q no longer slows during All Out. W bonus armor and magic resist ratio increased, no longer reduces minimum channel and cooldowns. E dash speeds decreased.
+K'Sante doesn't leave a lot of room for counterplay during All Out (you might even say his opponents are all out of counter play options), so we're aiming to address his opponents' ability to outplay him, or at least give them the time to process what he's doing. We think that these changes will result in some degree of lost power, but we believe that these adjustments should help get K'Sante in an overall better state long term.
+Base Stats
+Base Health: 570 ⇒ 625
+Base Mana: 290 ⇒ 320
+Q - Ntofo Strikes
+removedAll Out of Slows: No longer slows during All Out
+W - Path Maker
+Bonus Armor Ratio: 50% ⇒ 85%
+Bonus Magic Resist Ratio: 50% ⇒ 85%
+removedAll Out Minimum Channel Time: All Out no longer reduces the minimum channel to 0.5 seconds
+removedAll Out Cooldown Reduction: All Out no longer reduces the cooldown to 18/16.5/15/13.5/12 seconds
+E - Footwork
+Dash Speed: 1500 ⇒ 900
+Ally Dash Speed: 1800 ⇒ 1100 + Movement Speed
+All Out Dash Speed: 2100 ⇒ 1450
+Kai'Sa
+Ult range increased.
+Kai'Sa has been pretty weak this season but has begun to find her footing with Eclipse and Statikk Shiv starts, resulting in a steady climb to her pick and win rates. Even with this newfound tech, we think she's still a little bit underpowered so we're giving her a very small bump to her unique ability to join the fray at a moment's notice.
+R - Killer Instinct
+Cast Range: 1500/2250/3000 ⇒ 2000/2500/3000
+Kalista
+Passive bugfix. E damage decreased.
+Now that much of the Season Start dust has settled, Kalista has found herself as one of the premier bot laners in Pro play and we'd like to open that role up to a bit more variety. Also, she's receiving a meaningful bugfix this patch, so we're also compensating for that bit of extra power.
+Passive - Martial Pose
+Bugfix: Kalista now properly gains dash distance with basic Boots of Speed.
+E - Rend
+Physical Damage: 20/30/40/50/60 (+70% AD) (+20% AP) ⇒ 10/20/30/40/50 (+70% AD) (+20% AP) (Note: Per-stack damage unchanged.)
+Lulu
+Q second bolt damage increased. E magic damage and shield value increased. R bonus health increased.
+Lulu has been a bit taxed getting ready for Bandle Tale and all, so she's been slipping in League. But don't worry—we're here to help her get back up to full power! In this patch, we want to increase her power in a way that will feel exciting to her players, namely more poke damage for her opponents and more I-will-not-let-you-die-no-matter-how-hard-you-try power for her allies.
+Q - Glitterlance
+Second Bolt Damage: 25% of Primary Bolt damage ⇒ 50% of Primary Bolt damage
+E - Help, Pix!
+Magic Damage: 80/120/160/200/240 (+50% AP) ⇒ 80/125/170/215/260 (+50% AP)
+Shield Value: 75/115/155/195/235 (+55% AP) ⇒ 80/125/170/215/260 (+55% AP)
+R - Wild Growth
+Bonus Health: 275/525/575 (+45% AP) ⇒ 275/525/575 (+55% AP)
+Maokai
+Base armor decreased. Q damage decreased. R root duration decreased.
+Maokai is currently still the best support in the game, branch hands down. And while last patch closed the gap between his power as a support and as a top laner/jungler, he's in a state where we simply need to siphon off some of his baseline power to keep him in check.
+Base Stats
+Base Armor: 39 ⇒ 35
+Q - Bramble Smash
+Magic Damage: 70/120/170/220/270 (+2/2.5/3/3.5/4% of the target's maximum health) (+40% AP) ⇒ 65/115/165/215/265 (+2/2.5/3/3.5/4% of the target's maximum health) (+40% AP)
+R - Nature's Grasp
+Root Duration: 0.8-2.6 seconds (based on distance traveled capped at 1000 units) ⇒ 0.75-2.25 seconds (based on distance traveled capped at 1000 units)
+Rek'Sai
+All abilities adjusted.
+In her current state, Rek'Sai tends to feel non-functional as a fighter, causing her core builds to often be full lethality just to accomplish anything in game. This patch, we're hoping to give Rek'Sai some exciting things to do in early, mid, and late game. The primary buffs are substantially snappier tunnel usage and a super juiced passive that plays up her ability to weave in and out of combat to recoup health between cooldowns. As there's a lot of power in these gains, we'll be taking down her burst damage to prevent her from getting out of hand.
+
+We also have a host of modernization and re-scripting updates to Rek'Sai. Queen's Wrath is now an auto attack instead of a spell, meaning it scales appropriately with attack speed. Tunnels no longer have hitches in the middle of their animations when you're entering them. Her cooldowns have been synced up to make jungling more intuitive as Burrow, Prey Seeker, and Unburrow will line up from level 2. These changes, in addition to a whole host of adjustments on the backend, should also make her easier to update going forward. One thing we'll be keeping our eyes on is her balance between fighter and tank builds, which will thankfully be really easy to tweak!
+Base Stats
+Base Movement Speed: 335 ⇒ 340
+Base Health Regeneration: 7.5 ⇒ 2.5
+Health Regeneration Growth: 0.65 ⇒ 0.5
+Passive - Fury of the Xer'Sai
+Maximum Healing: 10 (+2-10% (based on level) maximum health) ⇒ 12-20% (based on level) maximum health
+newFury Generation from Non-Champions: Attacks against minions, plants, and wards restore 50% less Fury.
+Q - Queen's Wrath (Unburrowed)
+newAttack Type: Queen's Wrath now functions as a basic attack instead of a spell, meaning total attack time and time between attacks is based on Rek'Sai's actual attack speed.
+newBonus Attack Speed: Queen's Wrath now grants 45% bonus attack speed for its 3 attacks. (Note: This results in a similar-feeling attack flow to the old spell-based version.)
+Q - Prey Seeker (Burrowed)
+Cooldown: 12/11.5/11/10.5/10 seconds ⇒ 10 seconds at all ranks
+Damage: 60/95/130/165/200 (+50% bonus AD) (+70% AP) Physical Damage ⇒ 50/80/110/140/170 (+25% bonus AD) (+70% AP) Magic Damage
+W - Burrow
+Bonus Movement Speed While Burrowed: 5/10/15 (levels 1/6/11) ⇒ 5/10/15/20/25 (based on rank)
+Vision Radius: 25% ⇒ 35%
+W - Unburrow
+newGrouping is Scary: Unburrow now knocks up all champions for 1 second, not just the primary target.
+removedRun!: Unburrow no longer slows enemies by 40% for 0.5 seconds post-knockup.
+Damage: 50/85/120/155/190 (+80% bonus AD) Physical Damage ⇒ 50/75/100/125/150 (+80% AP) Magic Damage
+E - Tunnel
+Cooldown: 26/24/22/20/18 seconds ⇒ 18/17/16/15/14 seconds
+Tunnel Reuse Cooldown: 10/8/6/4/2 seconds ⇒ 6/5/4/3/2 seconds
+Manual Cast Dash Speed: 550 + Movement Speed from Boots ⇒ 500 + Total Movement Speed (Note: Now matches right-click dash speed.)
+removedQoL Adjustment: Removed the 0.05 second hitch when manually casting Tunnel
+newQoL Adjustment: Rek'Sai begins taking already-placed tunnels roughly 20% faster (Note: Final dash speed unchanged.)
+E - Furious Bite
+Physical Damage: 5/10/15/20/25 (+70% AD) ⇒ 100% of total AD
+100 Fury Bonus: 2x Damage as True Damage ⇒ +6-14% (based on rank) of target's maximum health
+Cooldown: 12 seconds ⇒ 10 seconds
+newFlashy: E now displays a cosmetic critical strike when fully empowered.
+R - Void Rush
+Physical Damage: 100/250/400 (+175% bonus AD) (+20/25/30% of target's missing health) ⇒ 100/250/400 (+100% bonus AD) (+20/25/30% of target's missing health)
+Renekton
+Q champion healing increased. E cooldown decreased. R bonus health increased.
+Simply put, Renekton is quite bad in his current state and in desperate need of some help. For starters we'll be increasing his Q healing now that he no longer has the reliable healing that Goredrinker provided him. We're also decreasing his E cooldown at later stages of the game so he can have better target access to squishies. And last but certainly not least, we're increasing the bonus health he gets from his ultimate to give him better survivability in teamfights and for better Sundered healing synergies as that's his most common first item at the moment. Overall, these should help make Renekton feel a bit more like the Butcher of the Sands he's meant to be.
+Q - Cull the Meek
+Champion Healing: 12/18/24/30/36 (+15% bonus AD) ⇒ 12/20/28/36/44 (+17% bonus AD)
+E - Slice
+Cooldown: 16/15/14/13/12 seconds ⇒ 16/14.5/13/11.5/10 seconds
+R - Dominus
+Bonus Health: 250/400/550 ⇒ 300/500/700
+Smolder
+Q additional fireball scaling decreased, now stacks if a targeted minion dies while Q is mid-flight. W cooldown adjusted, initial damage decreased, explosion damage increased. R will continue to cast when Smolder dies.
+Smolder's W has proven to be a very powerful poking tool during the laning phase. While we're happy that players want to max and poke with it, we want to slightly reduce its power at lower ranks due to the PVP damage it can provide while also ensuring that it never one shots the wave, preventing Smolder from stacking with Q and scaling. We're also taking this opportunity to add in some QoL improvements and bug fixes that will help Smolder live his best dragon fantasy better.
+Q - Super Scorcher Breath
+Fireballs at 125 Stacks: 2 (+1 per 100 Dragon Patience Stacks) ⇒ 1 (+1 per 67 Dragon Patience Stacks)
+QoL Update: If a minion dies while Smolder's Q is in flight towards it, Smolder will still receive a Dragon Patience stack.
+W - Achooo!
+Cooldown: 13/12.5/12/11.5/11 seconds ⇒ 14/13/12/11/10 seconds
+Initial Physical Damage: 70/90/110/130/150 (+25% AD) (+35% AP) ⇒ 50/80/110/140/170 (+25% AD) (+20% AP)
+Explosion Physical Damage: 25/40/55/70/85 (+65% AP) ⇒ 25/40/55/70/85 (+25% bonus AD) (+80% AP)
+R - MMOOOMMMM!
+Fiery Fury: Smolder's Mom will no longer stop if Smolder dies. But she will be VERY angry. Shame on you.
+Soraka
+Passive movement speed increased. Q heal increased. E bugfix. R cooldown decreased.
+Soraka is another champion still struggling to find her place within the new item system. Now that she has space for buffs, we want to give her some that Soraka players will find effective and fun—20% faster bananambulance anyone?
+Passive - Salvation
+Bonus Movement Speed: 70% ⇒ 90%
+Q - Starcall
+Total Heal: 50/65/80/95/110 (+30% AP) ⇒ 60/75/90/105/120 (+30% AP)
+E - Equinox
+Bugfix: E now silences enemies in the area instantly rather than after a variable delay.
+R - Wish
+Cooldown: 160/145/130 seconds ⇒ 150/135/120 seconds
+Thresh
+Base armor increased. E damage increased. R cooldown decreased.
+With the changes to support itemization, Thresh is falling off faster in the midgame than he was in the previous seasons and we're looking to give him some power in the areas we feel he's most lacking. We'd like for him to be more able to aggressively take trades and use The Box in lane. Also, Flay isn't quite as good as a second max as we'd like, so we're giving it a bit of damage.
+Base Stats
+Base Armor: 28 ⇒ 31
+E - Flay
+Magic Damage: 75/115/155/195/235 (+70% AP) ⇒ 75/120/165/210/255 (+70% AP)
+R - The Box
+Cooldown: 140/120/100 seconds ⇒ 120/100/80 seconds
+Twisted Fate
+Attack speed growth decreased. W blue card damage decreased. E damage decreased.
+Twisted Fate's update from 14.2 has done wonders for revitalizing his player base, having about three times as many players than before the start of the season. However, he's also dealing more damage than before and his opponents have begun to take notice. We don't think he's significantly over the line, but both his AP and AD builds are performing a little stronger than they should so we're stacking his deck a little less.
+Base Stats
+Attack Speed Growth: 3% ⇒ 2.5%
+W - Pick A Card
+Magic Damage: 40/60/80/100/120 (+100% AD) (+115% AP) ⇒ 40/60/80/100/120 (+100% AD) (+100% AP)
+E - Stacked Deck
+Bonus Magic Damage: 65/90/115/140/165 (+75% bonus AD) (+50% AP) ⇒ 65/90/115/140/165 (+75% bonus AD) (+40% AP)
+Varus
+Base AD decreased.
+Varus currently has two viable builds: Lethality and on-hit. But despite being relatively balanced for the vast majority of players, he's dominating Pro play drafts. In order to address this, we're toning down a Pro-specific strength that will impact his early laning phase.
+Base Stats
+Base Attack Damage: 62 ⇒ 60
+Volibear
+Q bonus movement speed increased. E cooldown decreased. R turret disable duration decreased, cooldown decreased, crowd control resistances during leap adjusted.
+Volibear is struggling and we'll be helping him out. We think that his R is a supremely cool moment for Volibear players, but the ability to disable turrets can remove his opponents' access to counterplay. In order to give Voli players more agency and more frequent access to his ultimate, we're trading some of his turret disabling power and CC immunity for a cooldown decrease. We're also including a Q movement speed buff so he can reach his targets more consistently, and a slight E cooldown buff for the magic wizard bears out there.
+Q - Thundering Smash
+Bonus Movement Speed: 8/12/16/20/24% ⇒ 12/16/20/24/28% (Note: this bonus is still doubled when moving towards an enemy champion.)
+E - Sky Splitter
+Cooldown: 13 seconds ⇒ 12 seconds
+R - Stormbringer
+Turret Disable Duration: 3/4/5 seconds ⇒ 2/3/4 seconds
+Cooldown: 160/140/120 seconds ⇒ 130/115/100 seconds
+Crowd Control Resistances during Leap: Crowd Control Immune ⇒ Unstoppable
+Zyra
+Passive plant damage decreased, bonus damage to non-epic monsters increased.
+Zyra is currently overperforming as a support, but at the same time, as a plant champion, we want her to feel at home in the jungle. Just like Ivern and Maokai and Lillia. These buffs should help her find her roots in the jungle without giving her too much early power to take into the bot lane.
+Passive - Garden of Thorns
+Plant Magic Damage: 20-88 (based on level) (+18% AP) ⇒ 16-84 (based on level) (+18% AP)
+Bonus Damage to Non-Epic Monsters: 40-100 (based on level) ⇒ 60-100 (based on level)
+Items
+BLACK CLEAVER
+
+Black Cleaver is currently a bit underwhelming compared to other fighter itemization options in the game. And while we don't think it needs to be the default fighter item (League of Cleavers anyone?), we want to make sure it still feels worth picking up for the champions that appreciate it. To that end, we're giving Black Cleaver quite a few minor buffs that should make the item feel better for its users.
+Item Recipe: Phage + Kindlegem + Long Sword + 750 gold ⇒ Phage + Caulfield's Warhammer + Ruby Crystal + 400 gold
+Carve Armor Reduction per Stack: 4% ⇒ 5%
+Maximum Carve Stacks: 6 ⇒ 5
+Maximum Armor Reduction: 24% ⇒ 25%
+Fervor Bonus Movement Speed: 20 (melee) / 10 (ranged) ⇒ 20 for all champions
+Fervor Proc Conditions: On dealing Physical Damage that bypasses shields/invulnerability ⇒ All physical damage, even if mitigated.
+HULLBREAKER
+
+Hullbreaker currently has an extremely strong interaction with Urgot that makes him deal full damage with it through his W, Purge. We're changing Hullbreaker under the hood to interact properly with Urgot's on-hit damage reduction.
+newAttack Adjustment: Hullbreaker is now an on-hit item instead of an on-attack item.
+RAVENOUS HYDRA
+
+While all of the other Tiamat items have managed to find their respective niches within the item system, Ravenous Hydra in comparison is less powerful and less exciting in its current state. Our goal is for Ravenous to stand shoulder to shoulder with its counterparts, so in this patch we'll be leaning into its niche as the premier caster healing item, but in a way that doesn't have the same inherent problems that Goredrinker did.
+newRavenous Crescent Lifesteal: Ravenous Hydra now applies Lifesteal to its Ravenous Crescent active at 150% effectiveness
+STRIDEBREAKER
+
+Though we think Stridebreaker is appropriately powerful in its current state, it has a few bugs and pain points that keep it from feeling as good as it could. Though we may need to nerf Stridebreaker in the future, we don't want to let that get in the way of cleaning up some functionality so it can feel better today.
+Bugfix: Passive movement speed is applied as soon as you deal damage instead of after a short delay and now functions even if the damage is shielded.
+Bugfix: Active movement speed now properly decays over the full duration of 3 seconds instead of decaying to 0 over 1.75 seconds.
+Bugfix: Active movement speed now displays a buff icon for its duration.
+TERMINUS
+
+Terminus has cultivated a group of core users by being a source of percent penetration and durability for on-hit champions. While that's great, it's been pretty unsatisfying, and in some cases unapproachable, due to how long the item takes to stack up. In this patch, we're quickening its stack rate so that champions can use it at full power for more time in fights.
+Item Recipe: Recurve Bow + B.F. Sword + Dagger + 700 gold ⇒ Recurve Bow + B.F. Sword + Recurve Bow + 300 gold
+Juxtaposition Stack Cap: 5 each (10 total) ⇒ 3 each (6 total)
+Bonus Armor and MR per Stack: 3/4/5 (levels 1/11/14) ⇒ 6/7/8 (levels 1/11/14)
+Maximum Bonus Armor and MR: 15/20/25 (based on level) ⇒ 18/21/24 (based on level)
+Percent Armor and MR Penetration per Stack: 6% ⇒ 10%
+Maximum Percent Armor and MR Penetration: 30% (unchanged)
+Support Items
+Supports got a lot more powerful in 14.1, largely due to gaining much more gold income and having overall stronger Sightstone items. Now that they're gaining a more or less complete item early on, we'd like to shift around their power curves to make them closer to other champions' power levels at various points in time.
+
+Because their first legendary comes online at a similar time to their finished support item and other champions' first items, there's too much of an early power spike. Conversely, since they're permanently down an item slot in the late game, we'd like if they felt stronger than they currently do on completed builds. Thus, we're shifting some of these items toward a more scaling profile to keep up with the game as it goes late without being as strong initially.
+
+We're also doing some clean up on the timing of when stacks come online. You'll now begin getting stacks sooner in the game with the second stack showing up about ten seconds into the second minion wave. This should still give players plenty of room to fight over wave control without executes winning the push by default. We're also specifically target nerfing the ability to start with a Doran's item only to receive all three stacks when purchasing the item later in the game, as it made many supports overly powerful in the early laning phase.
+WORLD ATLAS
+Quest Charge Cooldown: 18 seconds ⇒ 20 seconds
+First Quest Charge Generated: 2:08 ⇒ 1:50 in-game time
+removedBuy Now!: World Atlas will no longer provide bonus stacks if purchased later in the game.
+RUNIC COMPASS
+Quest Charge Cooldown: 18 seconds ⇒ 20 seconds
+BOUNTY OF WORLDS
+Health: 100 ⇒ 200
+Health and Mana Regeneration: 50% ⇒ 75%
+BLOODSONG
+Ranged Damage Amplification: 6% ⇒ 5%
+SOLSTICE SLEIGH
+Going Sledding Heal: 120 health ⇒ 7% of user's maximum health
+Going Sledding Movement Speed: +90 flat move speed, decaying over 4 seconds ⇒ 30% bonus move speed, decaying over 3 seconds
+ZAZ'ZAK'S REALMSPIKE
+Void Explosion Cooldown: 9-6 (based on level) ⇒ 8/7/6 (levels 1/11/16)
+Void Explosion Damage: 50 (+15% AP) (+3% of target's maximum health) ⇒ 20 (+20% AP) (+4% of target's maximum health)
+Lost Chapter Items
+Despite lowering gold costs of Lost Chapter items in patch 14.3, most mages are still performing a little worse on their first item power spike than we'd like them to. With this in mind, we're taking the changes last patch a bit further by giving a bit of extra Ability Haste to these items so mana mages can do their magic spell thing a bit more often.
+ARCHANGEL'S STAFF / SERAPH'S EMBRACE
+Ability Haste: 20 ⇒ 25
+LUDEN'S COMPANION
+Ability Haste: 20 ⇒ 25
+MALIGNANCE
+Ability Haste: 20 ⇒ 25
+Runes
+LETHAL TEMPO
+
+In this patch we'll be bringing down the power of Lethal Tempo for its melee users due to it dominating early game fights. We'll be giving the Rune some compensation buffs that will help its late game, but our goal is to reduce how reliable certain champions are with it in their early laning. With that in mind, we're going to monitor how these changes affect users and make adjustments where needed in the future.
+Melee Attack Speed per Stack: 9-13.5% (based on level) ⇒ 5-16% (based on level)
+We're also updating some in-game rune trackers to showcase more relevant information
+GRASP OF THE UNDYING
+Damage Done ⇒ Total Max Health gained
+LEGEND: ALACRITY
+Progress to Next Stack ⇒ Attack Speed gained
+OVERHEAL
+Total Shield Created ⇒ Damage Blocked
+Fountain Regeneration
+In this patch, we'll be increasing fountain healing with the goal of slightly reducing how much time players need to spend in base at the early stages of the game. We think that the time players spend finding a safe spot to recall, recalling, waiting in the fountain to heal, and walking back to lane do a good job of creating opportunity costs for recalls. But there's a bit of room to speed this up to help pacing feel more consistent.
+Health Regeneration per 0.25 seconds: 2.1% of maximum health ⇒ 2.6% of maximum health
+Tether Ability Changes
+Have you ever had a moment where a LeBlanc E or Morgana ultimate tether was attached to you, but you saved your flash to get out of range at the last second only to get stunned anyway? This type of situation occurred with tethers due to the use of server frame checking which resulted in server ticks where the tether range was exceeded but did not break. In this patch, we're updating tethers to use area checking, which means that they should now break instantly, making these abilities more responsive and consistent when you're playing against them. While this may result in a small power loss for these champions, we'll be keeping an eye on them to see if any compensation buffs are necessary in future patches.
+Aatrox W (Note: Fixed a bug where the tether pull could sometimes ignore the tether range check in the last 0.25 seconds.)
+Fiddlesticks W (Note: Tether break range (not cast range) increased from 700 to 725 units.)
+Illaoi E
+Karma W and R+W
+Kled Q (Note: This ability cannot use area checking due to its changing tether range, however it now checks the range 20x per second instead of 4x per second.)
+LeBlanc E and R+E (Note: There is a 0.25 second grace period on hitting LeBlanc E + RE before the tether will break visually. This is intended so that the players can see that the tether hit a target, but it does mean that for 0.25s the tether will be attached and out of range.)
+Nocturne E
+Morgana R
+Renata Glasc Q
+Zac Q (Note: Tether check changed from center check to edge check, tether range decreased from 1000 to 900.)
+Red Side Camera Adjustments
+
+The red team offset camera option has been adjusted to show more vision on the bottom of the screen compared to Live. This is intended to increase visibility for those who use this option as the UI should now take up less of the space you'd normally be clicking on. The left is before while the right image is after.
+ARAM Balance Changes
+In this batch of changes, we're looking to reduce the power of some of the most powerful champions in Howling Abyss (your day of reckoning has come Illaoi) while helping out mages that were negatively affected by the item balance changes in the last patch. Overall, we believe item balance on ARAM is in a relatively good place. We have a few on our radar that are strong like Sundered Sky (whose strongest users are seeing nerfs this patch), but no outliers that are overpowered compared to the performance of other items on their best champions. That said, we'll take another look at those items if these nerfs don't pan out as intended.
+
+And last but not least, we have some bugfixes to Malignance and Ornn item upgrades that were causing them to deal incorrect amounts of damage.
+BUFFS
+Annie: Shielding Done: 80% ⇒ 90%
+Lissandra: Damage Dealt: 90% ⇒ 95%
+Naafiri: Damage Taken: 105% ⇒ 100%
+Syndra: Ability Haste: 0 ⇒ 15
+Xerath: Damage Dealt: 90% ⇒ 93%
+NERFS
+Aatrox: Tenacity: 120% ⇒ 100%
+Briar: Healing Done: 130% ⇒ 115%; Damage Taken: 95% ⇒ 100%
+Gragas: Damage Dealt: 105% ⇒ 100%
+Illaoi: Damage Taken: 105% ⇒ 110%; Healing Done: 100% ⇒ 90%
+Rek'Sai: Healing Done: 120% ⇒ 100%; Tenacity: 120% ⇒ 100%
+Sivir: Damage Taken: 105% ⇒ 108%; Damage Dealt: 92% ⇒ 90%
+Xin Zhao: Damage Dealt: 100% ⇒ 95%
+Hubris Bonus AD: 15 (+2 per statue rank) ⇒ 10 (+1 per statue rank) (Note: This change went live in patch 14.3 but was mistakenly not documented in the patch notes.)
+BUGFIXES
+Malignance: Fixed a bug that caused the 14.3 changes to the item to not take effect. It should now correctly deal 40 (+2.8% AP) damage.
+Ornn Items: Fixed a bug that caused the Ornn items Enmity of the Masses, Ataraxis, and Heavensfall to deal damage based on their Summoner's Rift values and not the adjusted ARAM values.
+Ranked LP Gains
+The changes that gave players below Emerald +/- 28 LP per win/loss have resulted in promotions and demotions being too streaky, resulting in an increased frequency of players losing more LP than they gain. With patch 14.4, we'll be reverting back to +/-25 LP per win/loss to make climbing a bit more consistent and reduce instances of players getting into negative LP states.
+Quickplay
+Quickplay Loadout Swap Slots Functionality: One button press now completely swaps all settings between the two slots, which should help reduce the number of steps it takes to swap your primary and secondary settings.
+Quickplay Priority Roles and Position Selector UI: We made some visual improvements to reduce confusion when interacting with the role selections UI. The improved visual clarity for Priority Roles has also been applied to other Summoner's Rift queues that use pre-game role selection.
+Quickplay Error Messaging: The notification for invalid champion selection has been improved with detailed requirements as to what is causing the error.
+Clash - Shurima Cup
+Our next Clash tournament, the Shurima Cup, kicks off this weekend!
+Registration Begins: February 19 @ 11:00 AM (Local Time)
+Tournament Dates: February 24 and 25 (~4-7 PM Local Time, varies by region)
+Mythic Shop Rotation
+NOW AVAILABLE
+
+Prestige Porcelain Kindred is here! We're trying something new with Lunar Revel 2024 in that the second Prestige skin will be available for 125 Mythic Essence instead of event tokens. If you're looking to pick up this skin, make sure to do so before Wolf & Lamb depart in patch 14.6.
+Prestige Mythmaker Sivir
+Prestige K/DA Ahri
+Prestige Battle Academia Leona
+Prestige Star Guardian Neeko
+Prestige Porcelain Kindred
+LEAVING THE MYTHIC SHOP
+Prestige Empyrean K'Sante
+Prestige PROJECT Zed
+Prestige Pulsefire Thresh
+Prestige Conqueror Jax
+Bugfixes & QoL Changes
+Fixed a bug that caused slain Voidgrubs to update the opposing team's scoreboard despite not having vision of the objective being taken.
+Fixed a bug that caused World Atlas' passive to be triggered but not consume quest stacks or share gold if the allied champion was at the edge of the item's passive range.
+Fistbumps now include system messages for both the initiator and team members to provide greater visibility into fistbump actions and how to respond.
+Golden Ratio Quest: Hwei's R now has a 3 second forgiveness window for him to kill Jhin for quest completion when damaging Jhin with Spiraling Despair.
+Fixed a bug that caused Aatrox's passive proc to reduce its own cooldown. Aatrox's passive cooldown has been adjusted to make this bugfix power neutral.
+Fixed a bug that caused champions to be able to purchase Hydra items when they had the Ornn upgrade, Dreamshatter, equipped.
+Fixed a bug that caused Spear of Shojin's Ranged and Melee modifiers in the item's description to reflect differences, despite the two intended to be the same.
+Fixed a bug that caused Smolder's ultimate SFX to play louder than intended in spectator mode.
+Fixed a bug that caused Sett's Q damage cap against monsters to be applied to the total damage and not just the bonus damage.
+Fixed a bug that caused Neeko's W clone to not initially move and teleport instantly when you changed its direction.
+Fixed a bug that caused champions to play their voice lines directed at Void champions when interacting with Smolder.
+Fixed a bug that caused linger VFX to follow Quinn while in her ultimate form.
+Fixed a bug that caused Smolder to be unable to fly over Yorick's W wall with his E.
+Fixed a bug that caused the scoreboard to not properly display the dragon soul icon and effect text in game.
+Fixed a bug that caused Illaoi's passive tentacles and E tentacles to use different sizes.
+Fixed a rare bug that rarely let Viego be able to possess two champions at once.
+Fixed a bug that caused Smolder's R to sometimes crash the game under specific circumstances.
+Fixed a bug that caused Serpent's Fang to not immediately reduce shields if the attack had an on-hit effect.
+Fixed a bug that caused Nami E and Annie E, when cast on Annie right before Tibbers despawned, resulting in damage being reflected back to the allied Nami.
+Fixed a bug that caused Brand's W border ring VFX to not display on lower graphic settings when using specific skins.
+Fixed a bug that caused Sheen to not display in the Ability Haste section of the item shop.
+Fixed a bug that caused Malignance's Hatefog passive, when activated by a damage over time ultimate, to cause a blank debuff to appear on the target.
+Fixed a bug that caused Kaenic Rookern's health bar visuals to not appear for form swapping champions.
+Fixed a bug that caused Hollow Radiance's damage tracker to not specify which damage it was tracking and only track burn damage and not on-kill burst damage.
+Fixed a bug that caused scoreboard tooltips to not update when pressing shift to show extended tooltips.
+Fixed a bug that caused Briar's tooltip to only mention reducing Armor Reduction despite also lowering Magic Resistance.
+Fixed a bug that caused allied champion icons to be flipped if the minimap was placed on the left side of the screen.
+Fixed a bug that caused Smolder to become stuck within impassable terrain when hit by Rift Herald's charge.
+Fixed a bug that caused Stridebreaker to display in the Ability Haste section of the item shop.
+Fixed a bug that caused Heavenscale Smolder's respawn VFX timing and SFX to be used during his recall animation.
+Fixed a bug that caused all Hydra items' range indicators to not match the in-game area of effect.
+Fixed a bug that caused Voidmites to spawn when very far away from a structure.
+Fixed a bug that caused various clipping animations with Smolder.
+Fixed a bug where Winterblessed Diana's large area VFX over Summoner's Rift when getting a Pentakill on river terrain does not fully render.
+Fixed a bug where Winterblessed Diana's large area VFX over Summoner's Rift when getting a Pentakill renders slightly higher than intended on normal elevated terrain.
+Fixed a bug where Dunkmaster Darius' first encounter VO was not playing as intended for Amumu, Maokai, and Sona.
+Fixed a bug where Spirit Blossom Darius' Crippling Strike (W) VFX was rendering over impassable terrain.
+Fixed a bug where PROJECT: Mordekaiser and Divine Sword Irelia's Homeguard run VFX was appearing more intense than intended.
+Fixed a bug where Dawnbringer Morgana's Black Shield (E) VFX was not disappearing smoothly when destroyed.
+Fixed a bug where Infiltrator Irelia's Ionian Fervor (P) VFX was not shifting color at max stacks.
+Upcoming Skins & Chromas
+The following skins will be released in this patch:
+Porcelain Protector Aurelion Sol
+Victorious Tryndamere
+Porcelain Darius
+Porcelain Graves
+Porcelain Morgana
+Porcelain Miss Fortune
+Porcelain Irelia
+Prestige Porcelain Kindred
+While you'll be seeing previous years' Porcelain skin chromas and icons come back this patch, we unfortunately ran into some small issues affecting the newest batch (Porcelain Aurelion Sol, Darius, Graves, Morgana, Miss Fortune, and Irelia). The new chromas will still be available in the store for RP purchase in 14.4, but the new chromas within the event shop will not appear until patch 14.5. We appreciate your patience as we work to get these chromas to you!
+The following chromas will be released this patch:
+Victorious Tryndamere
+PATCH 14.4 NOTES
+PATCH HIGHLIGHTS
+VANGUARD
+WINDOWS MIN SPEC UPDATE
+CHAMPIONS
+ITEMS
+SUPPORT ITEMS
+LOST CHAPTER ITEMS
+RUNES
+FOUNTAIN REGENERATION
+TETHER ABILITY CHANGES
+RED SIDE CAMERA ADJUSTMENTS
+ARAM BALANCE CHANGES
+RANKED LP GAINS
+QUICKPLAY
+CLASH - SHURIMA CUP
+MYTHIC SHOP ROTATION
+BUGFIXES & QOL CHANGES
+UPCOMING SKINS & CHROMAS
+Tags:
+Patch Notes
+SHARE THIS ARTICLE
+mainLogoRiotFist21
+mainMenuDownNonHover
+GAME
+CHAMPIONS
+NEWS
+PATCH NOTES
+DISCOVER
+ESPORTS
+UNIVERSE
+MERCH
+SUPPORT
+SIGN IN
+PLAY NOW
+ABOUT LEAGUE OF LEGENDS
+HELP US IMPROVE
+SERVER STATUS
+SUPPORT
+ESPORTS PRO SITE
+DOWNLOAD RIOT MOBILE COMPANION APP
+Riot Games riotLogo-mobile21
+™ & © 2024 Riot Games, Inc. League of Legends and all related logos, characters, names and distinctive likenesses thereof are exclusive property of Riot Games, Inc. All Rights Reserved.
+PRIVACY NOTICE
+TERMS OF SERVICE
+COOKIE POLICY
+COMPANY INFORMATION
+COOKIE PREFERENCES

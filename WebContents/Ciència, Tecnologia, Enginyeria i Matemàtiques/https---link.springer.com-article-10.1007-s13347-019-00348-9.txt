@@ -1,0 +1,524 @@
+Skip to main content
+Log in
+Find a journal
+Publish with us
+Track your research
+Search
+Cart
+Home Philosophy & Technology Article
+Technology and Mathematics
+Research Article
+Open access
+Published: 26 April 2019
+Volume 33, pages 117–139, (2020)
+Cite this article
+Download PDF
+You have full access to this
+open access
+article
+Philosophy & Technology
+Aims and scope
+Submit manuscript
+Sven Ove Hansson 
+129k Accesses
+12 Citations
+5 Altmetric
+Explore all metrics
+Abstract
+In spite of their practical importance, the connections between technology and mathematics have not received much scholarly attention. This article begins by outlining how the technology–mathematics relationship has developed, from the use of simple aide-mémoires for counting and arithmetic, via the use of mathematics in weaving, building and other trades, and the introduction of calculus to solve technological problems, to the modern use of computers to solve both technological and mathematical problems. Three important philosophical issues emerge from this historical résumé: how mathematical knowledge depends on technology, the definition of the hybrid concept of a (technological) computation, and the (perhaps surprising) usefulness of mathematics in technology. Each of these issues is briefly discussed, and it is shown that in order to analyze them, we need to combine tools and ideas from both the philosophy of technology and the philosophy of mathematics. In conclusion, it is argued that much more of interest can be found in the historically and philosophically unexplored terrains of the technology–mathematics relationship.
+Similar content being viewed by others
+Science and Technology: What They Are and Why Their Relation Matters
+Chapter © 2015
+Heidegger and the Reversed Order of Science and Technology
+Chapter © 2014
+The Idea of Technology in Scientific Knowledge
+Chapter © 2017
+1 Introduction
+There is a considerable literature on the relationship between technology and science, but as yet not much has been written on that between technology and mathematics. Nevertheless, they are closely connected in several ways. Modern technology would be unthinkable without mathematics. The relationship is reciprocal, since mathematics also needs technology. Today, mathematicians use computers not only for calculations, but also for numerous other tasks, including the search for proofs, validations, and counter-examples.
+This introduction to the technology−mathematics relationship starts with four sections summarizing its historical development, from the early technological tools for counting and arithmetic (Section 2), via the use of increasingly advanced mathematics in practical trades and in engineering (Section 3), to the development of computers (Section 4), and their use to solve mathematical tasks that could never have been solved without them (Section 5). Three major philosophical issues that emerge from this historical outline are summarized (Section 6) and then presented in somewhat more detail: how mathematical knowledge depends on technology (Section 7), the concept of a (technological) computation (Section 8), and the reason why mathematics is so useful in technology (Section 9). Finally, some conclusions are drawn on the need for further research (Section 10).
+2 How it All Began
+We usually see mathematics as concerned with concepts and arguments that are totally independent of material reality. Mathematics should be equally accessible to a “brain in a vat” as it is to our own embodied brains. But in practice, we rely heavily on aide-mémoires in the form of notes on paper, blackboards, and computer screens. It has been like that since the very beginning of mathematics.
+The art of counting is arguably the most fundamental mathematical procedure. We are not born with that ability. It had to be invented, and now it has to be passed on from generation to generation. It is known in the vast majority of human communities, but not in all of them (Pica et al. 2004; Dehaene et al. 2008). When counting, we often take the help of one-to-one correspondences with sets of small objects such as stones, twigs, or pieces of wood. For instance, inhabitants of the Nggela Islands (part of Solomon Islands) keep track of the number of guests at a feast by collecting a small item from each of them as they arrive (Sizer 2000, p. 260).
+If we want to keep numbers in memory over a long period of time, collections of loose objects are not reliable enough. More durable notes are needed. Notches on objects such as bones or pieces of wood have been used for that purpose in many parts of the world (Sizer 2000, p. 260). A small bone about 11,000 years old that was found in Congo has three columns with in total 167 tally marks (Huylebrouck 1996).1 Knots on strings have been used in many cultures for the same purpose (Jacobsen 1983; Sizer 2000). The Incas used sets of connected knotted strings (khipus) for bookkeeping and taxation purposes (Urton and Brezine 2005; Gilsdorf 2010). In some cultures, warriors made cuts on their own bodies, or those of their wives, to keep track of how many enemies they had slain (Lagercrantz 1973).
+Notches and knots provide more reliable and long-lasting records of numbers than stones and sticks, but the latter have the advantage of being more suitable for supporting arithmetical operations such as addition and subtraction. The use of small movable objects to perform arithmetic is well-known from preliterate societies (Sizer 1991, p. 54). In several cultures, this practice was developed into more sophisticated devices, such as counting boards with a positional system. On a counting-board, a single pebble could represent numbers higher than 1, such as 5, 10, or 50, depending on its place on the board. Such counting boards were used by the ancient Greeks (Melville 2015) and, according to Herodotos, by the Egyptians as well (Lang 1957). The Romans used a hand-held abacus, the size of a modern pocket calculator or large smartphone (Menninger 1992, p. 305). The movable pebbles (calculi) on the abacus gave rise to our word “calculation.” Similar devices are also known from medieval Europe (Periton 2015) and from the major ancient Asian and Latin American civilizations.
+The philosophical lesson from the history of these devices is that from the very beginnings of mathematics, the reliability of our mathematical operations depends crucially on the stability and durability of the technological devices we use to support them. Ancient calculators assumed that the pebbles did not move around by themselves on the counting board or abacus. Today, when performing pen and paper calculations, we assume that the numbers we write stay the same when we do not look at them. From a practical point of view, these are trivial assumptions, but from an epistemological point of view they are worth paying attention to. They show that the common conception of mathematical knowledge as independent of physical reality is in these respects an idealization. As will be discussed in Sections 5 and 7, the use of electronic computers has further exacerbated this age-old, but previously, mostly ignored, problem in mathematical epistemology.
+3 The Use of Mathematics in Technology
+Already in preliterate societies, many technological activities required mathematical thinking.2 A prime example is the concept of proportions. It is needed in cooking and in the production of various mixed materials such as glue, mortar, ceramics, glass, and not least alloys. For instance, several ancient civilizations were able to produce bronze with a remarkably optimized and constant composition, something they could hardly have achieved without mastering the arithmetic of proportionality (Malina 1983).
+One of the foremost early uses of mathematics evolved in the craft of weaving. Textiles about 12,000 years old have been found in northern Peru (Jolie et al. 2011), and even older imprints of woven material have been found at other sites. Advanced hand-weaving traditions have survived in all parts of the world. Women in many of these cultures weave complex, often geometrical, patterns with intricate symmetries. By combining geometric and arithmetic insights, they have devised the number series and other numerical relationships that give rise to the desired patterns. In many traditional cultures, the most advanced mathematical activities are performed by female weavers (Karlslake 1987, p. 394; Gerdes 2000; Harris 1987; Gilsdorf 2014). Mathematics is also involved in other textile-related activities such as braiding, beadwork, basketry, and the traditionally male activity of rope-making (Chahine 2013; Albanese 2015; Albanese et al. 2014; Albanese and Perales 2014).
+Geometrical knowledge is also highly needed in construction work. In several indigenous cultures, builders have traditional knowledge of how to make a small house rectangular (make the beams of each pair of opposite sides equally long, and then make sure that the diagonals have equal length) (Sizer 1991, p. 56). More advanced building work requires more advanced geometry. For instance, scribes in ancient Egypt were trained to calculate the height of a pyramid, given its edge and how much the side slanted. For this purpose, they used a method for angular measurement that was based on the horizontal displacement projected from a sloped object (Imhausen 2006, p. 21). Geometrical knowledge was also needed in surveying, an activity that was much in demand due to the annual inundation of the Nile. Each year, agricultural fields had to be reconstructed, and often redistributed. To do this, surveyors had to calculate the areas of fields with different shapes (Barnard 2014).
+One of the most important mathematical achievements of the ancients was the rigorous use of ruler-and-compass construction, which was developed by Euclid (fl. 300 BCE) and other Greek geometers to an impressive level of mathematical sophistication and refinement. The ruler and the compass were also used by craftsmen as highly practical tools for building construction. The compass may have been a Greek invention. At any rate, the Egyptians do not seem to have had it (Shelby 1965). We do not know if ruler-and-compass construction was invented by learned geometers and then adopted by craftsmen, or if it was the other way around.3 Irrespective of that, the method is most useful for both purposes. Moroccan carpenters still construct complex geometrical patterns with ruler-and-compass methods of ancient origin (Aboufadil et al. 2013). In the Greek village Pyrgi, house façades are decorated with geometrical patterns made by craftsmen who have learned the ruler-and-compass methods by apprenticeship (Stathopoulou 2006).
+In the Middle Ages, the study of ruler-and-compass constructions in learned mathematics did not go much beyond what had already been achieved in antiquity. In contrast, its application in the building trades reached new heights. Master builders used it to construct complex geometrical patterns on the walls and ceilings of Islamic buildings (Hankin 1925; Thalal et al. 2011). One of the most impressive examples of their geometric knowledge can be found in the shrine of Darb-i Imam in Isfahan, Iran, which was constructed in 1453. Parts of its walls are covered by quasi-crystalline tilings, i.e., tilings that fill the plane perfectly, but do not repeat themselves regularly like the more common types of tiling (Lu and Steinhardt 2007). Such patterns were not understood mathematically until five centuries later. Unfortunately, we do not know the mathematical thinking behind this remarkable achievement.
+The great cathedrals of the High and Late Middle Ages contain many impressive examples of ruler-and-compass constructions. Perhaps most conspicuous among these are the large rose windows, i.e., round windows with symmetrically arranged stone rib work. For instance, the Orvieto Cathedral has a monumental rose window from the fourteenth century, formed as a regular 22-sided polygon (icosikaidigon). We now know that this shape cannot be constructed exactly with a compass and a straightedge. Detailed measurements indicate that it was created with the help of a fairly advanced approximate ruler-and-compass method (Ginovart et al. 2016).
+These advanced geometrical constructions were performed by master masons who had no formal mathematical schooling. They learned geometry in the same way as everything else that their trade required, namely through oral transmission from master to apprentice. A few contacts between craftspeople and learned geometers have been documented, but we do not know how common such contacts were.4 The social distance between the learned and the laboring classes was certainly a hindrance.
+In the sixteenth century, when Gothic building came to an end, much of the knowledge accumulated by its master builders seems to have been lost. However, some rudiments have been preserved in written form and, even more importantly, the outcomes of their work have largely been preserved.5 We know much less about the use of mathematics in most other medieval crafts.6
+Beginning around the middle of the seventeenth century, scholars with a mathematical education published treatises in which they applied the advanced mathematics of their time, in particular, mathematical analysis, to technological problems (Klemm 1966). Some of these treatises dealt with what we would today call structural mechanics (Heyman 2014). In the following century, the French military engineer Bernard Forest de Bélidor (1698–1761) published a famous four-volume book, L’architecture hydraulique (1737, 1739, 1750, and 1753), which marked a new level in the systematic application of integral calculus to engineering problems. In 1773, the physicist Charles-Augustin de Coulomb (1736–1806), who is now best known for his work on electricity, published his Essai sur une application des règles de maximis et de minimis à quelques problèmes de Statique relatifs à l’Architecture, in which he applied mathematical analysis in innovative ways to problems in structural mechanics. In 1775, the Swedish ship builder Fredrik Henrik af Chapman published a treatise on naval architecture that made use of Thomas Simpson’s method for the approximation of integrals (Harris 2001).
+In 1794, the importance of these developments was confirmed through the foundation of the first civilian school for engineering, the École polytechnique in Paris (Grattan-Guinness 2005). It was led by Gaspard Monge (1746–1818), an able mathematician and a Jacobin politician. He was determined to use mathematics and the natural sciences as the basis of engineering education. About a third of the curriculum hours were devoted to mathematics (Purkert and Hensel 1986, pp. 27 and 30-35). Monge also developed a new discipline, descriptive geometry, which provided a mathematical basis for technical drawing (Lawrence 2003; Klemm 1966).
+The École polytechnique was the model used when, beginning in the 1820s, polytechnical schools were created throughout Europe and also in the USA (Purkert 1990, p. 180); Schubring (1990, p. 273); Scharlau (1990). The new schools all followed the French example in providing their students with a considerable amount of mathematics and natural science. These educational efforts answered to an increasing need in engineering practice. The use of mathematical methods for various practical engineering tasks increased throughout the nineteenth century. Treatises and textbooks were published on the application of mathematics to technological topics such as optics, structural mechanics, building construction, machine construction, shipbuilding, and engineering thermodynamics (Klemm 1966). This development has accelerated in the twentieth and twenty-first centuries. Present-day technology is largely based on scientific theories such as solid and fluid mechanics, electrodynamics, thermodynamics, and quantum mechanics, all of which require considerable mathematical training. Engineers also need additional mathematical tools, for instance for simulation, optimization, control theory, and statistical analysis. In short, mathematical methods appear to be much more useful than in many other knowledge areas.7
+In this long history of ever-increasing mathematization of technology, there have been a few pockets of resistance against the increased reliance on mathematics (Dubourg Glatigny 2014; Hansson 2018c). However, such resistance has been short-lived and does not seem to have had any lasting influence. The efficiency and usefulness of mathematical methods seem to have been irresistible. From a philosophical point of view, this raises the question how we can understand and explain this efficiency, a topic to which we will return in Section 9.
+4 The Use of Technology in Mathematics
+During most of this long development, with a steadily increased use of mathematics in technology, the converse relationship did not develop much. For many centuries, the use of technology in mathematics did not develop beyond the abacus. In the seventeenth century, several calculating machines using rotating wheels were presented. Wilhelm Schickard (1592–1635) was probably the first inventor to propose such a machine, and Blaise Pascal (1623–1662) and Gottfried Wilhelm Leibniz (1646–1716) the most famous ones (Lenzen 2018). However, due to technical problems, these machines remained rarities without much practical usage. Commercial production and widespread use of mechanical calculators only began in the second half of the nineteenth century (Swade 2011, 2018). Several large calculation projects were performed in the eighteenth and nineteenth centuries, mostly to produce mathematical and astronomical tables, but they relied entirely on manual work. Calculation tasks were divided into a large number of elementary operations (often just additions and subtractions), which were then distributed among a large number of computists. For instance, a large French computation project in the 1790s employed around 70 computists, many of whom were female hairdressers who had lost their previous employment when time-consuming Ancien Régime hairstyles were no longer in demand (Grattan-Guinness 1990; Grier 2005).
+The first serious attempts at automatic computations were made by the English mathematician Charles Babbage (1791–1871). He invented two general-purpose computational machines, the difference engine in the early 1820s and the programmable analytical engine in 1834. The analytical machine would be controlled by instructions—what we now call programs—on punched cards. Neither of these machines was completed in his lifetime, but they showed the way for future developments.8 They also exhibited what Doron Swade (2018) calls a “two-way relationship between mathematics and machine.” On the one hand, the machine was based on mathematical principles that had been developed previously to organize the work of human computists. On the other hand, the technological principles inherent in the machine inspired new mathematical ideas. In fact, they gave rise to an entirely new vision of mathematical operations, perhaps best expressed by Babbage’s collaborator Ada Lovelace (1815–1852):
+“It may be desirable to explain, that by the word operation, we mean any process which alters the mutual relation of two or more things, be this relation of what kind it may. This is the most general definition, and would include all subjects in the universe.” (Lovelace 1843, p. 117)
+“The engine can arrange and combine its numerical quantities exactly as if they were letters or any other general symbols; and in fact it might bring out its results in algebraical notation, were provisions made accordingly... [I]t would be a mistake to suppose that because its results are given in the notation of a more restricted science, its processes are therefore restricted to those of that science.” (Ibid., p. 144)
+Interestingly, and again much ahead of her time, she ascribed this generality of the analytical engine to logic:
+“[T]he processes used in analysis form a logical system of much higher generality than the applications to number merely.” (Ibid., p. 152)
+The first programmable computers were built in the 1940s, more than a century after Babbage’s first proposal of such a machine. War time codebreaking provided much of the impetus for their development (Zabell 2018). The Colossus, which was used by British cryptanalysts from 1943 to 1945, was the first programmable computer to be built. Two other important machines in the pioneering period were the ENIAC and the EDVAC, both built in the USA in the 1940s. The ENIAC was made for calculating missile trajectories, and the EDVAC for processing wind tunnel data. Both tasks require the solution of large systems of differential equations. This involves multiple repetitions of small sequences of mathematical operations, each of which employs numerical results from its predecessors. As Mark Priestley (2018) has shown, these historical contingencies have “deeply affected the ways in which computers could be deployed in areas outside of mathematics.” For instance, swift retrieval of stored intermediate results was more important than fast input or output operations. These computers solved complex computation tasks by dividing them into a large number of very simple subtasks. This is the same method that was used in large-scale manual calculation projects, and it was also the strategy employed by Charles Babbage. In the 1950s, when computers began to be used for other tasks, new programming methods had to be introduced for these new purposes.
+As will be further discussed in what follows, electronic computers have had a deep influence on mathematics. In addition to providing previously unthinkable capacity for computation—in Ada Lovelace’s wide sense of computation—they have inspired new ways of thinking about fundamental concepts in mathematics, such as the notions of proof, computation, and mathematical knowledge. Furthermore, as in other disciplines, computer-based information technology has revolutionized communications between researchers. Instantaneous electronic communication among mathematicians has made new forms of cooperation possible. For instance, “massively collaborative mathematics” (Gowers and Nielsen 2009) has been introduced in open forums where everyone can contribute. This has resulted in a new style of mathematical research with rapid interchange, much like what happens when a couple of mathematicians work together on a blackboard, but now with a much larger group of participants (Martin and Pease 2013; Martin 2015).
+5 A Philosopher’s Dream Come (Partly) True
+Just as Ada Lovelace anticipated, digital computers are now used for automatic processing of all kinds of symbols, not just numbers. Since mathematics consists largely of symbol manipulation, computing has therefore had a considerable impact on mathematics. In a sense, it represents a partial fulfillment of a philosopher’s dream that goes back at least to the thirteenth century when it was forcefully promoted by the Majorcan philosopher Ramon Llull (c.1232–c.1315). He tried to put human reasoning on completely safe grounds by showing that all truths in any particular subject area can be obtained by drawing conclusions from a limited set of axioms. In order to obtain all the truths one had to go through all combinations of axioms. To that purpose, he invented devices consisting of rotating, concentrically arranged circles that contained representations of all the basic concepts (Uckelman 2018). Today, these ideas seem eccentric, to say the least, but they held sway in European intellectual life for many centuries. Gottfried Leibniz (1646–1716) was much influenced by them. He believed that it would be possible in principle to calculate infallibly the truth value of any proposition (Lenzen 2018). This would require a universal language (characteristica universalis), in which all concepts were expressed in a way that mirrored their logical interrelations. Such a language would transform all forms of correct argumentation into routine tasks:
+“Thus I assert that all truths that can be demonstrated about things expressible in this language with the addition of new concepts not yet expressed in it – all such truths, I say, can be demonstrated solo calculo, or solely by manipulation of characters according to a certain form, without any labour of the imagination or effort of the mind, just as occurs in arithmetic and algebra.” (Leibniz, quoted in Mates (1986), p. 185n.)
+Neither Leibniz nor any of his many fellow believers in such a universal language made any significant progress towards constructing it. However, the predicate logic presented by Gottlob Frege (1848–1925) in his pathbreaking Begriffsschrift (1879) provided what can be described as a universal language for mathematics.9 Predicate logic differs from previous logical systems in its versatile notation for relations, variables, and the notions “all” and “some.” Although it is insufficient for translating large parts of natural language, it is sufficient for expressing much—some would say all—of the natural language that is needed in mathematics. The vast majority of mathematical definitions and theorems can be expressed in predicate logic, and even more importantly: If we perform mathematical proofs very carefully in the smallest possible steps, then each step can be expressed as a statement in predicate logic, and it can be seen to follow from its predecessors according to the rules of predicate logic. Since these rules are simple and unambiguous, this means that each step in such a proof follows from its predecessors through routine (“mechanical”) manipulation of symbols. It can therefore also be checked in the same way that one checks for instance an addition or multiplication.
+Such proofs in small steps are usually not much liked by mathematicians—they share some of the disadvantages of looking down at your feet all the time while trying to find your way in an unknown terrain. However, predicate logic arrived at a time when mathematics was in a crisis. Two of its core areas, geometry and calculus, had turned out to have less secure foundations than what had previously been believed. Precise axiomatizations and proofs in small, routinized, steps could be used to provide new and more secure foundations for mathematics. Predicate logic appeared to be the “characteristica universalis” that Leibniz and many others had dreamt of, making it possible to draw all conclusions one needed “solely by manipulation of characters according to a certain form, without any labor of the imagination or effort of the mind.” But, of course, there was an important caveat: It was a characteristica universalis only for mathematics, not for human reasoning in general.
+The increased precision obtained in this way led to important mathematical developments. Of particular interest for the technology–mathematics connection are two seminal papers from the 1930s, by Alonzo Church (1936) and Alan Turing (1937a). They both proposed characterizations of the operations on symbols that can be performed routinely, i.e., without what Leibniz called “labour of the imagination or effort of the mind.” A decade later, when electronic computers were constructed, it became obvious that these routine operations were also the operations that computers could perform. This has given rise to discussions whether computers can be constructed that transcend the limits of mathematical routine set out by Church and Turing.
+The reduction of proofs to simple steps made it possible to use computers for mathematical tasks that had previously always been performed by mathematicians. Computers can be programmed to search systematically for longer and longer chains of proof steps, based on a given set of axioms. In this way, it is possible to find all conclusions that can be obtained from a given set of axioms with proofs up to a certain length. Computers can also be used to generate and test a large number of cases.
+These new developments gave rise to at least two important philosophical issues. The first of these is essentially a computer-enhanced version of the problem of physical reliance that was mentioned at the end of Section 2: Can we rely on the outcomes of computer calculations, even if they are so large that it is in practice impossible to check them? This quandary came to the fore in the late 1970s when the four-color problem, which had eluded mathematicians since the 1850s, was finally solved by brute computer force (Appel and Haken 1976). The problem can be expressed as a question: Is it possible to divide a Euclidean plane into regions (like a map) in such way that more than four colors are needed to color all regions without assigning the same color to two regions with a common border (other than a corner)? A proof that this is impossible was published in 1977. It was based on an extensive computerized search for proofs for each of 1482 cases. The proof was too long for a human to verify all its details. It triggered an extensive and still on-going philosophical discussion on whether we can rely on such proofs in the same way that we rely on proofs that are short enough for humans to go through in detail.
+The second problem has already been alluded to: What types of symbol manipulations can be performed routinely, i.e., with no need for imagination or mental effort? And how do these operations relate to the mathematical operations that a computer can perform? In particular, can a machine be constructed that transcends the limits of what a human can perform routinely?
+6 Summing up the Philosophical Problems
+We can now summarize the philosophical problems that have emerged in our historical account of the technology–mathematics relationship.
+First, we have the technology-dependence of mathematical knowledge. We noted in Section 2 that from its very beginnings, human knowledge of mathematics has depended on aide-mémoires such as notches on a stick, pebbles on a counting board, or symbols on paper. We need notation not only to remember numbers but also to keep track of the successive steps of a computation, derivation, or proof. As we saw in Section 5, we now depend increasingly on more advanced technological devices, namely computers, not only to record but also to perform the steps of mathematical operations. Since mathematical knowledge is usually considered to be non-empirical, this creates problems for mathematical epistemology.
+Secondly, although the notion of a computation is defined mathematically, it has implications for our understanding of operations performed on physical devices. For instance, if we define computation as a process consisting of a particular type of elementary operations, then a machine performing a computation will have to do so by executing suboperations that can reasonably be understood as representing such elementary operations. A technological device that arrives at the desired result by some other means could not be said to have obtained it by computation. For this and other reasons, we need to clarify the relationship between mathematical and technological computability.
+Thirdly, the usefulness of mathematics in technology poses a puzzle that is analogous, but perhaps not identical, to the much more widely discussed puzzle of the usefulness of mathematics in science. How does it come that so many technological problems have been solved with mathematical tools that were invented for purposes unconnected with technology? Is there some underlying connection which we have not grasped?
+The purpose of the following three sections is to further introduce these three problems and to show that concepts from the philosophy of technology and the philosophy of mathematics may have to be combined in order to solve them.
+7 The Technology Dependence of Mathematical Knowledge
+It is doubtful whether any mathematician has ever spent a sleepless night worrying that her notes might in some way have been transformed by unknown forces, replacing a correct proof by an incorrect one. The more common worry refers to mistakes by oneself. This is also a most realistic concern. There is ample historical evidence that published work, even by highly respected mathematicians, sometimes contains serious mistakes (Grcar 2013).10 But even though the reliability of our technological aide-mémoires is not a concern in mathematical practice, arguments that put it into question can serve a useful purpose. We can use such arguments to explore mathematical epistemology in much the same way that we use other skeptical arguments in general epistemology. We do not expect philosophy students to leave a seminar on Cartesian skepticism in serious doubt whether their friends and families exist or are only figments of their minds. Instead, we expect them to have gained some insights on different types of knowledge and on the problematic nature of epistemic certainty (Hansson 2017). In the same way, deliberations on how our mathematical knowledge depends on our technological means for preserving it can engender insights on the nature of mathematical knowledge. For instance, we need to distinguish between, on the one hand, the mathematical knowledge of a (hypothetical) ideal mathematical reasoner with unlimited memory and, on the other hand, the mathematical knowledge that humans can acquire. The ideal mathematical reasoner would presumably be in no need of technological aide-mémoires, and her knowledge would reach a level of certainty which we can never reach in empirical issues.11
+With computers came the use of technology to perform mathematical operations, rather than just to record the operations that we perform ourselves. As mentioned in Section 5, the computer proof of the four-color theorem triggered an intense debate among both mathematicians and philosophers on the implications of computer proofs for mathematical knowledge. In one of the first philosophical articles on this proof, Thomas Tymoczko (1979) questioned whether the computer operations had at all established a theorem. He claimed that the computer performed “no traditional proof, no a priori deduction of a statement from premises,” but instead an “empirical experiment.” Accepting this as a proof would, he said, contradict the common assumption that “mathematics, as opposed to natural science, has no empirical content” and that its theorems “are certain to a degree that no theorem of natural science can match.” (p. 63)
+Other participants in this debate have claimed to the contrary that the risk of errors is typically smaller in computer proofs than in similarly long proofs performed by hand (Swart 1980, p. 700). In fact, mathematicians were less worried about the accuracy of the many cases that the computer had proved for the four-color theorem than about the correctness and exhaustiveness of the list of these cases, which had been obtained by human mathematicians in the usual pen-on-paper way (Swart 1980, pp. 697-698). As a leading group theorist wrote in the preamble of a 157-page long summary of major results in group theory, “it seems beyond human capacity to present a closely reasoned several hundred page argument with absolute accuracy.” (Gorenstein 1979, p. 52).
+The traditional view that mathematical knowledge is non-empirical has also been questioned in this debate. According to Detlefsen and Luker (1980), a mathematician’s belief that someone (herself or someone else) has made no blunder in a long complex proof is in fact an empirical belief. Therefore, belief in the validity of such a proof “ultimately rests on empirical considerations, whether the calculation is performed by an IBM 370-160A or by a human mathematician.” (p. 808)
+The following two stories can serve to clarify what is at issue:
+1.
+Among the papers left behind by a deceased mathematician, her colleagues found a huge, extremely well organized handwritten manuscript of about 18,000 pages. It is a proof of a famous conjecture, which she apparently worked with for decades, and managed to finish just a few weeks before her death. It was accompanied by a 60-page summary that specifies exactly how she divided the proof into more than 3,000 cases and what proof methods she used in proving all of them. Experts judge this summary to be both ingenious and highly credible. She was known for her meticulous way of working, and no errors were found in a randomized sample of 10 cases. However, a reasonably careful checking of the full proof would take about three hours per page, i.e., 30 years of full-time work, for a highly qualified mathematician.
+2.
+Two mathematicians and a computer programmer have made a computer program that proved the famous conjecture. They have written a paper of 60 pages, summarizing exactly how they divided the proof into more than 3,000 cases, and what methods were used in the computerized search for proofs of all of these cases. They have also presented a computer-produced document of 18,000 pages, which contains the whole proof in a format suitable for mathematicians to check. Experts consider the 60 page paper to be of excellent quality, and no errors were found in a randomized sample of 10 cases. However, a reasonably careful checking of the full proof would take about three hours per page, i.e., about 30 years of full-time work for a highly qualified mathematician.
+Which of these proofs could most easily be checked carefully enough for the mathematical community to consider the famous conjecture to be proved? There cannot be much doubt about this. Other mathematicians and programmers can check the computer proof by writing another computer program, preferably in another programming language, and implement it on another type of computer.12 After a careful corroboration of this nature, the computer proof in case (2) would stand a good chance of being accepted. For the manual proof in case (1), no other means of corroboration than tedious line-by-line checking would seem to be available.13
+It is important to recognize that the technology-dependence of mathematical knowledge is an epistemic, not necessarily an ontological dependence. Even if our knowledge of pure mathematics is technology-dependent, it does not follow that the subject-matter of that knowledge refers to technology (or other empirical matter). We can compare this to the use of technology in empirical observations. Our knowledge of viruses depends heavily on electron microscopes, but this does not make the viruses themselves in any way dependent on microscopes.14 Obviously, that the dependence of mathematics on technology is epistemic does not make this dependence less important. The epistemology of mathematics is a central part of its philosophy, and there are respectable views on mathematics that do not allow for unknowable mathematical truths and therefore do not draw a line between the epistemology and the ontology of mathematics (Williamson 1982; Hand 2010).
+It should also be recognized that computer technology differs from other types of technology in epistemically important ways. In a recent contribution to the philosophy of computer-mediated proofs, Bringsjord and Govindarajulu (2018) proposed that we put this question in the more general context of how human belief can be justified by arguments that are mediated by a computer.
+It may also be useful to connect this issue with discussions of other types of computer-based knowledge. For instance, an interesting parallel can be drawn with the philosophical discussion on whether a computer simulation of an empirical phenomenon can be regarded as an experiment. The question is here whether computer-based knowledge can have the status of an experiment, a status that is usually only assigned to procedures based on empirical observations (Parker 2009; Roush 2018).15
+In mathematics, the controversy concerns whether computer-based knowledge can have the status of a proof, which is normally assigned to procedures that are independent of empirical observations. We seem to have a general problem with the classification of computer-based knowledge, and perhaps we need to develop new categories or distinctions to deal with them.
+8 The Notion of a Computation
+For an extensive discussion of the relation between technology and computation, see Hansson (2018b). For other recent work on the philosophy of computation, see also Davis (2006), Sieg (2009) and Piccinini (2015).
+A computation, such as adding or multiplying two numbers, is (an execution of) a deterministic routine for the manipulation of symbols representing numbers. That it is deterministic means that its performance is unambiguously specified, step by step, so that the outcome is predetermined. Mathematicians have long known that there is a wide variety of such routines for symbol manipulation. The general term is “algorithm” (Uckelman 2018). Whereas a computation has numbers as both inputs and outputs, an algorithm can operate on any type of symbols. However, for the modern mathematician, the difference between making a computation and executing an algorithm is inconsequential, since all symbols can be represented by a sequence of numbers. Therefore, “computation” is used as a general term for the performance of any algorithm, and “computable” means “obtainable by performing an algorithm.”
+As mentioned in Section 5, the concept of a computation (or performance of an algorithm) became important in early twentieth century mathematics when efforts were made to base mathematics on systems of axioms and proofs. To make sure that a proof is correct, one had to make sure that it was decomposable into small steps, each of which could be performed as a routine manipulation of symbols. Alan Turing’s (1937a, 1937b) definition of computability was based on an analysis of what we humans do when we compute. “Computing is normally done,” he said, “by writing certain symbols on paper.” (p. 249). He went on to further simplify the operations performed by a human computist.17 We can perform operations on sheets of checked paper. The width of the paper is not essential. The pages of a typical math exercise book has a width of about 30 to 40 squares, but we can do with much less. Indeed, we can work with a squared tape, a paper that has the width of only one square. It would be awkward and time-consuming, but from a mathematical point of view, it would be a simplification. Several other such simplifications are possible: We only need two symbols, since any finite number of symbols can be encoded in sequences of only two symbols. We only need to move one step at a time on the tape, as long as we keep track of how many times we have to make such a one-step move. We only need to look at one square at a time, since we can move around and look at the relevant squares in sequence, etc. (For details, see Hansson 2018b.) The result of these deliberations was a highly simplified structure for computations. It has a squared tape and a head that moves step-wise over the tape, reading one square at a time. Depending on the symbol that it reads upon arriving at a square, and the state it was in before, it enters a state. The new state instructs it what to do next among a small collection of possible actions (write 0, write 1, move one step to the left, move one step to the right, stop).
+Turing claimed that such a simple “machine” can perform any symbol manipulation that can be performed routinely by a human. However, it is important to observe that in spite of its extremely simple and limited construction, a Turing machine is more powerful than any existing or possible computer or computist. The reason for this is that the tape is assumed to be infinitely long. This means that the machine can perform operations of any length. For instance, it can determine the n th digit of π for any number n, even if it is larger than the number of particles in the universe. The reason why Turing put no limit on the length of the tape is that from a mathematical point of view, any such limit would be arbitrary. Turing’s analysis does not concern actual computability, which depends on our resources and physical limitations. Instead, he was interested in effective computability.18 A mathematical entity is effectively computable if it would be computable if we had unlimited resources. (The established term “effective” may be a bit confusing; the term “potential” might have been better.)
+The notion of a computation has two important features that make it to a considerable extent a technological concept. First, a computation is an intentional operation in the usual sense of being “done on purpose, resulting from intention” (Oxford English Dictionary).19 Just as in technology, but contrary to physics, agency and intention are indispensable. Therefore, the so-called pancomputationalist standpoint, according to which every physical system implements every computation, is untenable (Shagrir 2012). For instance, the cup coaster on my table does not embody a calculation of π, although the ratio of its circumference to its diameter is a reasonable approximation of that number. And if I put a pile of three such coasters on top of a pile of five coasters, I do not thereby perform the addition 3 + 5 (unless, of course, that is my intention, perhaps as part of an effort to teach a young child some arithmetic). Secondly, a computation is an input–output operation. The instruction “write the number 5 five times in a row” does not specify how to compute 205 times 271, although 205×271 is indeed 55555. A computation has to be an execution in a particular case of an instruction (an algorithm) that provides the correct answer also in other cases.20
+These “technological” properties of computations are extremely useful for the evaluation of various proposals for physical constructions claimed to perform computations that go beyond the capacity of a Turing machine. It has often been assumed that if we can find a physical phenomenon that cannot be adequately described with Turing computable functions, then we have also found a phenomenon that goes beyond Turing computability.21 However, that is a non-sequitur. If we lack means for simulating a natural process, it does not follow that we can use that process for making a computation. Computation is essentially a technological, not a natural, process.
+9 The Technological Usefulness of Mathematics
+The third problem for the technology–mathematics relation that we identified above is the technological usefulness of mathematics. In a famous speech in 1959, Eugene Wigner voiced his bafflement over the “unreasonable effectiveness of mathematics in the natural sciences.” (Wigner 1960). Again and again, theories from pure mathematics have turned out to be eminently useful in natural science. How can that be, if pure mathematics is void of empirical content? Wigner found no explanation of this, as he said, wondrous, phenomenon.
+“The miracle of the appropriateness of the language of mathematics for the formulation of the laws of physics is a wonderful gift which we neither understand nor deserve.” (Wigner 1960, p. 14)
+Again and again, also after Wigner made these remarks, pure mathematics has turned out to be eminently useful not only in science but also in technology. If technology is taken to be applied natural science, then the applicability of mathematics in technology can be seen as a corollary to its applicability in science. However, in the last few decades, philosophical arguments have been amassed that discredit such a view of technology. Today it is a consensus view that technology includes practices and methods that are its own, rather than applications of ideas from natural science (Kroes 1989; Hansson 2007; Mitcham and Schatzberg 2009). These insights have clear implications for the “unreasonable effectiveness.” In order to understand the usefulness of mathematics in technology, it is not sufficient to look for explanations of its usefulness in the natural sciences. We also have to consider its usefulness in those technological practices that cannot be construed as applied natural science, such as engineeering design, optimization, control theory, and reasoning about technological function, human-machine interaction, and ethical acceptability. Philosophical studies of these technological practices can provide useful inputs to our understanding of the usefulness of mathematics in technology.22
+The discussion of this problem has scarcely begun, but two interesting standpoints should be mentioned. On of them is represented by Tor Sandqvist (2018), who maintains that what is truly amazing and possibly inexplicable in this context is the fact that the universe exhibits regularities that allow us to predict the future on the basis of the past. This applies both to predictions of natural phenomena and to predictions relating to our (technological) interventions and interactions with nature. However, the fact that we can use mathematics to describe these regularities does not in his view necessarily add to the amazement. The mathematical formulations of successful physical theories need not be “an essential feature of the world they are describing,” but could instead be “a (possibly humanly unavoidable) artifact of the conceptual lens through which that world is being studied.” (p. 343)
+The other viewpoint is represented by Phillip Wilson (2018), who proposes that the existence of successful applications of mathematics in technology and elsewhere teaches us something about the nature of mathematics. There are four dominant traditions in the philosophy of mathematics: Platonism, logicism, formalism, and intuitionism. They have all mostly been discussed in relation to pure mathematics. By considering them from the perspective of the various applications of mathematics we can gain new insights on their ontological and epistemological implications. In Wilson’s view, such a broadened focus should help us to better understand the nature of mathematics.
+10 Conclusion
+I hope to have shown that technology and mathematics are interconnected in many ways, and that these interconnections cannot be adequately understood from studies of how each of them is connected with natural science (or science in general). There is a need for direct studies of the technology–mathematics relationship. Historical studies of that relationship have been sporadic, and we lack much of the information needed to write a coherent history of how the two have influenced each other in different phases of their development. The philosophical aspects of the relationship have been even less studied. This article has identified some issues and topics that can serve as inroads into the philosophically unexplored terrains of the technology–mathematics relationship. There is much more to be found.
+Notes
+Much older bones with notches have been found, but their interpretation is controversial (Vogelsang et al. 2010, p. 197; d’Errico et al. 2012, pp. 13216 and 13219; Cain 2006).
+The notion of technology is of quite recent origin. In the nineteenth century, it gradually replaced the older, somewhat wider, notion of practical arts (Hansson 2015). The term “technology” is used here also in references to cultures and periods lacking the modern notion of technology.
+According to Plato, at least one Athenian stone mason, namely Socrates, was versed in the learned geometry of his time. Cf (McLarty 2005).
+The Syriac mathematician Ibrahim ibn Sinan (908–946) once taught an artisan how to construct a sundial (Saliba 1999, pp. 641-642). The Persian mathematician and astronomer Abu al-Wafa’ Buzjani (940–c.998) wrote a book for craftsmen on geometrical constructions, but it is not known what outreach it had among its intended audience (Raynaud 2012). The Iranian polymath Al-Biruni (973–1048) wrote about the difference between the mathematical methods that scholars preferred and the (presumably less rigorous) ones used by most craftsmen. However, he reported that some artisans, in particular, instrument makers, used the methods preferred by scholars (Saliba 1999, p. 642). The Florentine polyhistor Filippo Brunelleschi (1377–1446) reportedly taught masons and carpenters working on the Florence Cathedral the mathematical principles of construction drawings (Knobloch 2004, p. 4). In the late fifteenth century, the master mason Matthäus Roritzer, (c.1435–c.1495) reported that he had frequently discussed “the free art of geometry” with the bishop Wilhelm von Reichenau (1426–1496), who had a great interest in these matters (Roriczer [1486] 1845, p. 13).
+For references, see Hansson (2018a). See also Ackerman (1949).
+Surveying is an exception. Medieval surveyors seem to have used less mathematically advanced methods than the master builders (Price 1955; Glick 1968; Skelton 1970; Friedman 2014).
+Mathematical control theory is an interesting example of this. Its engineering applications in servomechanisms have been essential in many areas of technology. However, attempts to extend this engineering approach to complex social phenomena have been much less successful (Kline 2018).
+Gandy (1988, p. 57) showed that the functions computable with the analytical engine “are precisely those which are Turing computable.”
+Kluge (1980) argued that Frege was in fact influenced by Leibniz when developing his predicate logic.
+One example of this is a proof of the four-color theorem that was published in 1880 and shown to be wrong only 10 years later (Ringel and Youngs 1968).
+However, the ability even of an idealized reasoner to achieve full mathematical certainty can be questioned with standard skeptical maneuvers. A Cartesian demon capable of implanting false empirical perceptions into my mind should not find it too difficult to implant a mathematical error into my mind, or at least to disrupt my memory of some mathematical results that I have obtained. It is not immediately clear what it would take for our idealized mathematical reasoner to be immune against such demonic influence, and to be itself certain of that immunity.
+There are large differences between different computer-supported proofs in how easily this can be done. This is exemplified by the verification of Kepler’s conjecture (from 1611) on the most efficient way to pack balls of equal size in Euclidean space. The first proof of this conjecture was submitted to a journal in 1998, but it was not published until 7 years later since reviewers were unable to fully verify the code (Hales 2005; Szpiro 2003; Anon 2004). A much improved proof was published in 2017 (Hales et al. 2017). It is to a large extent computer-generated, but contrary to the first proof, it is completely formalized, and it can be checked with standard proof-checking software.
+The corroboration of proofs that have been performed by someone else or by a machine has some similarities with the process involved in zero-knowledge proofs, which also involve two parties, a prover and a verifier (Goldwasser et al. 1989; Bernhard 2014). A major difference is that the corroboration process described here consists in checking the accuracy of an available proof, whereas in zero-knowledge proofs “the prover can convince the verifier that a given statement is true, without conveying any additional information apart from the fact that the statement is true.” (Artemov and Protopopescu 2016, p. 273). On the epistemology of zero-knowledge proofs, see Bledin (2008), Halpern et al. (2009), and Protopopescu (2015).
+Cf. the comparison between computers and microscopes (in Humphreys 2004, pp. 116 ff). Philosophical studies of the use of technology in making and recording empirical observations are relevant here. See Boon (2015).
+As I see it, computer simulations are experiments on a model of the ultimate object of study. Such indirect experimentation, or experimentation on proxies, is quite common in natural science, for instance, when a rodent model or a cell culture model is used in experiments aiming at knowledge on human metabolism, or when Arabidopsis thaliana is used as a model organism in plant physiology and genetics. Unfortunately, much of the philosophical discussion on computer simulations has been based on the misconception that “while in an experiment one is controlling the actual object of interest (for example, in a chemistry experiment, the chemicals under investigation), in a simulation one is experimenting with a model rather than the phenomenon itself.” Gilbert and Troitzsch (2005, p. 14) For another view, see Peschard (in press). For an overview, see Winsberg (2018).
+Turing used the term “computer” to refer to human computists. This has often been misunderstood by latter-day readers as referring to what we today mean by a computer.
+This term was apparently introduced by Alonzo Church (1936).
+Consequently, the various specifications of intentional action apply to computations. For instance, we can distinguish between types and tokens of computations. Tokens (i.e., actual single performances) can be failed. There can be different forms of collective computations, for instance, when different parts of an input are entered by different persons. Further developments of these aspects of computations can draw from work in action theory (Davidson 1980; Dancy and Sandis 2015) and the theory of technological function (Houkes and Vermaas 2010; Kroes 2012).
+In the terms of Piccinini (2015, p. 253), a computation has to be settable, i.e., such that “a user sets the system to its initial state and feeds it different arguments of the function being computed,” and then receives the appropriate outputs.
+One example of this is Mark Hogarth’s (1994) proposal, which is based on the observation that general relativity is compatible with the existence of two trajectories from one point in space-time to another, such that one of the trajectories takes infinitely long time, whereas the other only takes finitely long time. No credible proposal has been made for basing a computation of this putative phenomenon (Cf. Button 2009). Another example is the proposal that since some many-body problems in Newtonian mechanics may lack a Turing computable solution, they could potentially transcend Turing computability (Kreisel 1974, p. 24; Smith 2006). Again, no proposal has been made for how this feature of Newtonian mechanics could be used to construct input-output computations (Cf. Cotogno 2003, p. 186). — Claims that quantum computation can transcend Turing computability can largely be set aside for similar reasons. Quantum computation has a potential to speed up some computations, but it is not expected to transcend Turing computability (Hagar and Korolev 2007; Dorato and Felline 2018; Cuffaro 2018).
+As an anonymous referee for this journal pointed out, just like the application of mathematics to science—and arguably to an even higher degree—its application to technology will have ethical implications that mathematicians need to pay attention to.
+References
+Aboufadil, Y., Thalal, A., El Idrissi Raghni, M.A. (2013). Symmetry groups of Moroccan geometric woodwork patterns. Journal of Applied Crystallography, 46(6), 1834–1841.
+Article
+  Google Scholar
+  Ackerman, J. (1949). ‘Ars Sine Scientia Nihil Est’: Gothic theory of architecture at the Cathedral of Milan. Art Bulletin, 31, 84–111.
+Google Scholar
+  Albanese, V. (2015). Etnomatemática de una artesanía Argentina: identificando etnomodelos de trenzado. Bolema, 29, 493–507.
+Article
+  Google Scholar
+  Albanese, V., Oliveras, M.L., Perales, F.J. (2014). Etnomatemáticas en artesanías de trenzado: aplicación de un modelo metodológico elaborado. Bolema, 28, 1–20.
+Article
+  Google Scholar
+  Albanese, V., & Perales, F.J. (2014). Pensar matemáticamente: una visión etnomatemática de la práctica artesanal soguera. Revista Latinoamericana de Investigación en Matemática Educativa, 17(3), 261–288.
+Article
+  Google Scholar
+  Anon. (2004). Journal juggles balls to publish Kepler paper. Nature, 428, 686–686.
+Article
+  Google Scholar
+  Appel, K., & Haken, W. (1976). Every map is four colourable. Bulletin of the American Mathematical Society, 82, 711–712.
+Article
+  Google Scholar
+  Artemov, S., & Protopopescu, T. (2016). Intuitionistic epistemic logic. Review of Symbolic Logic, 9(2), 266–298.
+Article
+  Google Scholar
+  Barnard, H. (2014). Surveying in Ancient Egypt, Encyclopaedia of the History of Science, Technology, and Medicine in Non-Western Cultures. Springer, Berlin (online).
+Google Scholar
+  Bernhard, D. (2014). Zero-knowledge proofs in theory and practice, dissertation, University of Bristol, Faculty of Engineering. Downloaded from https://pdfs.semanticscholar.org/f9c5/68cebd52de1fef344872ffc8ff722a4c8ff5.pdf, on January 13, 2019.
+Bledin, J. (2008). Challenging epistemology: interactive proofs and zero knowledge. Journal of Applied Logic, 6, 490–501.
+Article
+  Google Scholar
+  Boon, M. (2015). The scientific use of technological instruments. In Hansson, S.O. (Ed.) The Role of Technology in Science: Philosophical Perspectives (pp. 55–79). Dordrecht: Springer.
+Chapter
+  Google Scholar
+  Bringsjord, S., & Govindarajulu, N.S. (2018). The epistemology of computer-mediated proofs. In Hansson, S.O. (Ed.) Technology and Mathematics: Philosophical and Historical Investigations (pp. 165–183). Berlin: Springer.
+Button, T. (2009). SAD computers and two versions of the Church-Turing thesis. British Journal for the Philosophy of Science, 60(4), 765–792.
+Article
+  Google Scholar
+  Cain, C.R. (2006). Implications of the marked artifacts of the Middle Stone Age of Africa. Current Anthropology, 47(4), 675–681.
+Article
+  Google Scholar
+  Chahine, I. (2013). Juxtaposing form, function, and social symbolism: an ethnomathematical analysis of indigenous technologies in the Zulu culture. Journal of Mathematics & Culture, 5(1), 1–30.
+Google Scholar
+  Church, A. (1936). An unsolvable problem of elementary number theory. American Journal of Mathematics, 58(2), 345–363.
+Article
+  Google Scholar
+  Cotogno, P. (2003). Hypercomputation and the physical Church-Turing thesis. British Journal for the Philosophy of Science, 54(2), 181–223.
+Article
+  Google Scholar
+  Cuffaro, M.E. (2018). Universality, invariance and the foundations of computational complexity in the light of the quantum computer. In Hansson, S.O. (Ed.) Technology and Mathematics: Philosophical and Historical Investigations (pp. 253–282). Berlin: Springer.
+Google Scholar
+  Dancy, J., & Sandis, C. (Eds.). (2015). Philosophy of action: an anthology. Chichester: Wiley Blackwell.
+Davidson, D. (1980). Essays on Actions and Events. Oxford: Oxford University Press.
+Google Scholar
+  Davis, M. (2006). The Church-Turing thesis. Consensus and opposition. In Beckmann, A., Berger, U., Löwe, B., Tucker, J.V. (Eds.) Logical approaches to computational barriers. Second Conference on Computability in Europe, CiE 2006, Swansea, UK, June 30-July 5, 2006. Proceedings. Lecture Notes in Computer Science, (Vol. 3988 pp. 125–132). Berlin: Springer.
+Chapter
+  Google Scholar
+  Dehaene, S., Izard, V., Spelke, E., Pica, P. (2008). Log or linear? Distinct intuitions of the number scale in Western and Amazonian indigene cultures. Science, 320(5880), 1217–1220.
+Article
+  Google Scholar
+  d’Errico, F., Backwell, L., Villa, P., Degano, I., Lucejko, J.J., Bamford, M.K., Higham, T.F.G., Colombini, M.P., Beaumont, P.B. (2012). Early evidence of San material culture represented by organic artifacts from Border Cave, South Africa. PNAS, 109(33), 13208–13213.
+Article
+  Google Scholar
+  Detlefsen, M., & Luker, M. (1980). The four-color theorem and mathematical proof. Journal of Philosophy, 77, 803–820.
+Article
+  Google Scholar
+  Dorato, M., & Felline, L. (2018). On explaining non-dynamically the quantum correlations via quantum information theory: what it takes. In Hansson, S.O. (Ed.) Technology and Mathematics: Philosophical and Historical Investigations (pp. 235–251). Berlin: Springer.
+Dubourg Glatigny, P. (2014). Epistemological obstacles to the analysis of structures: Giovanni Bottaris aversion to a mathematical assessment of Saint-Peters Dome (1743). In Gerbino, A. (Ed.) Geometrical Objects: Architecture and the Mathematical Sciences 1400-1800, Archimedes 38 (pp. 203–215). Berlin: Springer.
+Google Scholar
+  Friedman, D. (2014). Geometric survey and urban design: a project for the Rome of Paul IV (1555–1559). In Gerbino, A. (Ed.) Geometrical Objects: Architecture and the Mathematical Sciences 1400-1800, Archimedes 38 (pp. 107–134). Berlin: Springer.
+Google Scholar
+  Gandy, R. (1988). The confluence of ideas in 1936. In Herken, R. (Ed.) The Universal Turing Machine: A Half-Century Survey (pp. 55–111). Oxford: Oxford University Press.
+Gerdes, P. (2000). On mathematical ideas in cultural traditions of Central and Southern Africa. In Selin, H. (Ed.) Mathematics Across Cultures: The History of Non-Western Mathematics (pp. 313–343). Dordrecht: Kluwer.
+Chapter
+  Google Scholar
+  Gilbert, N., & Troitzsch, K.G. (2005). Simulation for the Social Scientist, 2nd edn. Maidenhead: Open University Press.
+Google Scholar
+  Gilsdorf, T.E. (2010). Inca mathematics. In Selin, H. (Ed.) Mathematics Across Cultures: The History of Non-Western Mathematics (pp. 189–203). Dordrecht: Kluwer.
+Chapter
+  Google Scholar
+  Gilsdorf, T.E. (2014). Ethnomathematics of the Inkas, Encyclopaedia of the History of Science, Technology, and Medicine in Non-Western Cultures. Berlin: Springer. (online).
+Google Scholar
+  Ginovart, J.L., Samper, A., Herrera, B., Costa, A., Coll, S. (2016). Geometry of the icosikaidigon in Orvieto cathedral. Nexus Network Journal, 18(2), 419–438.
+Article
+  Google Scholar
+  Glick, T.F. (1968). Levels and levelers: surveying irrigation canals in medieval Valencia. Technology and Culture, 9, 165–180.
+Article
+  Google Scholar
+  Goldwasser, S., Micali, S., Rackoff, C. (1989). The knowledge complexity of interactive proof systems. SIAM Journal on Computing, 18(1), 186–208.
+Article
+  Google Scholar
+  Gorenstein, D. (1979). The classification of finite simple groups I. Simple groups and local analysis. Bulletin of the American Mathematical Society, 1, 43–199.
+Article
+  Google Scholar
+  Gowers, T., & Nielsen, M. (2009). Massively collaborative mathematics. Nature, 461(7266), 879–881.
+Article
+  Google Scholar
+  Grattan-Guinness, I. (1990). Work for the hairdressers: the production of de Prony’s logarithmic and trigonometric tables. Annals of the History of Computing, 12(3), 177–185.
+Article
+  Google Scholar
+  Grattan-Guinness, I. (2005). The École polytechnique, 1794-1850: differences over educational purpose and teaching practice. American Mathematical Monthly, 112, 233–250.
+Google Scholar
+  Grcar, J.F. (2013). Errors and corrections in mathematics literature. Notices of the AMS, 60(4), 418–425.
+Article
+  Google Scholar
+  Grier, D.A. (2005). When computers were human. Princeton: Princeton University Press.
+Google Scholar
+  Hagar, A., & Korolev, A. (2007). Quantum hypercomputation−hype or computation?. Philosophy of Science, 74, 347–363.
+Article
+  Google Scholar
+  Hales, T.C. (2005). A proof of the Kepler conjecture. Annals of Mathematics, 162, 1065–1185.
+Article
+  Google Scholar
+  Hales, T., & et al. (2017). A formal proof of the Kepler conjecture, Forum of Mathematics, Pi Vol. 5. Cambridge: Cambridge University Press.
+Google Scholar
+  Halpern, J.Y., Pass, R., Raman, V. (2009). An epistemic characterization of zero knowledge. In Proceedings of the 12th Conference on Theoretical Aspects of Rationality and Knowledge (TARK 2009) (pp. 156–165).
+Hand, M. (2010). Antirealism and universal knowability. Synthese, 173, 25–39.
+Article
+  Google Scholar
+  Hankin, E.H. (1925). The drawing of geometric patterns in Saracenic art. Memoirs of the archaeological survey of India. No. 15.
+Hansson, S.O. (2007). What is technological science? Studies in History and Philosophy of Science, 38, 523–527.
+Article
+  Google Scholar
+  Hansson, S.O. (2015). Science and technology: what they are and why their relation matters. In Hansson, S.O. (Ed.) The role of technology in science. Philosophical perspectives (pp. 11–23). Dordrecht: Springer.
+Chapter
+  Google Scholar
+  Hansson, S.O. (2017). The uses and misuses of philosophical scepticism. Theoria, 83(3), 169–174.
+Article
+  Google Scholar
+  Hansson, S.O. (2018a). Mathematics and technology before the modern era. In Hansson, S.O. (Ed.) Technology and Mathematics: Philosophical and Historical Investigations (pp. 13–31). Springer.
+Google Scholar
+  Hansson, S.O. (2018b). Technological and mathematical computability. In Hansson, S.O. (Ed.) Technology and mathematics: philosophical and historical investigations (pp. 185–234). Springer.
+Hansson, S.O. (2018c). The rise and fall of the anti-mathematical movement. In Hansson, S.O. (Ed.) Technology and mathematics: philosophical and historical investigations (pp. 305–323). Springer.
+Google Scholar
+  Harris, D.G. (2001). Fredrik Henrik af Chapman: the First Naval Architect and his Work (revised edition). Stockholm: Literatim.
+Google Scholar
+  Harris, M. (1987). An example of traditional women’s work as a mathematics resource. For the Learning of Mathematics, 7(3), 26–28.
+Google Scholar
+  Heyman, J. (2014). Geometry, mechanics, and analysis in architecture. In Gerbino, A. (Ed.) Geometrical Objects: Architecture and the Mathematical Sciences 1400-1800, Archimedes 38 (pp. 193–201). Berlin: Springer.
+Google Scholar
+  Hogarth, M. (1994). Non-Turing computers and non-Turing computability. PSA, 1994(1), 126–138.
+Google Scholar
+  Houkes, W., & Vermaas, P.E. (2010). Technical Functions: on the Use and Design of Artefacts. Dordrecht: Springer.
+Book
+  Google Scholar
+  Humphreys, P. (2004). Extending Ourselves. Computational Science, Empiricism, and Scientific Method. Oxford University Press: Oxford.
+Book
+  Google Scholar
+  Huylebrouck, D. (1996). The bone that began the space odyssey. Mathematical Intelligencer, 18(4), 56–60.
+Article
+  Google Scholar
+  Imhausen, A. (2006). Ancient Egyptian mathematics: new perspectives on old sources. Mathematical Intelligencer, 28(1), 19–27.
+Article
+  Google Scholar
+  Jacobsen, L.E. (1983). Use of knotted string accounting records in old Hawaii and ancient China. Accounting Historians Journal, 10(2), 53–61.
+Article
+  Google Scholar
+  Jolie, E.A., Lynch, T.F., Geib, P.R., Adovasio, J.M. (2011). Cordage, textiles, and the late Pleistocene peopling of the Andes. Current Anthropology, 52(2), 285–296.
+Article
+  Google Scholar
+  Karlslake, C. (1987). The language of woven images among the Tzotzil. Canadian Journal of Native Studies, 7(2), 385–397.
+Google Scholar
+  Klemm, F. (1966). Die Rolle der Mathematik in der Technik des 19. Jahrhunderts. Technikgeschichte, 33, 72–90.
+Google Scholar
+  Kline, R.R. (2018). Mathematical models of technological and social complexity. In Hansson, S.O. (Ed.) Technology and Mathematics: Philosophical and Historical Investigations (pp. 285–303). Berlin: Springer.
+Google Scholar
+  Kluge, E.-H.W. (1980). Frege, Leibniz and the notion of an ideal language. Studia Leibnitiana, 12, 140–154.
+Google Scholar
+  Knobloch, E. (2004). Mathematical methods in preindustrial technology and machines. In Millán Gasca, A., Lucertini, M., Nicolò, F. (Eds.) Technological Concepts and Mathematical Models in the Evolution of Modern Engineering System (pp. 3–20). Berlin: Springer.
+Chapter
+  Google Scholar
+  Kreisel, G. (1974). A notion of mechanistic theory. Synthese, 29, 9–24.
+Article
+  Google Scholar
+  Kroes, P. (1989). Philosophy of science and the technological dimension of science. In Gavroglu, K., Goudaroulis, V., Nicolapoulos, P. (Eds.) Imre Lakatos and theories of scientific change (pp. 375–382). Dordrecht: Kluwer.
+Chapter
+  Google Scholar
+  Kroes, P. (2012). Technical artefacts: creations of mind and matter. Dordrecht: Springer.
+Book
+  Google Scholar
+  Lagercrantz, S. (1973). Counting by means of tally sticks or cuts on the body in Africa. Anthropos, 68(3-4), 569–588.
+Google Scholar
+  Lang, M. (1957). Herodotos and the abacus. Hesperia: The Journal of the American School of Classical Studies at Athens, 26, 271–288.
+Article
+  Google Scholar
+  Lawrence, S. (2003). History of descriptive geometry in England. In Huerta, S. (Ed.) Proceedings of the First International Congress on Construction History, Madrid, 20th-24th January 2003 (pp. 1269–1281).
+Lenzen, W. (2018). Leibniz and the calculus ratiocinator. In Hansson, S.O. (Ed.) Technology and Mathematics: Philosophical and Historical Investigations (pp. 47–78). Berlin: Springer.
+Google Scholar
+  Lovelace, A.A. (1843). Notes by the translator appendix in Sketch of the analytical engine. Scientific Memoirs, 3, 666–731. Reprinted on pp. 89-179 in The Works of Charles Babbage, vol 3 (ed. Martin Campbell-Kelly) London: William Pickering.
+Google Scholar
+  Lu, P.J., & Steinhardt, P.J. (2007). Decagonal and quasi-crystalline tilings in medieval Islamic architecture. Science, 315(5815), 1106–1110.
+Article
+  Google Scholar
+  Malina, J. (1983). Archaeology and experiment. Norwegian Archaeological Review, 16(2), 69–78.
+Article
+  Google Scholar
+  Martin, U. (2015). Stumbling around in the dark: lessons from everyday mathematics. In Felty, A.P., & Middeldorp, A. (Eds.) 25th International Conference on Automated Deduction, Berlin, Germany, August 1-7, 2015, Proceedings. Lecture Notes in Artificial Intelligence 9195 (pp. 29–51). Cham: Springer.
+Martin, U., & Pease, A. (2013). Mathematical practice, crowdsourcing and social machines. In Carette, J., Aspinall, D., Lange, C., Sojka, P., Windsteiger, W. (Eds.) International Conference on Intelligent Computer Mathematics. Lecture Notes in Artificial Intelligence 7961 (pp. 98–119). Berlin: Springer.
+Mates, B. (1986). The Philosophy of Leibniz: Metaphysics and Language. New York: Oxford University Press.
+Google Scholar
+  McLarty, C. (2005). ‘Mathematical Platonism’ versus gathering the dead: what Socrates teaches Glaucon. Philosophia Mathematica, 13(2), 115–134.
+Article
+  Google Scholar
+  Melville, D.J. (2015). Review of Stephen Kent Stephenson, ‘Ancient computers: Part I. Rediscovery’. Aestimatio: Critical Reviews in the History of Science, 9, 294–297.
+Google Scholar
+  Menninger, K. (1992). Number words and number symbols: a cultural history of numbers. New York: Dover.
+Google Scholar
+  Mitcham, C., & Schatzberg, E. (2009). Defining technology and the engineering sciences. In Meijers, A. (Ed.) Handbook of the philosophy of science: Vol. 9. Philosophy of technology and engineering sciences (p. 2763). Amsterdam: Elsevier.
+Parker, W.S. (2009). Does matter really matter? Computer simulations, experiments, and materiality. Synthese, 169, 483–496.
+Article
+  Google Scholar
+  Periton, C. (2015). The medieval counting table revisited: a brief introduction and description of its use during the early modern period. BSHM Bulletin: Journal of the British Society for the History of Mathematics, 30(1), 35–49.
+Article
+  Google Scholar
+  Peschard, I. (in press). Is simulation an epistemic substitute for experimentation?, to be published in S. Vaienti (ed.) Simulations and Networks. Paris: Hermann. The chapter was downloadable on January 13, 2019, from http://ipeschard.free.fr.
+Pica, P., Lemer, C., Izard, V., Dehaene, S. (2004). Exact and approximate arithmetic in an Amazonian indigene group. Science, 306(5695), 499–503.
+Article
+  Google Scholar
+  Piccinini, G. (2015). Physical computation: a mechanistic account. Oxford: Oxford University Press.
+Book
+  Google Scholar
+  Price, D.J. (1955). Medieval land surveying and topographical maps. Geographical Journal, 121(1), 1–7.
+Article
+  Google Scholar
+  Priestley, M. (2018). The mathematical origins of modern computing. In Hansson, S.O. (Ed.) Technology and Mathematics: Philosophical and Historical Investigations (pp. 107–135). Berlin: Springer.
+Google Scholar
+  Protopopescu, T. (2015). Intuitionistic epistemology and modal logics of verification. In van der Hoek, W., Holliday, W.H., Wang, W.-f. (Eds.) Logic, Rationality, and Interaction, 5th International Workshop. Proceedings, Lecture Notes in Computer Science 9394 (pp. 295–307). Cham: Springer.
+Chapter
+  Google Scholar
+  Purkert, W. (1990). Infinitesimalrechnung für Ingenieure−Kontroversen im 19. Jahrhundert. In Spalt, D.D. (Ed.) Rechnen mit dem Unendlichen. Beiträge zur Entwicklung eines kontroversen Gegenstandes (pp. 179–192). Birkhäuser: Basel.
+Purkert, W., & Hensel, S. (1986). Zur Rolle der Mathematik bei der Entwicklung der Technikwissenschaften. Dresdener Beiträge zur Geschichte der Technikwissenschaften, 11, 3–53.
+Google Scholar
+  Raynaud, D. (2012). Abu al-Wafa Latinus? A study of method. Historia Mathematica, 39, 34–83.
+Article
+  Google Scholar
+  Ringel, G., & Youngs, J.W.T. (1968). Solution of the Heawood map-coloring problem. Proceedings of the National Academy of Sciences, 60, 438–445.
+Article
+  Google Scholar
+  Roriczer, M. (1845). Das Büchlein der fialen Gerechtigkeit. Nach einem alten Drucke aus dem Jahre 1486 in die heutige Mundart übertragen und durch Anmerkungen erläutert, August Reichensperger (ed.) Trier: Lintz.
+Roush, S. (2018). The epistemic superiority of experiment to simulation. Synthese, 195, 4883–4906.
+Article
+  Google Scholar
+  Saliba, G. (1999). Review: Artisans and mathematicians in medieval Islam. Journal of the American Oriental Society, 119(4), 637–645.
+Article
+  Google Scholar
+  Sandqvist, T. (2018). Remarks on the empirical applicability of mathematics. In Hansson, S.O. (Ed.) Technology and Mathematics: Philosophical and Historical Investigations (pp. 325–343). Berlin: Springer.
+Scharlau, W. (1990). Mathematische Institute in Deutschland 1800 − 1945. Braunschweig: Friedr. Vieweg & Sohn.
+Book
+  Google Scholar
+  Schubring, G. (1990). Zur Strukturellen Entwicklung der Mathematik an den deutschen Hochschulen 1800–1945. In Scharlau, W. (Ed.) Mathematische Institute in Deutschland 1800–1945 (pp. 264–279). Braunschweig: Friedr Vieweg & Sohn.
+Shagrir, O. (2012). Computation, implementation, cognition. Minds and Machines, 22, 137–148.
+Article
+  Google Scholar
+  Shelby, L.R. (1965). Medieval masons’ tools. II. Compass and square. Technology and Culture, 6(2), 236–248.
+Article
+  Google Scholar
+  Sieg, W. (2009). On computability. In Irvine, A.D. (Ed.) Philosophy of Mathematics (pp. 536–630). Amsterdam: Elsevier.
+Chapter
+  Google Scholar
+  Sizer, W.S. (1991). Mathematical notions in preliterate societies. Mathematical Intelligencer, 13(4), 53–60.
+Article
+  Google Scholar
+  Sizer, W.S. (2000). Traditional mathematics in Pacific cultures. In Selin, H. (Ed.) Mathematics Across Cultures: The History of Non-Western Mathematics (pp. 253–287). Dordrecht: Kluwer.
+Chapter
+  Google Scholar
+  Skelton, R.A. (1970). The Military Surveyor’s Contribution to British Cartography in the 16th Century. Imago Mundi, 24, 77–83.
+Article
+  Google Scholar
+  Smith, W.D. (2006). Church’s thesis meets the N-body problem. Applied Mathematics and Computation, 178, 154–183.
+Article
+  Google Scholar
+  Stathopoulou, C. (2006). Exploring informal mathematics of craftsmen in the designing tradition of ‘Xysta’ at Pyrgi of Chios. For the Learning of Mathematics, 26(3), 9–14.
+Google Scholar
+  Swade, D. (2011). Pre-electronic computing. In Jones, C.B., & Lloyd, J.L. (Eds.) Dependable and Historic Computing. Essays Dedicated to Brian Randell on the Occasion of His 75th Birthday. Lecture Notes in Computer Science, (Vol. 6875 pp. 58–83). Berlin: Springer.
+Swade, D. (2018). Mathematics and mechanical computation. In Hansson, S.O. (Ed.) Technology and Mathematics: Philosophical and Historical Investigations (pp. 79–106). Berlin: Springer.
+Google Scholar
+  Swart, E.R. (1980). The philosophical implications of the four-color problem. American mathematical monthly, 87, 697–707.
+Article
+  Google Scholar
+  Szpiro, G. (2003). Does the proof stack up?. Nature, 424, 12–13.
+Article
+  Google Scholar
+  Thalal, A., Benatia, M.J., Jali, A., Aboufadil, Y., Elidrissi Raghni, M.A. (2011). Islamic geometric patterns constructed by craftsmen working on wood. Symmetry: Culture and Science, 22, 103–130.
+Google Scholar
+  Turing, A. (1937a). On computable numbers, with an application to the Entscheidungsproblem. Proceedings of the London Mathematical Society, 42, 230–265.
+Article
+  Google Scholar
+  Turing, A. (1937b). On computable numbers, with an application to the Entscheidungsproblem. A correction. Proceedings of the London Mathematical Society, 43, 544–546.
+Google Scholar
+  Tymoczko, T. (1979). The four-color problem and its philosophical significance. Journal of Philosophy, 76, 57–83.
+Article
+  Google Scholar
+  Uckelman, S. (2018). Computation in medieval Western Europe. In Hansson, S.O. (Ed.) Technology and Mathematics: Philosophical and Historical Investigations (pp. 33–46). Berlin: Springer.
+Google Scholar
+  Urton, G., & Brezine, C.J. (2005). Khipu accounting in ancient Peru. Science, 309(5737), 1065–1067.
+Article
+  Google Scholar
+  Vogelsang, R., Richter, J., Jacobs, Z., Eichhorn, B., Linseele, V., Roberts, R.G. (2010). New excavations of Middle Stone Age deposits at Apollo 11 Rockshelter, Namibia: stratigraphy, archaeology, chronology and past environments. Journal of African Archaeology, 8(2), 185–218.
+Article
+  Google Scholar
+  Wigner, E. (1960). The unreasonable effectiveness of mathematics in the natural sciences. Communications in Pure and Applied Mathematics, 13, 1–14.
+Article
+  Google Scholar
+  Williamson, T. (1982). Intuitionism disproved?. Analysis, 42, 203–207.
+Article
+  Google Scholar
+  Wilson, PL. (2018). What the applicability of mathematics says about its philosophy. In Hansson, S.O. (Ed.) Technology and Mathematics: Philosophical and Historical Investigations (pp. 345–373). Berlin: Springer.
+Google Scholar
+  Winsberg, E. (2018). Computer Simulations in Science, Stanford Encyclopedia of Philosophy, Edward N. Zalta (ed.), https://plato.stanford.edu/archives/sum2018/entries/simulations-science/.
+Zabell, S.L. (2018). Cryptology, mathematics, and technology. In Hansson, S.O. (Ed.) Technology and Mathematics: Philosophical and Historical Investigations (pp. 137–161). Berlin: Springer.
+Google Scholar
+  Download references
+Author information
+Authors and Affiliations
+Royal Institute of Technology (KTH), Department of Philosophy and History, Teknikringen 76, 100 44, Stockholm, Sweden
+Sven Ove Hansson
+Corresponding author
+Correspondence to Sven Ove Hansson.
+Additional information
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Rights and permissions
+Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.
+Reprints and permissions
+About this article
+Cite this article
+Hansson, S.O. Technology and Mathematics. Philos. Technol. 33, 117–139 (2020). https://doi.org/10.1007/s13347-019-00348-9
+Download citation
+Received
+08 August 2018
+Accepted
+12 March 2019
+Published
+26 April 2019
+Issue Date
+March 2020
+DOI
+https://doi.org/10.1007/s13347-019-00348-9
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Provided by the Springer Nature SharedIt content-sharing initiative
+Keywords
+Mathematics
+Technology
+Geometrical building construction
+Computer technology
+Computability
+Usefulness of mathematics
+Use our pre-submission checklist
+Avoid common mistakes on your manuscript.
+Sections
+References
+Abstract
+Introduction
+How it All Began
+The Use of Mathematics in Technology
+The Use of Technology in Mathematics
+A Philosopher’s Dream Come (Partly) True
+Summing up the Philosophical Problems
+The Technology Dependence of Mathematical Knowledge
+The Notion of a Computation
+The Technological Usefulness of Mathematics
+Conclusion
+Notes
+References
+Author information
+Additional information
+Rights and permissions
+About this article
+Advertisement
+Discover content
+Journals A-Z
+Books A-Z
+Publish with us
+Publish your research
+Open access publishing
+Products and services
+Our products
+Librarians
+Societies
+Partners and advertisers
+Our imprints
+Springer
+Nature Portfolio
+BMC
+Palgrave Macmillan
+Apress
+Your privacy choices/Manage cookies Your US state privacy rights Accessibility statement Terms and conditions Privacy policy Help and support
+84.88.154.195
+Universidad de Girona - Biblioteca (2000380201) - Consorci de Serveis Universitaris de Catalunya (CSUC) (3902462594) - Consorci de Serveis Universitaris de Catalunya (3000757071) - Consorci de Serveis Universitaris de Catalunya (3000207896) - Consorci de Serveis Universitaris de Catalunya (3000232385)
+© 2024 Springer Nature

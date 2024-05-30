@@ -1,0 +1,231 @@
+Cerca
+Crea un compte
+Inicia la sessió
+Contingut amaga
+Inici
+Què és la ciència?
+Qui fa ciència?
+Biologia
+Astronomia i física
+Ciència i pseudociència
+Objectius de la ciència
+Història de la Ciència
+Actualitat
+Filosofia de la ciència
+Corrents actuals
+Concepcions estructuralistes i semàntiques
+Filosofia de la ciència naturalitzada
+Realisme davant empirisme
+Sociologia de la ciència
+Filosofia de la ciència real
+Classificació de les principals disciplines científiques
+Ciències pures
+Ciències naturals
+Ciències socials o humanes
+Ciències aplicades
+L'arbre del coneixement
+Vegeu també
+Referències
+Bibliografia
+Enllaços externs
+Ciència
+234 llengües
+Pàgina
+Discussió
+Mostra
+Modifica el codi
+Mostra l'historial
+Eines
+
+Aquest article forma part de la sèrie
+Ciència
+Disciplines científiques
+Mètode i recerca
+Epistemologia
+Evolució científica
+Formals
+Amplia
+Naturals
+Medi físic
+Astronomia  · Geografia  ·
+Física  · Terra  · Química
+Vida
+Biologia  · Genètica  ·
+Neurociència  · Medi ambient
+Humanitats
+Ciències socials
+Política  · Economia  ·
+Lingüística  · Història  · Sociologia
+Ciències humanes
+Antropologia  · Filosofia  · Musicologia  ·
+Art  · Literatura  · Psicologia
+Aplicades
+Amplia
+La ciència (del llatí scientia) és, etimològicament, un conjunt de coneixements dels principis i les causes obtingudes per mitjà del raonament.[1] No obstant això, tot sovint, i en gran manera d'ençà de la revolució copernicana, fa referència especialment a l'activitat destinada a adquirir coneixements ("fer ciència"). D'altra banda, a partir del segle xix, el camp semàntic de la paraula es restringeix a l'esforç organitzat per conèixer la realitat mitjançant el mètode científic, i es desvincula així la filosofia de les ciències exactes i les experimentals.
+Ciència és el coneixement del saber conscient i capaç de ser comunicat i discutit, organitzat i en el sentit de fer factible les operacions que permetin l'aproximació a la realitat, i sempre aportant coneixements que puguin ser desmentits amb el criteri de validesa.
+El conjunt de la ciència es pot dividir en dos grans eixos:
+Ciències pures (el desenvolupament de teories) versus ciències aplicades (l'aplicació de les teories a les necessitats humanes); o
+Ciències naturals (l'estudi del nostre entorn natural) versus ciències socials (l'estudi del comportament dels humans i de les societats).
+Què és la ciència?[modifica el codi]
+Article principal: Filosofia de la ciència
+L'efectivitat de la ciència com a mètode per adquirir coneixement ha constituït un notable camp d'estudi per la filosofia. La filosofia de la ciència intenta entendre la natura i la justificació del coneixement científic i les seves implicacions ètiques. Ha resultat particularment difícil obtenir una definició del mètode científic que pugui servir per diferenciar el que és ciència del que no. Existeixen diferents teories que intenten explicar què és exactament la ciència. Segons l'empirisme, les teories científiques són objectives, comprovables empíricament i previsibles — prediuen resultats empírics que poden ser verificats i possiblement contradits.
+En canvi, el realisme científic defineix la ciència en termes ontològics: la ciència és la identificació dels fenòmens i dels elements de l'entorn, de les energies que els causen, dels mecanismes pels quals hi exerceixen aquestes energies, i de les fonts d'aquestes energies en el context de l'estructura o natura interna del subjecte en estudi.
+Fins i tot en la tradició empírica, per a ser cautes, s'ha d'entendre la "predicció" com el resultat d'un experiment o estudi, i no literalment la predicció del futur. Per exemple, dir que "un paleontòleg pot realitzar prediccions sobre la trobada d'un determinat tipus de dinosaure" és coherent amb la definició empiricista de predicció. Per altra banda, ciències com la geologia o la meteorologia no necessiten poder fer prediccions precises sobre terratrèmols o l'oratge per a ser considerades com a ciències. El filòsof empíric Karl Popper també argumentà que una verificació segura és impossible i que les hipòtesis científiques sols poden ser falsades.
+El positivisme, una forma d'empirisme, recomana usar la ciència, segons és definida per l'empirisme, per a governar assumptes humans. Donada la seua propera afiliació, els termes "positivisme" i "empirisme" són sovint intercanviables. Ambdós han sigut objectiu de crítiques. Per una banda, W. V. Quine demostrà la impossibilitat d'un llenguatge d'observació independent de la teoria, de manera que la mateixa idea de comprovar teories amb fets és problemàtic.
+Una de les crítiques més importants a l'empirisme, però, prové de Thomas Kuhn. Segons ell les observacions sempre estan "carregades de teoria". Kuhn argumentà que la ciència implica "paradigmes", conjunts d'assumpcions, lleis, pràctiques, etc. (normalment no verificats) i que les transicions d'un paradigma cap a una altra generalitat no impliquen la verificació o negació d'una teoria científica. En realitat, segons Kuhn, no es pot dir si un paradigma és millor que un altre, ja que ambdós són "incommensurables". A més, raonà que la ciència no ha avançat històricament com una acumulació constant de fets, tal com el model empíric implica.
+Tant Popper com Kuhn s'oposen a les posicions positivistes i falsacionistes concedeixen prioritat a la teoria sobre l'observació. Imre Lakatos intentà modificar el falsacionisme de Popper utilitzant alguns dels conceptes de Kuhn, però sense caure en el, per a ell, terrible relativisme implícit en la idea kuhniana de paradigma. Lakatos introduí el concepte de programa d'investigació, format per un nucli central i un conjunt suposicions addicionals, de manera que les observacions experimentals afecten bàsicament a les hipòtesis addicionals però no modifiquen substancialment el nucli central.
+Altres filòsofs, com Paul Feyerabend, tenen una visió molt més "anarquista" de la ciència i fins i tot neguen que existeixi un mètode específicament científic i que res no distingeix la ciència d'altres formes de coneixement.
+Qui fa ciència?[modifica el codi]
+Els científics són els encarregats de portar a terme l'activitat científica. A continuació un seguit de científics destacat organitzats segons la seva especialització en les diferents branques de la ciència:
+Biologia[modifica el codi]
+Antonie van Leeuwenhoek (1632 - 1723)
+Carl von Linné (1707 - 1778)
+Charles Robert Darwin (1809 - 1882)
+Gregor Johann Mendel (1821 - 1884)
+Louis Pasteur (1822 – 1895)
+Alexander Fleming (1881 - 1955)
+Astronomia i física[modifica el codi]
+Tales de Milet (635 aC - vora 545 aC)
+Nicolau Copèrnic (1477 - 1543)
+Galileo Galilei (1564 - 1642)
+Johannes Kepler (1571 - 1630)
+Isaac Newton (1642 - 1727)
+Albert Einstein (1879 - 1955)
+Ciència i pseudociència[modifica el codi]
+Article principal: Pseudociència
+El model atòmic de Bohr és un exemple d'idea que va ser acceptada alguna vegada i desestimada després mitjançant l'experimentació.
+La ciència es recolza sobretot en la deducció i la demostració, si bé de vegades ha d'usar la inducció, ja que no pot proporcionar una explicació completa del món.[2]
+Aquestes "mancances" de la ciència han estat aprofitades per altres disciplines que reivindiquen l'apel·latiu de ciència, si bé la comunitat internacional les denomina pseudociències (és un terme despectiu). Dintre aquest grup s'englobarien l'astrologia, la ufologia o l'esoterisme, per exemple. La medicina alternativa acostuma a estar classificada també com a pseudociència, si bé en alguns casos és medicina tradicional (com la medicina tradicional xinesa o l'ayurveda).
+Les pseudociències no suporten la prova de la falsabilitat ni la de la navalla d'Occam. No s'han de confondre amb disciplines que reivindiquen vies alternatives de coneixement a la raó, amb la protociència o amb postulats populars.
+Objectius de la ciència[modifica el codi]
+Abans d'explicar quins són els objectius de la ciència, convé considerar els objectius que sovint se li adjudiquen erròniament:
+Malgrat l'opinió generalitzada, l'objectiu de la ciència no és donar resposta a totes les preguntes. L'objectiu de les ciències físiques és contestar sols a aquelles que pertanyen a la realitat física. A més, la ciència no pot encarregar-se de totes les preguntes possibles; per tant, l'elecció de quines preguntes respondre és important.
+La ciència no pot i no produeix veritats absolutes i inqüestionables. En compte d'això, la ciència física sovint prova hipòtesis sobre alguns aspectes del món físic i quan és necessari les revisa o canvia d'acord amb les noves observacions o dades.
+Segons l'empirisme, la ciència no fa cap declaració sobre com la natura realment "és". La ciència sols pot fer conclusions sobre les nostres observacions de la natura. Tant els científics com la gent que accepta la ciència creuen, actuen com si la natura realment "fora" tal com la ciència afirma. Nogensmenys, açò sols és un problema si acceptem la noció empírica de la ciència.
+La ciència no és una font de juís subjectius de valor, encara que certament pot parlar d'assumptes d'ètica i política senyalant les conseqüències probables de certes accions. El que hom projecta des de les hipòtesis científiques actuals més raonables cap a altres àrees d'interès no és assumpte de la ciència, i el mètode científic no ofereix assistència a aquells que desitgen fer-ho. No obstant això, sovint s'afirma una justificació o rebuig científic per a moltes coses. Per descomptat, els juís de valor són intrínsecs a la ciència mateixa: per exemple, la ciència valora la veritat i el coneixement.
+L'objectiu subjacent o propòsit de la ciència per a la societat i els seus individus és produir models útils de la realitat. S'ha dit que és virtualment impossible fer deduccions a partir dels sentits humans que descriuen el que la natura "és".
+Per altra banda, la ciència pot fer prediccions basades en observacions. Amb freqüència aquestes prediccions beneficien la societat o individus humans que fan ús d'elles. Per exemple, la física de Newton i, en casos més extrems, la relativitat, ens permeten predir qualsevol cosa des de l'efecte que tindrà una bola de billar sobre una altra fins a la trajectòria de transbordadors espacials o satèl·lits. Les ciències socials ens permeten predir (amb limitada precisió per ara) coses com turbulències econòmiques, i també ens ajuden a entendre millor el comportament humà i a produir models de la societat i actuacions més empíriques en les polítiques governamentals.
+Resumint:
+La ciència produeix models útils, que sovint ens permeten fer prediccions útils: la ciència intenta descriure què és, però evita intentar determinar què és (el qual és, per raons pràctiques, impossible).
+La ciència és una ferramenta útil, és el cos en creixement del coneixement que ens permet tractar més efectivament amb el que ens envolta i adaptar-nos i evolucionar com un tot social a més d'independentment.
+A vegades es cau en l'error d'extrapolar els resultats o explicacions de la ciència a altres dominis. Un exemple d'aquest error és la fal·làcia naturalista, que consisteix a creure que una cosa és bona si és natural i dolenta si no ho és, sense considerar que la moral no pot ser regida per la ciència. Errors similars estan a la base de les guerres entre ciència i religió, que han durat segles: ni la ciència pot encara resoldre els problemes de la metafísica ni serveix per negar o provar la fe; alhora la creença no podrà ser mai argument de veritat o mentida. A més a més, la ciència canvia i revisa els seus propis postulats, no es pot acceptar com a dogma infal·lible
+L'individualisme és una assumpció tàcita subjacent en la major part dels informes sobre ciència, en els que aquesta es tracta com si es tractés purament d'un sol individu enfrontant-se a la natura, fent experiments i predient hipòtesis. Però de fet, la ciència és sempre una activitat col·lectiva conduïda per una comunitat científica. Açò pot demostrar-se de moltes maneres, tal volta la més fonamental i trivial és que els resultats científics deuen comunicar-se amb el llenguatge. Per tant, els valors de les comunitats científiques impregnen la ciència que aquestes produeixen.
+Història de la Ciència[modifica el codi]
+Articles principals: Història de la ciència, Revolució científica
+La història de la ciència no s'interessa únicament pels fets posteriors a la revolució científica i la implementació del mètode científic, sinó que intenta rastrejar els precursors de la ciència moderna fins a temps prehistòrics.
+Bust d'Aristòtil
+A Occident, l'avantsala a la ciència va ser la filosofia de la natura, que desacreditava l'experimentació com a mètode de validació del coneixement i es concentrava en l'observació pura. Un dels més destacats filòsofs de la natura va ser el pensador Aristòtil (384 aC - 322 aC).
+Després d'Aristòtil, la ciència grega es va anar independitzant de la filosofia.
+El món oriental també va desenvolupar sistemes científics propis, sent aquests més complexes als d'occident durant gran part de la història.
+Nicolau Copèrnic
+Després de la caiguda de l'Imperi Romà d'Occident (476) gran part d'Europa va perdre contacte amb el coneixement escrit. A aquest llarg període d'estancament sovint es coneix com l'edat fosca.
+El Renaixement (segle xiv a Itàlia), anomenat així pel redescobriment de treballs d'antics pensadors, va marcar la fi de l'edat mitjana i va fundar fonaments sòlids per al desenvolupament de nous coneixements. Dels científics d'aquesta època en destaca Copèrnic, a qui se li atribueix haver iniciat la revolució científica amb la seva teoria heliocèntrica.
+Entre els pensadors més prominents que van donar forma al mètode científic i a l'origen de la ciència com sistema d'adquisició de coneixement hom pot destacar a Roger Bacon a Anglaterra, René Descartes a França i Galileo Galilei a Itàlia.
+Actualitat[modifica el codi]
+La història recent de la ciència està marcada pel continu refinatge del coneixement adquirit i el desenvolupament tecnològic, accelerat des de l'aparició del mètode científic. El desenvolupament modern de la ciència avança en paral·lel amb el desenvolupament tecnològic impulsant-se ambdós camps mútuament. Si bé les revolucions científiques de principis del segle XX van estar lligades al camp de la física a través del desenvolupament de la mecànica quàntica i la relativitat general, en el segle XXI la ciència s'enfronta a la revolució biotecnològica i dels nanomaterials, amb el debat de rerefons sobre el principi de precaució, la ciència postnormal i la democratització de l'activitat tecno-científica.
+Filosofia de la ciència[modifica el codi]
+Article principal: Filosofia de la ciència
+L'efectivitat de la ciència com a manera d'adquisició de coneixement ha constituït un notable camp d'estudi per a la filosofia. La filosofia de la ciència intenta comprendre el caràcter i justificació del coneixement científic i les seves implicacions ètiques. Ha resultat particularment difícil proveir una definició del mètode científic que pugui servir per distingir en forma clara la ciència de la no-ciència.
+« La més bella i profunda emoció que ens és donat sentir és la sensació d'allò místic. Ella és la que genera tota veritable ciència. L'home que desconeix aquesta emoció, que és incapaç de meravellar-se i sentir l'encant i la sorpresa, està pràcticament mort. Saber que allò que per a nosaltres és impenetrable realment existeix, que es manifesta com la més alta saviesa i la més radiant bellesa, sobre la qual les nostres embotades facultats només poden comprendre en les seves formes més primitives. Aquest coneixement, aquesta sensació, és la veritable religió. »
+— Albert Einstein
+En l'actualitat, la posició generalitzada és la naturalista, davant del fundacionals predominant en tota la tradició. Tant és així que fins i tot podria considerar-se una moda filosòfica, desdibuixant el sentit originari del naturalisme. Les característiques bàsiques del naturalisme original són, com va assenyalar Quine en La naturalització de l'epistemologia, una posició no fundacionals i multidisciplinària. Mentre que l'objectiu tradicional de la filosofia de la ciència ha estat el de justificar i legitimar el coneixement científic, l'objectiu posterior és el d'entendre com es dona a tal coneixement científic, entès com a activitat i empresa humana, utilitzant per a això tots els recursos pertinents, és a dir, totes les disciplines rellevants: biologia, psicologia, antropologia, sociologia, ... i fins i tot economia i tecnologia.
+La filosofia de la ciència investiga la naturalesa del coneixement científic i la pràctica científica. S'ocupa de saber, entre altres coses, com es desenvolupen, avaluen i canvien les teories científiques, i de saber si la ciència és capaç de revelar la veritat de les "entitats ocultes" (o sigui, no observables) i els processos de la natura. Són filosòfiques les diverses proposicions bàsiques que permeten construir la ciència. Per exemple:
+La realitat existeix de manera independent de la ment humana (tesi ontològica de realisme).
+La naturalesa és regular, almenys en alguna mesura (tesi ontològica de legalitat).
+L'ésser humà és capaç de comprendre la natura (tesi gnoseológica d'intel·ligibilitat).
+Si bé aquests supòsits metafísics no són qüestionats pel realisme científic i molts investigadors els donen per establerts, hi ha científics de diverses disciplines que han plantejat serioses sospites respecte del segon[3] i nombrosos filòsofs que n'han posat en dubte algun o tots tres.[4] De fet, les principals pel que fa a la validesa d'aquests supòsits metafísics són part de la base per a distingir les diferents corrents epistemològiques històriques i actuals. D'aquesta manera, encara que en termes generals l'empirisme lògic defensa el segon principi, oposa objeccions al tercer i assumeix una posició fenòmens, és a dir, admet que l'home pot comprendre la naturalesa sempre que per naturalesa s'entengui "els fenòmens" (el producte de l'experiència humana) i no la pròpia realitat.
+En poques paraules, el que intenta la filosofia de la ciència és explicar problemes tals com:
+la natura i l'obtenció de les idees científiques (conceptes, hipòtesis, models, teories, etc.);
+la relació de cadascuna d'elles amb la realitat;
+com la ciència descriu, explica, prediu i contribueix al control de la natura (això últim en conjunt amb la filosofia de la tecnologia);
+la formulació i ús del mètode científic;
+els tipus de raonament utilitzats per arribar a conclusions;
+les implicacions dels diferents mètodes i models de ciència.
+La filosofia de la ciència comparteix alguns problemes amb la gnoseología, la teoria del coneixement, però a diferència d'aquesta restringeix el seu camp de recerca als problemes que planteja el coneixement científic (que, tradicionalment, es distingeix d'altres tipus de coneixement, com l'ètic o estètic). Per la seva banda, la teoria del coneixement s'ocupa dels límits i condicions de possibilitat de tot coneixement.
+Alguns científics han mostrat un viu interès per la filosofia de la ciència i uns pocs, com Galileo Galilei, Isaac Newton i Albert Einstein, han fet importants contribucions. Nombrosos científics, però, s'han donat per satisfets deixant la filosofia de la ciència als filòsofs i han preferit seguir fent ciència en comptes de dedicar més temps a considerar com es fa la ciència. Dins de la tradició occidental, entre les figures més importants anteriors al segle xx destaquen Plató, Aristòtil, René Descartes, John Locke, David Hume, Emmanuel Kant i John Stuart Mill.
+La filosofia de la ciència no es va denominar així fins a la formació del Cercle de Viena, a principis del segle xx. En la mateixa època, la ciència va viure una gran transformació arran de la teoria de la relativitat i de la mecànica quàntica. Entre els filòsofs de la ciència més coneguts del segle xx figuren Karl R. Popper i Thomas Kuhn.
+Corrents actuals[modifica el codi]
+Per parlar d'una filosofia de la ciència no n'hi ha prou amb tenir una visió panoràmica del que és filosofia i del que és ciència. Tampoc no és suficient el seguiment històric de les opinions i conceptes emesos pels pensadors del passat. Cal ubicar-se en el pensament actual dels científics més avançats i respectar els seus conceptes sobre el que ells consideren com a ciència, i cal entendre que el domini de la filosofia són els conceptes universals i abstractes que mai no poden arribar a ser objecte de la ciència.
+És extremadament complex (i, possiblement, encara falta una mica més de perspectiva temporal) de presentar un panorama complet de la filosofia de la ciència en els darrers trenta o trenta-cinc anys. Així com tots els autors anteriors ja han mort, la majoria dels que venen a continuació no. Aquí s'intentarà presentar un esbós de la gran varietat d'enfocaments actuals però tenint al cap que, dins de pocs anys, alguns dels corrents esmentats poden haver passat a l'oblit, i que destaquin altres pensadors que avui tenen una repercussió menor.
+Així com anteriorment es podia parlar de "el mètode" de la ciència, el gran desenvolupament de moltes disciplines científiques ha fet que els filòsofs de la ciència comencin a parlar de "els mètodes", ja que no és possible identificar un mètode únic i universalment vàlid. La idea heretada de la física clàssica que tot és reductible a expressions matemàtiques ha cedit terreny davant de situacions noves com la teoria del caos o els avenços de la biologia. D'altra banda han desaparegut qüestions que van arribar a cobrir centenars de pàgines i generar grans controvèrsies. Potser el cas més flagrant és el del problema de la demarcació, centrat en la distinció (demarcació) entre ciència i altres coneixements no científics. Pràcticament el tema desapareix després de Popper i és seguit a Espanya per Gustavo Bueno en la seva teoria del tancament categorial.
+Concepcions estructuralistes i semàntiques[modifica el codi]
+Enfront de l'intent dels anteriors empiristes lògics de formalitzar les teories de la física en el llenguatge de la lògica de primer ordre, que resultava una mica forçat i innecessàriament complicat, Patrick Suppes va ser el primer a proposar una concepció semàntica i estructural de les teories, caracteritzades com a famílies d'estructures conjuntives identificades amb els models de la teoria.[5] Aquesta manera de presentar les teories en el llenguatge informal de la teoria de conjunts resultava així més intuïtiva i familiar. Supper ha elaborat les seves idees mitjançant el desenvolupament de teories cada vegada més potents sobre les estructures teòriques, incloent els seus importants teoremes de representació i invariància.[6]
+En filosofia de la ciència es coneix a vegades com estructuralisme el programa de reconstrucció de les teories físiques proposat per Joseph D. Sneed (1938) el 1971[7] com una síntesi de l'aparell formal de Supper, del racionalisme crític i del positivisme lògic amb el corrent historicista de la ciència. L'estructuralisme va ser reelaborat i divulgat per Wolfgang Stegmüller (1923-1991) i C. Ulises Moulines (1946). De la consideració de les teories com estructures li ve a aquesta proposta metodològica el nom d'estructuralisme, que no té res a veure amb l'estructuralisme lingüístic de Saussure.
+Juntament amb les restriccions empíriques, una teoria consta d'una estructura conceptual i d'un àmbit d'aplicació. Atès que les teories no es presenten aïllades sinó interrelacionades també és necessari estudiar les relacions entre teories, les xarxes teòriques. Entre aquestes relacions trobem la de reducció, potser la més destacada pel seu paper en la unitat de la ciència. Malgrat les múltiples teories que puguin coexistir per explicar els mateixos fets, la unitat ontològica de la ciència pot salvar si totes elles són reductible a una sola teoria (o unes poques no incommensurables entre ells). Aquesta relació interteorética exerceix un paper fonamental, per exemple, en el treball dels físics en la cerca de la Teoria del tot.
+Moulin proposa una definició recursiva de la filosofia de la ciència com teorització sobre teoritzacions, l'epistemologia no és descriptiva ni prescriptiva, sinó interpretativa. Les teories de la ciència són construccions culturals, però això no implica que la filosofia de la ciència sigui substituïda per una sociologia de la ciència.
+A banda de l'estructuralisme de Sneed i els seus seguidors, també altres desenvolupaments de la filosofia de la ciència contemporània han estat influïts per les idees i mètodes conjuntes i probabilistas introduïts per Supp. Bas van Fraassen ha aportat la seva coneguda concepció semàntica de les teories, que ha aplicat l'anàlisi de la mecànica quàntica. Jesús Mosterín[8] i Roberto Torretti[9] han fet contribucions en aquesta direcció, que així mateix aflora al diccionari conjunt d'aquests dos autors.[10]
+Filosofia de la ciència naturalitzada[modifica el codi]
+Per Ronald N. Giere (1938) el mateix estudi de la ciència ha de ser també una ciència: "L'única filosofia de la ciència viable és una filosofia de la ciència naturalitzada". Això és així perquè la filosofia no disposa d'eines apropiades per a l'estudi de la ciència en profunditat. Gier suggereix, doncs, un reduccionisme en el sentit que per a ell l'única racionalitat legítima és la de la ciència. Proposa el seu punt de vista com l'inici d'una disciplina nova, una epistemologia naturalista i evolucionista, que substituirà la filosofia de la ciència actual.
+Larry Laudan (1941) proposa substituir el que ell anomena model jeràrquic de la presa de decisions pel model reticulat de justificació. En el model jeràrquic els objectius de la ciència determinen els mètodes que s'utilitzaran, i aquests determinen els resultats i teories. En el model reticulat es té en compte que cada element influeix sobre els altres dos, la justificació flueix en tots els sentits. En aquest model el progrés de la ciència està sempre relacionat amb el canvi d'objectius, la ciència no té objectius estables.
+Realisme davant empirisme[modifica el codi]
+El debat sobre el realisme de la ciència no és nou, però en l'actualitat encara està obert. Bas C. Van Fraasen (1941), empirista i un dels principals oponents del realisme, opina que tot el que es requereix per a l'acceptació de les teories és la seva adequació empírica. La ciència ha d'explicar allò observat deduït de postulats que no necessiten ser veritables més que en aquells punts que són empíricament comprovables. Arriba a dir que "no hi ha raó per afirmar tan sols que existeix una cosa tal com el món real". És l'empirisme constructiu, pel que el decisiu no és la realitat, sinó allò observable.
+Laudan i Gier presenten una postura intermèdia entre el realisme i el subjectivisme estrictes. Laudan opina que és fals que només el realisme expliqui l'èxit de la ciència. Gier proposa que hi ha ciències que presenten un alt grau d'abstracció, com la mecànica quàntica, i utilitzen models matemàtics molt abstractes. Aquestes teories són poc realistes. Les ciències que estudien fenòmens naturals molt organitzats com la biologia molecular, utilitzen teories que són molt realistes. Per això no es pot utilitzar un criteri uniforme de veritat científica.
+Rom Harré (1927) i el seu deixeble Roy Bhaskar (1944) van desenvolupar el realisme crític, un cos de pensament que vol ser l'hereu de la Il·lustració en la seva lluita contra els irracionals i el racionalisme reduccionista. Destaquen que l'empirisme i el realisme condueixen a dos tipus diferents d'investigació científica. La línia empirista busca noves concordances amb la teoria, mentre que la línia realista intenta conèixer millor les causes i els efectes. Això implica que el realisme és més coherent amb els coneixements científics actuals.
+Dins del corrent racionalista d'oposició al neopositivisme es troba a Mario Bunge (1919). Analitza els problemes de diverses epistemologies, des del racionalisme crític de Popper fins a l'empirisme, el subjectivisme o el relativisme. Bunge és realista crític. Per a ell la ciència és fal·libilitat (el coneixement del món és provisional i incert), però la realitat existeix i és objectiva. A més es presenta com materialista, però per esquivar els problemes d'aquesta doctrina postil·la que es tracta d'un materialisme emergents.
+Sociologia de la ciència[modifica el codi]
+Robert K. Merton (1910-2003) es considera el fundador de la sociologia de la ciència en els anys quaranta, després molt influïda pels treballs de Kuhn, L'estructura de les revolucions científiques, 1962 i 1969. L'aportació bàsica per a la filosofia de la ciència va ser introduir el terme paradigma com supòsits teòrics generals: lleis més tècniques en una comunitat científica determinada, on un antic paradigma és total o en part reemplaçat i s'anomena revolució científica aquest procés i el canvi no és de forma acumulativa, sinó paradigmàtic.
+La primera sociologia distingia uns factors interns de la mateixa ciència (metodologia, objectius, etc.) Que eren independents d'altres factors externs (sociològics, polítics, etc.) No pertanyents a la ciència. Però una part de la sociologia de la ciència posterior va prescindir d'aquesta distinció. David Bloor (1913) i Barry Barnes són els principals exponents. Afirmen que els científics són persones que es poden veure tan afectades pels factors sociològics que hem de pensar que totes les creences són igualment problemàtiques.
+Bruno Latour (1947) i Steve Woolgar proposen un concepte antropològic de la ciència i, per tant, el seu estudi per aquesta disciplina. Juntament amb les influències antropològiques, uneixen també corrents filosòfiques com el pragmatisme, per crear una cosa així com una epistemologia alternativa.
+Filosofia de la ciència real[modifica el codi]
+Atenent a les crítiques de Thomas Kuhn i altres historiadors que la filosofia de la ciència amb freqüència s'ocupa de problemes artifici i allunyats de la ciència real, diversos filòsofs de la ciència contemporanis han tractat d'aproximar les seves anàlisis a la problemàtica actual de la investigació científica. Això ha tingut com a conseqüència tant la revitalització de la filosofia de la ciència com el desenvolupament de diverses branques especialitzades d'aquesta: filosofia de la mecànica quàntica, filosofia de la cosmologia, filosofia de la biologia, etc. A ambdues tasques han contribuït filòsofs com John Earman, Bernulf Kanitscheider, Jesús Mosterín,[11] Lawrence Sklar, Elliott Sober, Roberto Torretti[12] i Bas C. van Fraassen, així com nombrosos científics, com Lee Smolin o Ramon Lapiedra.[13]
+Classificació de les principals disciplines científiques[modifica el codi]
+Article principal: Llista de disciplines científiques
+Avui dia ja no es pot parlar de ciència de manera genèrica, ja que l'especialització del saber és tal que han aparegut nombroses disciplines sota aquest terme. A partir del segle xviii va produir-se la primera separació, entre ciències de la naturalesa i ciències de l'esperit (en termes de Dithley), esquema que posteriorment va incorporar més subdivisions. Les més rellevants són les que apareixen a:
+Ciències pures[modifica el codi]
+Matemàtiques - Lògica
+Ciències naturals[modifica el codi]
+Astronomia - Biologia - Bioquímica - Biotecnologia - Ciències Ambientals - Ciències de la Terra - Ecologia - Física - Geologia - Química
+Ciències socials o humanes[modifica el codi]
+Antropologia - Arqueologia - Biblioteconomia - Ciències de la informació - Ciències polítiques - Dret - Economia - Geografia - Història - Lingüística - Pedagogia - Psicologia - Sociologia - Filosofia - Religions i creences - Urbanisme
+Ciències aplicades[modifica el codi]
+Agricultura - Astronàutica - Automoció - Ciències de la salut - Comunicacions i transports - Gastronomia - Geografia - Informàtica - Mineria - Pesca - Ramaderia - Tecnologia
+Amplia
+Principals camps de les ciències aplicades
+L'arbre del coneixement[modifica el codi]
+Un intent per unificar i classificar les diferents disciplines científiques (sobretot arran de l'anomenada "guerra de les ciències" o separació radical entre la cultura literària i la científica empirista exposada per Charles Percy Snow) es pot trobar a l'obra Tree of Knowledge, de Gregg Henriques on les diferents ciències es divideixen per camp d'acció: la matèria, la vida, la ment i la cultura.
+Vegeu també[modifica el codi]
+Portal de la Ciència
+Contribucions catalanes a la ciència
+Tecnociència
+Referències[modifica el codi]
+↑ Diccionario de Filosofía (en castellà). 1a. Barcelona: SPES Editorial (edició especial per a RBA Editoriales), 2003, p. 41 (Biblioteca de Consulta Larousse). ISBN 84-8332-398-2.
+↑ «¿Por qué estudiar una maestría en ciencias de la educación?». [Consulta: 5 octubre 2020].
+↑ Per exemple, Lawton, J. H. (1999) "Are there general laws in ecology?" Oikos84 (2): 177-192; Poulin, R. (2007) "Are there general laws in parasita ecology?" Parasitology134 (6): 763-776.
+↑ Vegeu, per exemple, entre molts altres, Van Fraassen, B. (1980)The Scientific Image. Oxford: Oxford University Press.
+↑ Supper, Patrick (1957). Introduction to Logic. Van Nostrand Company. 312 pp. ISBN 0-442-08072-7.
+↑ Supper, Patrick (2002). Representation and Invariance of Scientific Structures. CSLI Publications. 536 pp. ISBN 1-57586-333-2.
+↑ Sneed, Joseph (1971). The Logical Structure of Mathematical Physics. Dordrecht: Reidel. 320 pp. ISBN 90-277-1056-2.
+↑ Mosterín, Jesús (2000, 2006). Conceptes i teories en la ciència. Madrid: Alianza Editorial. 318 pp. ISBN 978-84-206-6741-6.
+↑ Torretti, Roberto (1990). Creative Understanding: Philosophical Reflections on Physics. The University of Chicago Press. 369 pp. ISBN 0-226-80835-1.
+↑ Mosterín, Jesús e Roberto Torretti (2002). Diccionari de Lògica i Filosofia de la Ciència. Madrid: Alianza Editorial, 2002. 670 pp. ISBN 84-206-3000-4.
+↑ Mosterín, Jesús (2006). Ciència viva. Madrid: Espasa Calpe. ISBN 84-670-2355-4.
+↑ Torretti, Roberto (1999)Philosophy of Physics. Cambridge University Press. ISBN 0-521-56571-5.
+↑ Lapiedra, Ramon (2008). Les mancances de la realitat. Barcelona: Tusquets. ISBN 978-84-8383-044-4.
+Bibliografia[modifica el codi]
+A. F. Chalmers. ¿Qué es esa cosa llamada ciencia? (Siglo XXI editores. Madrid, 1982). Introducció divulgativa i molt entenedora a la filosofia de la ciència i l'epistemologia.
+Enllaços externs[modifica el codi]
+En altres projectes de Wikimedia:
+Commons (Galeria)
+Commons (Categoria)
+Viccionari
+Viquidites
+Viquillibres
+Viquinotícies
+Roger Carandell. Ciència i creença. Barcelona: YouPlanet, 2021.
+Glossari de ciències Arxivat 2004-02-03 a Wayback Machine.
+Catalunya, terra de ciència? Arxivat 2005-11-17 a Wayback Machine.
+Un web sobre la imatge que els nens catalans tenen de les científiques i dels científics Arxivat 2008-10-19 a Wayback Machine.
+
+Registres d'autoritat
+BNE (1) BNF (1) GND (1) LCCN (1) NDL (1) NKC (1)
+Categoria: Ciència
+La pàgina va ser modificada per darrera vegada el 20 set 2023 a les 08:54.
+El text està disponible sota la Llicència de Creative Commons Reconeixement i Compartir-Igual; es poden aplicar termes addicionals. Vegeu les Condicions d'ús. Wikipedia® (Viquipèdia™) és una marca registrada de Wikimedia Foundation, Inc.
+Política de privadesa
+Quant al projecte Viquipèdia
+Descàrrec de responsabilitat
+Codi de conducta
+Desenvolupadors
+Estadístiques
+Declaració de cookies
+Versió per a mòbils

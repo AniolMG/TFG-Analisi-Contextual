@@ -1,0 +1,234 @@
+Jump to content
+Search
+Create account
+Log in
+Photograph your local culture, help Wikipedia and win!
+Contents hide
+(Top)
+Gameplay
+Plot
+Bowser's Inside Story
+Development
+Reception
+Remake
+Reception
+Plot
+Bowser Jr.'s Journey
+Notes
+References
+External links
+Mario & Luigi: Bowser's Inside Story
+23 languages
+Article
+Talk
+Read
+Edit
+View history
+Tools
+From Wikipedia, the free encyclopedia
+Mario & Luigi: Bowser's Inside Story
+North American box art
+Developer(s) AlphaDream
+Publisher(s) Nintendo
+Director(s) Hiroyuki Kubota
+Producer(s) Toshiharu Izuno
+Akira Otani
+Yoshihiko Maekawa
+Artist(s) Kouichi Fukazawa
+Writer(s) Hiroyuki Kubota
+Composer(s) Yoko Shimomura
+Series Mario & Luigi
+Platform(s) Nintendo DS
+Release
+JP/ROC: February 11, 2009
+NA: September 15, 2009[1]
+EU: October 9, 2009
+AU: October 22, 2009
+Genre(s) Role-playing
+Mode(s) Single-player
+Mario & Luigi: Bowser's Inside Story[a] is a role-playing game developed by AlphaDream and published by Nintendo for the Nintendo DS handheld game console in 2009. It is the third game in the Mario & Luigi role-playing series. It uses the interactive screens of the DS in some of its gameplay mechanics while also introducing several elements that would be used in the series' future gameplay.
+The game's plot involves Mario and Luigi being inhaled into the body of their long-time nemesis, Bowser. The Mario brothers learn to help Bowser, who is unaware of their presence inside his body, to combat their mutual enemy Fawful, who has taken over the Mushroom Kingdom. The gameplay focuses on the trio's cooperation, with specific abilities to solve puzzles and fight enemies. Similarly to its predecessors, its role-playing style emphasizes a turn-based battle system focused on timing accuracy, and it is almost entirely comedic in nature.
+The game was both critically and commercially successful, with many fans and critics considering it to be the best game in the series. It is the second best-selling Mario role-playing game, with more than four million copies sold worldwide by April 2011.[2]
+A sequel, titled Mario & Luigi: Dream Team, was released for the Nintendo 3DS on July 12, 2013. A remake for the Nintendo 3DS, titled Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey, was released in Japan on December 27, 2018, in North America on January 11, 2019, in Europe on January 25, 2019, and in Australia on January 26, 2019.
+Gameplay[edit]
+See also: Gameplay of Partners in Time
+Bowser is a playable character, with his own set of skills in exploration and combat.
+Gameplay alternates among three characters: Mario and Luigi, who are controlled together on the bottom screen using A and B, and Bowser, who is controlled on the top screen with X and Y. There are two main worlds: the overworld, which is played in an overhead view, and the world inside Bowser's body, which is a 2D side-scrolling world. Although most of the game is played with Mario and Luigi inside Bowser and Bowser himself in the overworld, Mario and Luigi also have opportunities to visit the overworld via warp pipes as the game progresses. Bowser can travel between different areas of the overworld using portals known as "Chakroads", which are hidden under objects that only Bowser can destroy, such as trees and boulders. Gameplay typically alternates between controlling the brothers and controlling Bowser. Some sections involve direct interaction between the brothers and Bowser.
+The battle system from the previous two games is reused with Bowser as a playable character. Bowser's battles are similar to Mario and Luigi's, although Bowser specializes in punching and breathing fire. During Bowser's battles, he can inhale defenses and enemies from the top screen. Any inhaled enemies enter his body, where Mario and Luigi fight them. Mario, Luigi, and Bowser have their own sets of special attacks that cost "SP" to use. Bowser's special attacks utilize the touchscreen. Mario and Luigi can unlock abilities by finding sets of attack pieces, while Bowser can earn new abilities by rescuing his caged minions or by finding living, kitten-like blocks called Blitties.
+The three characters have "ranks" that increase with their level. Upon reaching these milestones, that character receives a special bonus, such as an additional equipment slot, additional equipment, or being able to visit new shops. Mario and Luigi each have six ranks, while Bowser has four. The badge system from previous games has also changed; now Mario and Luigi can use certain effects by filling a meter and then touching it to activate its effect. The badge's effect, such as health recovery or raising stats, varies depending on the combination of badges equipped.
+There are various minigames in which the Mario Bros. have to help out Bowser's body from the inside in order to help him progress. Examples include the "Arm Center", where the brothers hit sparklike items into a muscle to strengthen Bowser's arms; the "Leg Outpost", where they stomp on leg muscles to strengthen Bowser's legs; and the "Gut Check", where they help digest food that Bowser eats. One location, the "Rump Command", has the player accumulate adrenaline in order to supersize Bowser if he is crushed, leading to a new battle system in which the DS is held vertically and all attacks require the stylus and microphone.[3] The 3DS version substitutes button presses for the microphone but still incorporates the stylus for certain moves.
+Plot[edit]
+Bowser's Inside Story[edit]
+The game opens with a disease called "The Blorbs" spreading across the Mushroom Kingdom. Toads that become infected with the disease inflate like a balloon and roll around uncontrollably. A council meeting is immediately called at Princess Peach's Castle to discuss what can be done about the epidemic. Starlow, a representative of the Star Sprites that watch over the Mushroom Kingdom, also attends, as do Mario and Luigi. At the meeting, it is discovered that all those affected had previously eaten a "Blorb Mushroom" given to them by a salesman, who is secretly the mad scientist Fawful from Superstar Saga. Bowser invades the castle, intending to kidnap Princess Peach, but is defeated by Mario and expelled from the castle, sending him flying outward.
+Bowser finds himself in Dimble Wood, where he is tricked by Fawful into eating a "Vacuum Shroom" that gives him the power to inhale things. Immediately after eating it, Bowser begins mindlessly inhaling everything in sight and goes back to the castle, where he inhales Mario, Luigi, Princess Peach, Starlow, and several Toads into his body, the process shrinking all of them to microscopic size. After this, Bowser passes out, and with Peach now gone and the Blorbs incapacitating the majority of the Mushroom Kingdom, Fawful proceeds to take over Peach's castle, while his assistant, the boar-like Midbus, takes over Bowser's castle. Navigating Bowser's body, Mario and Luigi manage to revive him, and he is revealed to have no memory of his mindless rampage; consequently, he does not know that the Mario brothers are inside his body. Bowser only communicates with Starlow, who nicknames herself "Chippy" to conceal her true identity. Bowser begins tracking down Fawful in an attempt to reclaim his castle with the assistance of the Mario brothers and Starlow.
+After leading Bowser into a trap, Fawful removes Peach from Bowser's body and kidnaps her, allowing him to take possession of the Dark Star, an evil and powerful entity with a seal that can only be broken by Peach. The Dark Star subsequently creates a barricade preventing anyone from entering Peach's Castle. Mario and Luigi are able to sneak out of Bowser's body together via warp pipe into Toad Town, where physician Dr. Toadley tells them they must gather the three Star Cures in order to create the Miracle Cure, a magical medicinal object that will cure the Blorbs and destroy the barricade. Bowser overhears this and races for the cures himself, only to be trapped in a safe by some of his minions who betrayed him to serve Fawful. Ultimately, the brothers collect all three star cures, and the Miracle Cure destroys the barricade, curing all victims of the Blorbs in the process.
+Bowser is freed from the safe and tracks down Fawful in Peach's transformed castle. After Bowser defeats Midbus, the Dark Star's seal is broken. Fawful starts absorbing its power until Bowser punches him away, and it enters Bowser's body, where it leeches on his cells and absorbs his DNA, allowing it to copy his abilities. Mario and Luigi, who have re-entered Bowser's body, engage in battle with the Dark Star, and emerge victorious, but it escapes, and uses Bowser's DNA to start to become a shadowy, powerful doppelgänger of Bowser named Dark Bowser, who seeks the power Fawful stole to complete the transformation. Fawful, meanwhile, has begun trying to locate the Dark Star to finish taking its power, but Bowser finds and defeats him. Soon after, however, Dark Bowser finds Fawful and inhales him, allowing it to finally complete its transformation, and it unleashes a dark storm over the Mushroom Kingdom. Bowser fights Dark Bowser, and inhales the Dark Star's core when it tries to get away, allowing Mario and Luigi to fight and destroy the Dark Star's core, thus destroying Dark Bowser and the Dark Star, restoring the Mushroom Kingdom to normal. Fawful, having been inhaled into Bowser as part of the Dark Star's core during the battle, initially feigns remorse, before suddenly self-destructing in a final effort to destroy Mario and Luigi. The explosion causes Bowser to regurgitate everyone that he had inhaled. Bowser is enraged by the discovery, and attacks Mario and Luigi.
+During the credits, the Mario Bros. battle Bowser. He is defeated, suffering many injuries in the process, and retreats back to his castle. The two castles are also rebuilt. In a post-credits scene, Bowser's minions return their loyalty to him and Peach sends Bowser a cake as gratitude for his unintentionally heroic efforts.
+Development[edit]
+The game was revealed at Nintendo's Tokyo Press Event, held in Japan on October 2, 2008 with the Japanese title of Mario & Luigi RPG 3!!!.[4] The conference revealed details of the then-upcoming game, relating to the plot and gameplay mechanics, as well as the fact that it would involve extensive use of the touchscreen.[5] AlphaDream, developers of Superstar Saga and Partners in Time, developed this game along with experienced contributors to the Mario series such as Yoko Shimomura and Charles Martinet working on music and voice acting respectively. At E3 2009, it was revealed that the official English name of the game would be Mario & Luigi: Bowser's Inside Story and that it would be released in fall 2009 for North America and Europe.[6]
+Reception[edit]
+Mario & Luigi: Bowser's Inside Story (+ Bowser Jr.'s Journey)
+Aggregate scores
+Aggregator Score
+3DS DS
+GameRankings 83.50%[7] 91.01%[8]
+Metacritic 84/100[9] 90/100[10]
+Review scores
+Publication Score
+3DS DS
+1Up.com N/A A−[11]
+Destructoid 8/10[12] 9/10[13]
+Edge N/A 9/10[14]
+Eurogamer N/A 9/10[15][16]
+Famitsu N/A 35/40[17]
+Game Informer 8.5/10[18] 8.75/10[19]
+GamePro N/A [20][21]
+GameRevolution N/A B+[22]
+GameSpot 8/10[23] 9/10[24]
+GameSpy N/A [25]
+GamesRadar+ N/A [26]
+GamesTM N/A 9/10[27]
+GameTrailers N/A 8.9/10[28]
+Giant Bomb N/A [30]
+Hardcore Gamer 3.5/5[31] N/A
+IGN N/A 9.5/10[32]
+Jeuxvideo.com 18/20[33] N/A
+NGamer N/A 9/10[34]
+Nintendo Life [35] [36]
+Nintendo Power N/A 9.5/10[37]
+Nintendo World Report 9/10[38] 9/10[39]
+Official Nintendo Magazine N/A 92%[40]
+PALGN N/A 9/10[41]
+Pocket Gamer N/A [42]
+RPGamer 4/5[43] 4.5/5[44]
+VideoGamer.com N/A 8/10[45][46]
+X-Play N/A [47]
+Bowser's Inside Story received critical acclaim and is the second-highest rated game in the Mario role-playing games subseries (second only to Paper Mario for the Nintendo 64[48]), with many of the praises going to the improved gameplay, storyline, humor, and Bowser's role as the focal character. The first North American critic to review it was the magazine Nintendo Power, who scored the game a 9.5/10 saying it is "the best RPG-style Mario adventure ever made," and that "Anyone who loves the Mario characters, role-playing games, or even action games should absolutely give Bowser's Inside Story a look."[37] IGN awarded it a 9.5 as well as an Editors Choice Award. GameInformer awarded the game an 8.75 out of 10 and gave it an award for "Handheld Game of the Month". GameDaily gave the game 10/10. Official Nintendo Magazine gave the game 92%, saying "Bowser's Inside Story is the freshest, most vital RPG on the DS for ages". GameSpot gave the game a 9.0, and awarded it with an Editors' Choice award, praising the overall plot and story.[49] X-Play's Blair Herter gave the game a 5 out of 5, highly praising the plot.[47] Giant Bomb's Brad Shoemaker gave the game a 5 out of 5, and the website later named it the Best DS Game of 2009.[50][51]
+During the 13th Annual Interactive Achievement Awards, the Academy of Interactive Arts & Sciences nominated Bowser's Inside Story for "Role-Playing/Massively Multiplayer Game of the Year", "Portable Game of the Year", and "Outstanding Achievement in Game Design".[52]
+Bowser's Inside Story is the top-selling game of its first week of release in Japan at 193,000 copies.[53] It sold 650,000 copies during the first half of 2009 and finished out the year as the 11th best-selling game at 717,940 copies sold in the country.[54][55] According to NPD Group, Bowser's Inside Story was the fourth best-selling game for its release month at 258,100 copies sold in the United States.[56] It continued to sell well in the following months and had sold 656,700 copies in the region by the end of December 2009.[57][58][59]
+Remake[edit]
+Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey
+Developer(s) AlphaDream
+Arzest (giant battles)
+Publisher(s) Nintendo
+Director(s) Shunsuke Kobayashi
+Producer(s)
+Toshiharu Izuno
+Akira Otani
+Yoshihiko Maekawa
+Artist(s) Kouichi Fukazawa
+Writer(s) Hiroyuki Kubota
+Composer(s) Yoko Shimomura
+Series Mario & Luigi
+Platform(s) Nintendo 3DS
+Release
+JP: December 27, 2018
+NA: January 11, 2019
+EU: January 25, 2019
+AU: January 26, 2019
+Genre(s) Role-playing
+Mode(s) Single-player
+On March 8, 2018, Nintendo revealed a Nintendo 3DS remake of the game, entitled Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey.[b] The remake, following on from the success of the 3DS remake of Mario & Luigi: Superstar Saga, features updated graphics, remastered music, quality-of-life improvements, and significant changes in gameplay, such as the reworking of special moves in combat. While the majority of the game was handled in-house at AlphaDream, the "Giant Bowser" boss fights were assisted by developer Arzest and are now presented as full 3D models. In addition, the game also involves a new side story entitled Bowser Jr.'s Journey, which focuses on the story of Bowser Jr. during the events of Bowser's Inside Story, playing similar to the Minion Quest side story found in the Superstar Saga remake. It was released in Japan in December 2018, with a worldwide release following in January 2019. Additionally, it is the final Mario game published for the Nintendo 3DS family of systems.
+In an interview with Game Informer shortly after the game's launch, AlphaDream producer Yoshihiko Maekawa and Nintendo producer Akira Otani stated that the main reason to remake Bowser's Inside Story for the 3DS instead of the Nintendo Switch was due to timing; they could easily build the game based on existing assets and, more critically, they wanted to retain the dual-screen elements of the original title such as the minigames and Giant Battles. The reason they skipped over a remake of Partners in Time was because they wanted to remake the best received title in the series. Additionally, they wanted to take the opportunity to explore the parent-child dynamics between Bowser and Bowser Jr., which manifested in Bowser Jr.'s Journey.[60]
+Reception[edit]
+While critical reception was generally positive, Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey has had a poor launch sales record, being not only the worst-selling Mario & Luigi title in the series, but also one of the worst-selling Mario games of all time since the Virtual Boy, a stark contrast to the original release which remains the best-selling entry in the subseries. In Japan, it sold under 9,500 units in the first week and dropped off the top 20 charts by the second week. In comparison, of the time period released and another re-release of an older Mario game, New Super Mario Bros. U Deluxe has sold 381,469 units in a shorter period of time. Compared to other Nintendo 3DS ports of the Mario series released at a similar time frame on their first week, Luigi's Mansion and Captain Toad: Treasure Tracker sold 27,000 and 20,547 units respectively. Famitsu's sales tracker reported a lifetime total of 34,523 copies, making it one of the worst-selling games in the entire Mario franchise.[61][additional citation(s) needed]
+The remake was nominated for the Freedom Tower Award for Best Remake at the New York Game Awards,[62] and for "Writing in a Comedy" at the NAVGTR Awards.[63]
+Plot[edit]
+In addition to the standard story mode included in the original, Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey also includes an additional story called Bowser Jr.'s Journey.
+Bowser Jr.'s Journey[edit]
+The story begins with Bowser Jr. who is playing with a Goomba suffering from the Blorbs and reaches Bowser's throne room, Kamek arrives and informs Bowser that all of the Goombas are sick. Bowser also finds out that a council meeting about the case is being held at the Peach's castle but he is not invited. Enraged, Bowser leaves along with Kamek for the meeting. Meanwhile, Fawful and Midbus are watching from afar, with the former gloating that he has sabotaged Bowser's invitation to the meeting in order to lure him out of his territory. Fawful hires the three mercenaries Dieter, Kaley and Beef who call themselves the Best Fitness Friends (also Brute Force Federation or "BFF" for short) to take over Bowser's Castle for him while he and Midbus set the rest of Fawful's plot in motion. The Best Fitness Friends first approach Bowser's minions as friendly figures and claim to have a cure for the Blorb called the Skeletone Formula:D, but not enough for all of the minions and name the ingredients for the Koopalings to find them across the Mushroom Kingdom and Bowser Jr. decides to accompany them. While Lemmy stays behind to guard the castle, the rest of the Koopalings along with Junior embark on their mission, leaving the castle defenseless for the BFF.
+The group acquire the Giga-carrot from Dimble Wood, the Omega Onion from Cavi Cape, and the Ever Ice from Bowser's cryogenic chamber. While on their quest, all of the Koopalings, except for Ludwig, who returns to the castle due to being suspicious of the BFF's motives, slowly leave the team due to either being annoyed or dismissed by Bowser Jr. with only Morton and Kamek remaining by his side. After Bowser Jr. makes the formula, the BFF arrive and steal it from him, and use a Malodorous Fibbian to turn it into Malatone Formula:X, a brainwashing chemical that greatly empowers whoever uses it and makes them obedient to the BFF who intend to overthrow Fawful. They use the formula on Morton who easily defeats Junior and throws him and Kamek into the sea.
+Bowser Jr. and Kamek wash ashore on Plack Beach. After a conversation with Kamek, Junior sees the error of his ways and decides to save the Minions and defeat the BFF. Junior and Kamek first reunite with the Koopalings, including Ludwig, who has managed to defeat Beef and spying on the BFF as him. Inside Bowser's castle, after removing the effects of Malatone Formula:X on Morton with a RenewaLeaf that Ludwig gave Bowser Jr., the group face and defeat the Best Fitness Friends who use the Malatone Formula:X and fuse into a monster while Bowser defeats Dark Bowser at the same time.
+During the credits, Bowser Jr. and the minions celebrate their victory and Junior also uses the Skeletone Formula:D to cure the Goombas and Bowser returns to the castle after his defeat at the hands of Mario and Luigi. Bowser Jr. later explains the events to Bowser, who commends his son on his achievement. Bowser Jr. then offers some of the Skeletone Formula:D to Bowser in case he needs it. Despite Junior's warnings, Bowser eats it all, which transforms him into Dry Bowser, who furiously chases Junior, believing he was pranking him.
+Notes[edit]
+^ Known in Japan as Mario & Luigi RPG 3!!! (マリオ&ルイージRPG3!!!, Mario ando Ruīji Āru Pī Jī Surī!!!)
+^ Known in Japan as Mario & Luigi RPG 3!!!
+DX
+Deluxe
+(マリオ&ルイージRPG3!!!
+DX
+デラックス
+, Mario ando Ruīji Āru Pī Jī Surī!!! Derakkusu)
+References[edit]
+^ "Mario & Luigi: Bowser's Inside Story". IGN. Archived from the original on September 14, 2019. Retrieved January 28, 2021.
+^ "Supplementary Information about Earnings Release" (PDF). Nintendo. April 26, 2011. p. 10. Archived (PDF) from the original on December 3, 2019. Retrieved April 26, 2011.
+^ "マリオ＆ルイージRPG3!!!". Nintendo. Archived from the original on 2021-02-11. Retrieved 2016-07-24.
+^ "Nintendo Reveals Punch-Out!! Wii, Sin and Punishment 2, and More". 1UP.com. Archived from the original on March 8, 2016.
+^ "Mario & Luigi RPG 3!!! site opens with new video". Joystiq. Archived from the original on January 30, 2009. Retrieved February 14, 2009.
+^ "Nintendo Introduces New Social Entertainment Experiences at E3 Expo". Nintendo of America. June 2, 2009. Archived from the original on June 14, 2018. Retrieved June 30, 2009.
+^ "Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey". GameRankings. Archived from the original on December 8, 2019. Retrieved September 2, 2020.
+^ "Mario & Luigi: Bowser's Inside Story for DS". GameRankings. September 14, 2009. Archived from the original on December 9, 2019. Retrieved November 15, 2012.
+^ "MARIO & LUIGI: BOWSER'S INSIDE STORY + BOWSER JR.'S JOURNEY 3DS". Metacritic. Archived from the original on July 13, 2020. Retrieved September 2, 2020.
+^ "Mario & Luigi: Bowser's Inside Story for DS Reviews, Ratings, Credits, and More". Metacritic. Archived from the original on May 4, 2010. Retrieved November 15, 2012.
+^ Parish, Jeremy (September 15, 2009). "Mario & Luigi: Bowser's Inside Story Review (NintendoDS)". 1UP.com. Archived from the original on June 29, 2011. Retrieved November 15, 2012.
+^ CJ Andriessen (January 27, 2019). "Review: Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey". Destructoid. Archived from the original on August 7, 2020. Retrieved September 2, 2020.
+^ Jim Sterling (September 21, 2009). "Review: Mario & Luigi: Bowser's Inside Story". Destructoid. Archived from the original on November 27, 2020. Retrieved September 2, 2020.
+^ "Mario & Luigi: Bowser's Inside Story". Edge. No. 208. Future Publishing. December 2009. p. 98.
+^ Christian Donlan (September 18, 2009). "Mario & Luigi: Bowser's Inside Story BUPA Troopa". Eurogamer. Archived from the original on March 4, 2018. Retrieved September 2, 2020.
+^ Christian Donlan (September 18, 2009). "Mario & Luigi: Bowser's Inside Story • Page 2 BUPA Troopa". Eurogamer. Archived from the original on November 30, 2019. Retrieved September 2, 2020.
+^ RawmeatCowboy (February 4, 2009). "Mario and Luigi 3 Famitsu review - more details". GoNintendo. Archived from the original on July 14, 2009. Retrieved September 2, 2020.
+^ Kyle Hilliard (January 10, 2019). "Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey". Game Informer. Retrieved September 2, 2020.
+^ Helgeson, Matt (September 28, 2009). "Mario & Luigi Keep It Simple To Great Success - Mario & Luigi: Bowser's Inside Story - Nintendo DS". Game Informer. Archived from the original on September 28, 2009. Retrieved November 15, 2012.
+^ Alicia Ashby (September 15, 2009). "Mario & Luigi: Bowser's Inside Story". GamePro. Archived from the original on September 23, 2009. Retrieved September 2, 2020.
+^ Alicia Ashby (September 15, 2009). "Mario & Luigi: Bowser's Inside Story". GamePro. Archived from the original on September 23, 2009. Retrieved September 2, 2020.
+^ Nick Tan (November 10, 2012). "Mario & Luigi: Bowser's Inside Story Review". Game Revolution. Archived from the original on September 10, 2015. Retrieved November 15, 2012.
+^ Justin Clark (January 20, 2019). "Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey Review". GameSpot. Archived from the original on August 11, 2019. Retrieved September 2, 2020.
+^ Torres, Ricardo (October 7, 2009). "Mario & Luigi: Bowser's Inside Story". GameSpot.com. Archived from the original on November 7, 2012. Retrieved November 15, 2012.
+^ Phil Theobald (September 11, 2009). "The Consensus: Mario & Luigi -- Bowser's Inside Story". GameSpy. Archived from the original on August 12, 2020. Retrieved September 2, 2020.
+^ Henry Gilbert (September 12, 2009). "Mario & Luigi: Bowser's Inside Story". Gamesradar. Archived from the original on May 1, 2013. Retrieved March 10, 2009.
+^ "Mario & Luigi: Bowser's Inside Story". GamesTM. No. 90. Future Publishing. December 2009. p. 110.
+^ "Mario & Luigi: Bowser's Inside Story". GameTrailers. September 27, 2009. Archived from the original on October 5, 2009. Retrieved September 2, 2020.
+^ Louis Bedigian (September 21, 2009). "Mario & Luigi: Bowser's Inside Story Review". GameZone. Archived from the original on September 24, 2009. Retrieved September 2, 2020.
+^ Brad Shoemaker (November 2, 2009). "Mario & Luigi: Bowser's Inside Story". Giant Bomb. Archived from the original on November 9, 2020. Retrieved October 13, 2009.
+^ Kirstin Swalley (January 17, 2019). "Review: Mario & Luigi: Bowser's Inside Story + Bowser Jr's Journey". Hardcore Gamer. Archived from the original on October 10, 2019. Retrieved September 2, 2020.
+^ Craig Harris (May 10, 2012). "Mario & Luigi: Bowser's Inside Story Review - IGN". IGN. Archived from the original on November 3, 2012. Retrieved November 15, 2012.
+^ Carnbee (January 11, 2019). "Test : Mario & Luigi : Voyage au centre de Bowser + l'Épopée de Bowser Jr, l'édition gonflée". Jeuxvideo.com. Archived from the original on August 12, 2020. Retrieved September 2, 2020.
+^ Matthew Castle (October 7, 2009). "Mario & Luigi: Bowser's Inside Story Review". Computer and Video Games. Archived from the original on October 10, 2009. Retrieved September 2, 2020.
+^ Mitch Vogel (January 11, 2019). "Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey Review (3DS)". Nintendo Life. Archived from the original on November 24, 2020. Retrieved September 2, 2020.
+^ Corbie Dillard (September 14, 2009). "Mario & Luigi: Bowser's Inside Story". Nintendo Life. Archived from the original on August 20, 2012. Retrieved April 11, 2009.
+^ a b "Reviews: Mario & Luigi: Bowser's Inside Story". Nintendo Power. No. 246. Future plc. October 2009. p. 86.
+^ Casey Gibson (January 14, 2019). "Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey (3DS) Review". Nintendo World Report. Archived from the original on February 21, 2020. Retrieved September 2, 2020.
+^ Pedro Hernandez (September 26, 2009). "Mario & Luigi 3 review". Nintendo World Report. Archived from the original on April 2, 2015. Retrieved September 27, 2009.
+^ Simon Bramble (October 7, 2009). "Mario & Luigi 3: Bowser's Inside Story". Official Nintendo Magazine - UK. Archived from the original on October 10, 2009.
+^ Joseph Rositano (October 27, 2009). "Mario and Luigi: Bowser's Inside Story Review". PALGN. Archived from the original on October 29, 2009. Retrieved September 2, 2020.
+^ Paul Marchant (November 12, 2009). "Mario & Luigi: Bowser's Inside Story". Pocket Gamer. Archived from the original on May 18, 2021. Retrieved September 2, 2020.
+^ Mike Moehnke (February 6, 2019). "Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey Review". RPGamer. Archived from the original on May 31, 2020. Retrieved September 2, 2020.
+^ Billy "madhtr" Young (October 2, 2009). "Mario & Luigi: Bowser's Inside Story - Staff Review". RPGamer. Archived from the original on November 2, 2021. Retrieved September 2, 2020.
+^ Wesley Yin-Poole (October 12, 2009). "Mario & Luigi RPG 3 Review". VideoGamer. Archived from the original on October 18, 2012. Retrieved September 2, 2020.
+^ Wesley Yin-Poole (October 12, 2009). "Mario & Luigi RPG 3 Review". VideoGamer. Archived from the original on October 18, 2012. Retrieved September 2, 2020.
+^ a b "Mario & Luigi: Bowser's Inside Story - Reviews - G4tv.com". G4tv. Archived from the original on March 3, 2016. Retrieved November 25, 2009.
+^ "Paper Mario". Metacritic. Archived from the original on February 4, 2021. Retrieved September 22, 2021.
+^ "Mario & Luigi Bowser's Inside Story Review for DS -GameSpot". GameSpot. Archived from the original on 2010-07-10. Retrieved 2009-10-24.
+^ "Mario & Luigi: Bowser's Inside Story Review". Giant Bomb. November 2, 2009. Archived from the original on October 11, 2012. Retrieved November 15, 2012.
+^ "Giant Bomb's Nintendo DS Game Of The Year, 2009". Giant Bomb. January 1, 2010. Archived from the original on October 11, 2012. Retrieved November 15, 2012.
+^ "D.I.C.E. Awards By Video Game Details Mario & Luigi: Bowser's Inside Story". Academy of Interactive Arts & Sciences. Retrieved 18 November 2023.
+^ Jenkins, David (February 19, 2009). "Japanese Charts: Mario & Luigi Dragon Punch Street Fighter IV". Gamasutra. Archived from the original on March 3, 2016. Retrieved March 24, 2009.
+^ "Game Market falls 25% in First Half of 2009". Andriasang. Archived from the original on July 5, 2009. Retrieved July 3, 2009.
+^ 2009年テレビゲームソフト売り上げランキング（ファミ通版） (in Japanese). Geimin.net. Archived from the original on June 27, 2015. Retrieved October 2, 2010.
+^ Matthews, Matt (October 20, 2009). "NPD Top 20 Shows Strong Scribblenauts, Xbox 360 Performance". Gamasutra. Archived from the original on March 3, 2016. Retrieved October 2, 2010.
+^ Matthews, Matt (November 13, 2009). "NPD: October Top 20 Sees Impressive Demon's Souls Showing". Gamasutra. Archived from the original on August 9, 2010. Retrieved August 2, 2010.
+^ Matthews, Matt (December 11, 2009). "NPD Top 20 Reveals Nintendo Titles, God Of War Remakes". Gamasutra. Archived from the original on October 24, 2018. Retrieved August 2, 2010.
+^ Remo, Chris (January 14, 2010). "NPD: December U.S. Revenue Up 4% In Best Month". Gamasutra. Archived from the original on May 2, 2019. Retrieved August 2, 2010.
+^ Maekawa, Yoshihiko; Otani, Akira; Kobayashi, Shunsuke; Fukazawa, Kouichi (January 14, 2019). "AlphaDream On Remaking Bowser's Inside Story And How Mario & Luigi Could Possibly Fit Inside Of Bowser". Game Informer (Interview). Interviewed by Hilliard, Kylie.
+^ "Game Data Library's data on Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey sales numbers". Archived from the original on 2019-04-24. Retrieved 2020-01-05.
+^ Sheehan, Gavin (January 2, 2020). "The New York Game Awards Announces 2020 Nominees". Bleeding Cool. Archived from the original on January 4, 2020. Retrieved January 5, 2020.
+^ "2019 Nominees". National Academy of Video Game Trade Reviewers. January 13, 2020. Archived from the original on March 3, 2020. Retrieved January 23, 2020.
+External links[edit]
+Official website
+show
+vte
+Mario role-playing games
+Portal:
+ Video games
+Categories: 2009 video gamesMario & LuigiAlphaDream gamesNintendo DS gamesRole-playing video gamesSingle-player video gamesVideo games about reptilesVideo games developed in JapanVideo games scored by Yoko ShimomuraVideo games set in castles
+This page was last edited on 19 February 2024, at 02:50 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view

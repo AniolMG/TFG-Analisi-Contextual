@@ -1,0 +1,42 @@
+ALUMNIARRELS ESCOLA
+PROJECTES
+ACTUALITAT ESDEVENIMENTS PLATAFORMES
+CONTACTE CANAL ÈTIC
+SISTEMES MICROINFORMÀTICS I XARXES
+Home Sistemes microinformàtics i xarxes
+Llibres i Materials per al curs 23-24
+Per què estudiar sistemes informàtics i xarxes? La societat necessita professionals qualificats que sàpiguen treballar i gestionar la informació digital. El mercat laboral indica que el perfil d’informàtica i telecomunicacions és i serà dels més demandats i cotitzats.
+I això només ha fet que començar. La revolució que suposa la Internet of Things fa que els professionals de les xarxes i els sistemes siguin cada cop més estratègics i rellevants.
+Per tot això, a l’escola estem convençuts de l’oportunitat. I, per tant, hem desenvolupat una metodologia d’estudi d’alta qualitat i exigència en aquesta branca. I ho fem amb un desenvolupament molt pràctic, orientat a la resolució de problemes reals. Això és, en un àmbit molt semblant al d’una empresa actual.
+La formació permanent del nostre cos docent assegura que els coneixements que es fan arribar als alumnes són sempre els més actuals.
+ORGANITZACIÓ
+Els mòduls i unitats formatives s’especifiquen en el currículum definit al DOGC. No obstant, a Arrels n’hem potenciat els següents trets diferencials:
+1. Nivell, rigor i actualització. El cicle formatiu és la base dels professionals IT del futur, i ens exigim i exigim als alumnes d’acord amb aquesta responsabilitat. En altres paraules, etenem que estem obligats a oferir una formació de prestigi per als alumnes amb capacitats tècniques i amb ambició de coneixement.
+2. Aprenentatge a partir del treball en projectes complexos. Això és, organitzats per equips col·laboratius, a fi de simular l’entorn professional tecnològic i d’entrenar les competències professionals demanades al món laboral.
+3. Col·laboració amb AWS Academy. Formar-ne part permet impartir i certificar els alumnes en els currículums d’aquesta empresa, reconeguts a escala global. A més, també assegurem l’actualització del cos de professors.
+4. Participació en events i concursos de programació i gestió de xarxes. Catskills, HP CodeWars, … permeten contrastar les capacitats dels nostres alumnes amb les d’altres alumnes de tot el món. D’aquesta manera afavorim un esperit de millora i un sentiment de pertinença a una comunitat global.
+5. Ús intensiu de l’anglès en la documentació, el programari i els sistemes utilitzats.
+6. Addició al desplegament curricular de l’aprenentatge de programació amb Python.
+7. Participació en el programa Eramus+ europeu.
+ALTRES ASPECTES ORGANITZATIUS:
+La matrícula es pot fer per al curs complet o per mòduls. En aquest cas, les unitats formatives aprovades certifiquen competències professionals del Catàleg Nacional de Qualificacions Professionals.
+Les matèries del primer any són: Muntatge i manteniment d’equips, Sistemes Operatius, Aplicacions ofimàtiques, Xarxes locals, Formació i orientació laboral, Anglès tècnic i Programació. S’imparteixen de 8h a 14h o 15h, de setembre a maig. Els divendres no hi ha classe.
+El segon any s’estudia Sistemes operatius en xarxa,  Seguretat informàtica, Serveis de xarxa, Aplicacions Web, Iniciativa emprenedora, Síntesi i Programació. L’horari és de 8h a 14h o 15h de setembre a maig. Els divendres no hi ha classe.
+Utilitzem material docent en format digital, integrat en plataformes educatives (ClickEdu i AWS Academy). L’alumnat treballa amb el seu propi portàtil, utilitzant aquests materials.
+ELS PROFESSORS DEL CICLE
+Anna Vilar
+DEPARTAMENT DE MATEMÀTIQUES I EMPRESA
+Elisabet Batlle
+DEPARTAMENT DE LLENGÜES ESTRANGERES
+Manuel Gil
+ESPECIALISTA EN ENGINYERIA ELÈCTRICA
+Josep Maria Tristany
+DEPARTAMENT D'EMPRESA
+Jordi Segura
+TECNOLOGIA I INFORMÀTICA
+Josep Garriga
+COORDINADOR DEL CICLE DE SISTEMES MICROINFORMÀTICS. ESPECIALISTA EN SISTEMES I XARXES
+Gerard Farràs
+DIRECCIÓ DE L'ESCOLA. ESPECIALISTA EN SISTEMES I SEGURETAT
+EMPRESES COL·LABORADORES
+Education WordPress Theme by ThimPress. Powered by WordPress.

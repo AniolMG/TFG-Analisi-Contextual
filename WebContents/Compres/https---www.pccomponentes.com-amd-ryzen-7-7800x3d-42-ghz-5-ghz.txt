@@ -1,0 +1,578 @@
+Todas las categorías
+Compromisos
+Mi cuenta
+Mi cesta
+Todas las categorías
+Estrena TV
+Ofertas TOP
+
+
+AMD Ryzen 7 7800X3D 4.2 GHz/5 GHz
+Recíbelo el lunes 26 de febrero
+Precio más bajo en los últimos 60 días
+389
+90€
+478,99 €
+- 19%
+Añadir al carrito
+Características
+Opiniones
+540
+Preguntas y respuestas
+33
+Subir
+Versión de entradas de PCI Express: 5.0
+Sistemas operativos compatibles: Windows 11/10 x64, RHEL x86 64-bit, Ubuntu x86 64-bit
+Fecha de lanzamiento: 09/02/2023
+Opiniones
+4.9
+97%
+Recomiendan
+5
+512
+4
+23
+3
+1
+2
+0
+1
+4
+Deja tu opinión
+Te costará un minuto, ayudarás a la gente a decidirse.
+Añadir opinión
+Opinión destacada
+A
+Angel
+26/04/2023
+Opinión verificada
+Rendimiento increíble junto a una RTX 4090. Con respecto al R7 3700X anterior consigo poco más del doble de FPS. Lo mejor de todo es que lo hace con apenas 100w de consumo, humillando en eficiencia a todos sus competidores. Ajustando la curva del PBO con límite a 80°C consigo más rendimiento que de stock con menor voltaje y algo menos de consumo.
+Pros
+- Rendimiento
+- Eficiencia
+Contras
+Precio, por 450€ lo vería más adecuado puesto que no siempre se nota tanto la diferencia con su hermano menor.
+Me gusta
+ (25)
+Comentar
+Denunciar
+Mostrar 3 respuestas a la opinión
+Contenido multimedia
+Ver todas las imágenes
+Opiniones de usuarios
+Total 
+346 opiniones
+Ordenar
+Más relevantes
+Desde España
+A
+Angel
+26/04/2023
+Opinión verificada
+Rendimiento increíble junto a una RTX 4090. Con respecto al R7 3700X anterior consigo poco más del doble de FPS. Lo mejor de todo es que lo hace con apenas 100w de consumo, humillando en eficiencia a todos sus competidores. Ajustando la curva del PBO con límite a 80°C consigo más rendimiento que de stock con menor voltaje y algo menos de consumo.
+Pros
+- Rendimiento
+- Eficiencia
+Contras
+Precio, por 450€ lo vería más adecuado puesto que no siempre se nota tanto la diferencia con su hermano menor.
+Me gusta
+ (25)
+Comentar
+Denunciar
+Mostrar 3 respuestas a la opinión
+A
+Andy
+14/07/2023
+Opinión verificada
+Estaba indeciso entre este procesador y el 7700X. Al final me he decantado por este debido a que seguramente envejezca mejor que el 7700X, sobre todo en el ámbito de los videojuegos.
+Estoy contento con la compra, lo tengo usando junto a una 4090 y los videojuegos van como la seda, no he encontrado título que lo ponga contra las cuerdas, va muy fresco en rendimiento y en temperaturas. De todas formas es necesaria una refrigeración líquida decente de 240 o si uno se lo puede permitir, una de 360. En mi caso he conseguido hacerme con una de Corsair de 360mm en estos PcDays y me ha salido bien la jugada. 
+En reposo las temperaturas rondan los 40-45 grados y cuando estoy jugando anda entre 60-70 grados según los escenarios. Respecto al consumo, es una delicia: en reposo 30W de media y jugando 70W.
+He podido hacer una prueba en Assassin's Creed Origins y me ha dado una media de 90 fps con todo en ultra y supersampling de 1.4. 
+La única pega que le veo es que las BIOS de algunos fabricantes no están del todo pulidas para estos procesadores todavía. He tenido que hacer un flash de la bios a una versión más estable porque la última versión de la bios de MSI estaba metiendo voltajes excesivos. 
+Nada más que decir, es un excelente procesador para videojuegos!
+Pros
+Rendimiento excepcional en videojuegos.
+Temperaturas y consumos muy buenos.
+Longevidad en gaming.
+Contras
+Bios todavía sin pulir para sacar mejor rendimiento.
+Me gusta
+ (4)
+Comentar
+Denunciar
+Mostrar 1 respuestas a la opinión
+V
+V.V.
+22/01/2024
+Opinión verificada
+La relación calidad-precio perfecta para, probablemente, el mejor procesador para juegos del momento (a la espera de lo que anuncien con 3D caché en el futuro en la serie 8000). 
+
+Puesto en conjunto con una placa Asrock Taichi Lite B650 y con 32GB de RAM de G.Skill de la serie Flare a 6000MHz activando el perfil EXPO en la placa. He activado el perfil predefinido de PBO de Asrock con un -30 en la curva de optimización y un límite de temperatura de 85 grados. El rendimiento es excepcional controlando mucho la temperatura y el consumo.
+
+Temperaturas:
+Con un Noctua DH15-S y con el accesorio que añade 7mm de offset para centrarlo mejor sobre el hotspot del procesador, la temperatura oscila entre los 60-75 grados dependiendo del juego y la exigencia. En pruebas sintéticas no he llegado al límite establecido en la BIOS de los 85. La máxima temperatura alcanzada ha sido con Cinebench R23, rondando los 80 grados, pero nunca alcanzando el tope de 85 (100% RPM en el ventilador).
+
+Consumo:
+En general se mantiene por debajo de los 60-70W en carga con el PBO activado con el perfil de Asrock (-30 en la curva).
+
+FPS:
+Evidentemente, según con qué lo emparejes. He pasado de un 10600K a este, y con una 3090 en 2K he incrementando entre un 30% y un 50% los FPS, según el juego. La mejora más notable ha sido en el Baldur's Gate 3, pasando en Puerta de Baldur de unos 40-60 FPS en ULTRA@2k a no bajar de 100 FPS. 
+
+Mi objetivo es actualizar a lo último que anuncien para AM5 en los próximos años, viendo que AMD va a, todavía, mantener vivo este socket a lo largo de 2025. Creo que es un buen punto de entrada para cualquier entusiasta que quiera jugar en 2k-4k con una configuración alta o ultra en prácticamente cualquier juego actual, y posiblemente en los próximos de este año 2024.
+
+Aprovecho para agradecer la atención dada por PCComponentes por causa de la incidencia surgida durante el envío.
+Pros
+- Rendimiento excepcional en juegos.
+- Eficiencia. Relación consumo/FPS impresionante. Es un mechero.
+- Relación calidad/precio.
+- Temperaturas: Sí, los micros de AMD son calientes por diseño pero es fácil controlar las temperaturas con un buen ajuste en la BIOS y con un buen disipador, y no necesariamente un AIO.
+Contras
+Ninguno
+Me gusta
+ (2)
+Comentar
+Denunciar
+F
+Fcokun
+20/04/2023
+Opinión verificada
+Lo usaré sobre todo para VR con Pico Neo 3 Link por display port, la caché 3D en VR funciona genial, da un plus en estabilidad.
+Pros
+3D Caché
+Contras
+Precio.
+Me gusta
+ (3)
+Comentar
+Denunciar
+R
+RaulM
+01/09/2023
+Opinión verificada
+mejor procesador para juegos, que es el principal uso que voy a darle, mejor incluso que su hermano mayor el 7950x3d que cuesta casi el doble. Sustituye a un fx8350 que ya tiene sus 10 años con los que me ha permitido jugar hasta el momento a todo con buena calidad a 1080p 60hz. Con este doy el salto a 3440x1440 144hz. Comprado por 409.98 euros con la promo vuelta al cole y con Starfield gratis, Activado oficialmente y esperando correo de la clave su lanzamiento el día 6 de septiembre.
+Pros
+la mejor cpu para juegos
+Contras
+nada
+Me gusta
+ (1)
+Comentar
+Denunciar
+J
+Joel
+05/12/2023
+Opinión verificada
+Excelente CPU para lo que sirve: Gaming. Rendimiento algo inferior en single core y multi core respecto a productos de la competencia más económicos. Rendimiento incomparable en juegos. Temperatura en reposo con un NHD15 de 41 grados y temperatura máxima tras 30 minutos de test sintético (100%) de 76 grados (default EXPO y boost automático).
+Pros
+- Ningún problema de estabilidad
+- Rendimiento Top en Gaming
+- Buen consumo y temperatura.
+Contras
+- Menos rendimiento en tareas no relacionadas con jugar, pero igualmente capaz.
+Me gusta
+ (1)
+Comentar
+Denunciar
+A
+Asrom
+17/08/2023
+Opinión verificada
+Es un procesador muy rapido tiene muy buena cache de lo mejor del mercado bajo mi punto de vista para jugar es muy solido temperatura a max rendimiento no supera los 78 grados tengo refrigeracion liquida de 360 
+Pros
+Rapido
+Silencioso
+A maximo rendimiento temp estable
+Contras
+Quizas el precio sea algo elevado
+Me gusta
+ (1)
+Comentar
+Denunciar
+D
+David8687
+25/10/2023
+Opinión verificada
+La verdad que me busqué calidad precio y este es el que se lo lleva en pruebas y rendimiento un 💯.
+Pros
+Si funciona como lo esperaba.
+Contras
+Los mismo 3l precio se pasa pero es lo que toca.
+Me gusta
+Comentar
+Denunciar
+B
+bmjavi
+29/04/2023
+Opinión verificada
+El mejor procesador para jugar y a buen precio,no encontrarás nada mejor
+Pros
+El mejor procesador para jugar
+Me gusta
+Comentar
+Denunciar
+C
+CesarM
+17/07/2023
+Opinión verificada
+Gran producto, buena calidad y fácil montaje. Buena relación calidad / precio
+Pros
+Muy buen producto
+Me gusta
+Comentar
+Denunciar
+J
+Jasco227
+17/08/2023
+Opinión verificada
+Lo compre solo para jugar junto a una 4090 y va genial!
+Pros
+Si puedes optar no te defraudará
+Contras
+Lo compre al poco de salir y ahora está 60€ más barato, pero como todo al paso del tiempo baja
+Me gusta
+Comentar
+Denunciar
+T
+Tordo
+02/09/2023
+Opinión verificada
+Viene muy bien protegido. Lo he probado con simulador y es la cañaaa. 
+Pros
+Su velocidad
+Me gusta
+Comentar
+Denunciar
+D
+DavidGabrielE
+02/08/2023
+Opinión verificada
+El montaje del procesador es muy intuitivo y funciona a la perfección, lo único es que no incluye la pasta térmica.
+Me gusta
+Comentar
+Denunciar
+Mostrar 1 respuestas a la opinión
+C
+CLAUDEMIRO
+24/06/2023
+Opinión verificada
+Producto realmente sorprendente Cumple lo que promete
+Me gusta
+Comentar
+Denunciar
+J
+JavierS
+12/09/2023
+Opinión verificada
+Procesador top para este precio, va muy bien y rinde para nuevos juegos 
+Me gusta
+Comentar
+Denunciar
+Ver más opiniones desde España
+Preguntas y respuestas
+Hacer una pregunta
+Total 
+33 preguntas
+Ordenar
+Más recientes
+J
+Jesuma
+19/02/2024
+Hola necesito ayuda, quiero montarme un pc mini atx y no me da para comprar una grafica ahora mismo, (tengo una gtx 1650 de mi pc) que me recomendais comprar el Ryzen 7800x3d y usar mientras mi gráfic...Ver más
+Categoría: Procesadores
+Responder
+Denunciar
+I
+iManuel
+hace 4 días
+Mejor respuesta
+Jesuma La gráfica integrada del 8700G rinde casi lo mismo que la GTX 1650. Pero la parte de CPU del 8700G rinde menos que el 7800X3D, además el bus del 8700G es PCIe 4.0 y el 7800X3D usa PCIe 5.0. Personalmente yo me quedaría con el 7800X3D y la GTX1650 y ahorraría para una RTX4060ti o RX 6600XT y si el presupuesto lo permite 4070ti o RX 7800XT.
+Respuesta útil
+ (1)
+Responder
+Denunciar
+D
+DeSertYanis
+15/02/2024
+No sé si me pasa a mi solamente, pero en reposo la temperatura varía entre los 40º - 50º, mientras juego llega a los 60-º - 70º y en benchmark alcanza los 84º. He cambiado la pasta térmica (buena) y l...Ver más
+Categoría: Procesadores
+Responder
+Denunciar
+I
+iManuel
+hace 8 días
+Mejor respuesta
+DeSertYanis Influye también lo ventilada que sea la caja. Pero las temperaturas son normales, quizás algo alta en reposo. Mire la configuración de la curva de temperatura de los ventiladores.
+Respuesta útil
+Responder
+Denunciar
+Mostrar 1 respuestas a la pregunta
+M
+Merendandum
+14/02/2024
+Quiero montar un pc SFF y tengo dudas entre este micro, el ryzen 7 8700g y el i7 14700, teniendo en cuenta que no voy a poner grafica dedicada y voy a usarlo basicamente para desarrollo de software y ...Ver más
+Categoría: Procesadores
+Responder
+Denunciar
+A
+AlejandroRuna
+04/02/2024
+He comprado este procesador junto a una ram Corsair Vengeance RGB DDR5 6000MHz 32 GB 2x16GB CL36, en las especificaciones del procesador he visto que soporta hasta 5200MHz pero he visto varias persona...Ver más
+Categoría: Procesadores
+Responder
+Denunciar
+J
+Jose_Rubio
+hace 19 días
+Mejor respuesta
+AlejandroRuna Es cierto, se puede poner a 6000mhz, yo se lo dije a los montadores y me lo pusieron sin problemas,eso sí, pilla mejor la que pone al final de la descripción optimizada para AMD
+Respuesta útil
+ (1)
+Responder
+Denunciar
+Mostrar respuestas
+Mostrar 1 respuestas a la pregunta
+S
+SebastianCa
+26/01/2024
+Haría cuello de botella con una 4070 TI?
+Categoría: Procesadores
+Responder
+Denunciar
+S
+Serginike
+hace un mes
+Mejor respuesta
+SebastianCa para nada, pero píllate la super que acaba de salir y seria mejor combo
+Respuesta útil
+Responder
+Denunciar
+Mostrar 1 respuestas a la pregunta
+S
+SebastianCa
+22/01/2024
+No habria ningun problema , al ponerle con una grafica rtx 4070 y una fuente 850 W?
+Categoría: Procesadores
+Responder
+Denunciar
+M
+MrEsmoking
+hace un mes
+Mejor respuesta
+SebastianCa Iría perfectamente. Actualmente lo tengo con una 3080ti y una fuente de 750 y funciona genial.
+Respuesta útil
+Responder
+Denunciar
+Mostrar 1 respuestas a la pregunta
+O
+Ouyeababy
+17/01/2024
+es compatible con Aorus Liquid Cooler 280 ??
+Categoría: Procesadores
+Responder
+Denunciar
+E
+Erossensual
+hace un mes
+Mejor respuesta
+Ouyeababy No es compatible pero te dejo una recomendacion Corsair iCUE H100x RGB ELITE Kit de Refrigeración Líquida 240mm Negro
+Respuesta útil
+Responder
+Denunciar
+J
+josele3060
+15/01/2024
+Hola tengo intención de adquirir este procesador para hacer un nuevo equipo..pero se lleva gran parte de mi presupuesto por lo que toca seguir con mi anterior rtx3060..la pregunta es que tal se llevar...Ver más
+Categoría: Procesadores
+Responder
+Denunciar
+D
+David8687
+hace un mes
+Mejor respuesta
+josele3060 La verdad que es lo mejor que e comprado yo lo tengo ya hace unos meses y super bien no tengo queja con esa la mueve muy bien más alta como 4070 4090 también sin problema y de sobra.
+Respuesta útil
+ (1)
+Responder
+Denunciar
+Mostrar 3 respuestas a la pregunta
+C
+C
+17/12/2023
+Hola, mi pc tiene solo 2 ventiladores no tiene refrigeracion liquida, pasaria algo? aparte de eso me gustaria saber si con 16 gb y una rtx 3070 iria bien, muchas gracias.
+Categoría: Procesadores
+Responder
+Denunciar
+H
+helyos12
+hace 2 meses
+Mejor respuesta
+C siempre que con 2 ventiladores te refieras a que son disipadores para el cpu está bien, debes tener más ventiladores por el bien de tu pc. Respecto a la otra pregunta, sí, iría muy bien. Igual yo personalmente buscaria 32gb de ram en vez de 16 por ir mas suelto.
+Respuesta útil
+ (1)
+Responder
+Denunciar
+Mostrar respuestas
+Mostrar 1 respuestas a la pregunta
+C
+C
+16/12/2023
+Hola, me gustaria saber si uncluye pasta termica o hay que comprarla aparte, muchas gracias.
+Categoría: Procesadores
+Responder
+Denunciar
+H
+helyos12
+hace 2 meses
+Mejor respuesta
+C No, no incluye nada salvo el procesador. Si compras un disipador ya sea por aire o liquido fijate si trae preinstalada la pasta. De todas formas busca una pasta térmica que la vas a necesitar pasado un tiempo
+Respuesta útil
+ (3)
+Responder
+Denunciar
+Mostrar 7 respuestas a la pregunta
+A
+anaa
+09/12/2023
+Iría bien con una tarjeta gráfica 3070 o haría cuello de botella??
+Categoría: Procesadores
+Responder
+Denunciar
+D
+DanSR
+hace 2 meses
+Mejor respuesta
+anaa Saludos. Sí, irá perfecto. Ningún cuello de botella a la vista, por años y años.
+Respuesta útil
+Responder
+Denunciar
+Mostrar 3 respuestas a la pregunta
+X
+XavierD
+08/12/2023
+¿Sabes cómo obtener el código para activar el juego en AMD Rewards?
+Categoría: Procesadores
+Traducido · 
+Ver original
+Responder
+Denunciar
+D
+DanSR
+hace 2 meses
+Mejor respuesta
+XavierD Saludos. Mi recomendación es que contactes con atención al cliente de PCcomponentes. Creo que deben ser ellos los que te lo proporcionen, si no te ha llegado ya.
+Respuesta útil
+Responder
+Denunciar
+Mostrar 2 respuestas a la pregunta
+B
+BilalH
+05/12/2023
+Hola, ¿cómo ingresamos el código en AMD para obtener avatar con la compra de un Ryzen 7?
+Categoría: Procesadores
+Traducido · 
+Ver original
+Responder
+Denunciar
+J
+JérémyM
+hace 3 meses
+Mejor respuesta
+BilalH Buena pregunta, yo también la estoy esperando. Creo que recibiremos el código por correo electrónico el día del lanzamiento del juego, así que el día 7.
+Traducido · 
+Ver original
+Respuesta útil
+Responder
+Denunciar
+Mostrar respuestas
+Mostrar 1 respuestas a la pregunta
+B
+Borja
+01/12/2023
+Buenas, tengo una placa msi mpg b550 gaming carbon wifi, y en su dia actualice la bios para poder tener soporte a otras generaciones y procesadores, tengo metido un 5800x, al tenerlo actualizado, podr...Ver más
+Categoría: Procesadores
+Responder
+Denunciar
+D
+DanSR
+hace 3 meses
+Mejor respuesta
+Borja Saludos. Este procesador pertenece a la séptima generación procesadores AMD, socket AM5. No es compatible con la placa msi mpg b550 gaming carbon wifi pues esta placa sólo admite procesadores hasta quinta generación AMD, socket AM4.
+Respuesta útil
+ (1)
+Responder
+Denunciar
+Mostrar 1 respuestas a la pregunta
+A
+AdnanE
+20/11/2023
+es compatible con una placa Asus ROG STRIX B550-F, o me recomendais otra placa base?
+Categoría: Procesadores
+Responder
+Denunciar
+P
+PaquiR
+hace 3 meses
+Mejor respuesta
+AdnanE no es compatible. Tienes que escoger una B650 que es compatible con AM5
+Respuesta útil
+ (1)
+Responder
+Denunciar
+Mostrar 2 respuestas a la pregunta
+R
+Roche
+17/10/2023
+Trae disipador de fabrica? Y cogidas para un disipador am4?
+Categoría: Procesadores
+Responder
+Denunciar
+S
+Snakeeyes
+hace 4 meses
+Mejor respuesta
+Roche Desafortunadamente no trae consigo ventilador y disipador de fábrica, así como enganches para adaptar otros sistemas de refrigeración.
+Respuesta útil
+ (1)
+Responder
+Denunciar
+Mostrar 3 respuestas a la pregunta
+Cargar más preguntas
+Reportar errores en la ficha de producto
+¿Has encontrado un error en la información del artículo?
+Reportar error
+En tendencia
+-54%
+Promoción
+AMD Ryzen 7 5800X 3.8GHz
+219.90€
+545€
+4.79
+2852 Opiniones
+Intel Core i5-12400F 2.5 GHz
+148.99€
+4.79
+1377 Opiniones
+-41%
+Promoción
+AMD Ryzen 5 5500 3.6GHz Box
+97.99€
+189€
+4.7
+1447 Opiniones
+-54%
+Promoción
+AMD Ryzen 5 5600X 3.7GHz
+149.90€
+376€
+4.795
+3544 Opiniones
+-25%
+Promoción
+AMD Ryzen 5 7600X 4.7 GHz Box sin Ventilador
+235.90€
+366€
+4.755
+363 Opiniones
+Envíos gratuitos en pedidos superiores a 50€.
+Recibe tu pedido en 24h.
+Devoluciones gratuitas y garantía de sustitución 24h.

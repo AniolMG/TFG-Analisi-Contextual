@@ -1,0 +1,133 @@
+mor Aleksei Navalni Rússia
+NOTÍCIES
+ESPORTS
+CORPORATIU
+Notícies
+Directes
+Últimes notícies
+Seccions
+El temps
+Fotograma d'un vídeo generat per Sora, l'eina d'IA d'OpenAI per crear vídeos a partir d'instruccions escrites (OpenAI)
+Què és Sora, la inquietant eina d'intel·ligència artificial que crea vídeo a partir de text
+OpenAI s'avança als competidors que també treballen en generació de vídeo d'alta qualitat a partir d'instruccions senzilles, com Runway, Pika o Google
+Josep Maria Camps Collet / Toni Noguera Martínez
+16/02/2024 - 13.21Actualitzat16/02/2024 - 21.37
+compartir a Facebook
+compartir a X
+Guarda't la notícia a la teva llista
+MÉS INFO
+OpenAI, l'empresa que va revolucionar la intel·ligència artificial, la IA, fa poc més d'un any amb el llançament del ChatGPT, ha fet públic aquest dijous Sora, una nova eina que transforma text en vídeo d'alta qualitat.
+Els resultats són espectaculars, però també inquietants, perquè és una eina que aparentment permet crear amb facilitat vídeos falsos de persones reals, per exemple, i encara no hi ha sistemes que permetin identificar que han estat generats artificialment.
+L'anunci l'ha fet a les xarxes socials el màxim responsable d'OpenAI, Sam Altman, i un dels desenvolupadors de l'eina, Bill Peebles, ha publicat un dels primers vídeos: una parella passejant per un Tòquio nevat:
+"Sora és aquí! És un transformador que pot generar fins a un minut de vídeo de 1.080 p amb una gran coherència i qualitat."
+
+Generats en poca estona i amb poques instruccions
+Segons ha afirmat Altman, Sora pot generar aquests vídeos en poca estona. Per demostrar-ho ha reptat els usuaris d'X a proposar vídeos i n'ha penjat alguns dels resultats:
+- "Una cursa a l'oceà, gravada amb un dron, amb diferents animals com a atletes pedalant en bicicleta."
+
+- "Una classe de cuina d'una àvia influencer a les xarxes socials amb una recepta de nyoquis casolans, ambientada en una cuina rústica de la Toscana amb il·luminació cinematogràfica."
+
+- "Una cursa futurista de drons al capvespre al planeta Mart."
+
+Segons OpenAI, Sora també permet convertir imatges estàtiques en vídeos i modificar o ampliar vídeos existents, canviant-ne part del contingut o el fons i afegint-hi fotogrames al davant o al darrere.
+
+Accés tancat al públic general
+Altman ha fet l'anunci a Twitter/X pocs minuts abans del primer vídeo publicat per Peebles. Ha ofert l'enllaç a la pàgina de Sora i ha dit que l'accés per utilitzar-la encara no està obert.
+Segons ha dit, només l'han ofert a alguns artistes digitals perquè en provin les possibilitats, i també a equips vermells, és a dir, grups d'especialistes que analitzaran els riscos potencials de l'eina:
+"Avui comencem a formar equips vermells i oferim accés a un nombre limitat de creadors."
+
+OpenAI afirma que Sora, que vol dir cel en japonès, és capaç de crear "escenes complexes amb diversos personatges, tipus de moviment concrets i detalls precisos del tema i el fons".
+També explica que reprodueix fidelment la realitat i el moviment d'acord amb les lleis de la física, tot i que admet que "pot tenir problemes per simular amb precisió la física d'una escena complexa."
+Enorme evolució en un any amb molta competència en joc
+Amb la presentació de Sora, l'empresa liderada per Altman s'avança a altres empreses que li estaven fent ombra en aquest terreny, com Runway, Pika o Google, amb la seva eina Lumiere.
+El cert és que l'evolució de les eines per convertir text en vídeo ha fet un salt enorme en només un any, com mostra el contrast entre els dos exemples d'aquest tuit:
+  El perill que imatges falses passin per autèntiques
+L'espectacularitat de les imatges generades amb Sora no amaguen el problema enorme que es planteja ara: per exemple, la possibilitat que apareguin vídeos polèmics amb personatges reals que siguin falsos.
+Segurament serà una de les línies de treball principals dels equips vermells, i una possible solució és incloure marques d'aigua a les metadades dels vídeos que certifiquin que estan generats amb IA.
+De fet, OpenAI ha anunciat fa poc que afegirà marques a les imatges generades amb ChatGTP i Dalle-3. De fet, farà servir les que està desenvolupant la Coalició per a la Procedència i l'Autenticitat del Contingut, la C2PA.
+Les marques d'aigua es poden eliminar fàcilment
+Aquesta organització, fundada el 2019 per iniciativa de l'empresa Adobe, i a la qual s'han afegit gegants com Microsoft, Google o Sony, treballa per crear sistemes per evitar l'ús fraudulent de les imatges d'IA.
+De moment, però, només hi ha marques d'aigua disponibles per a imatges estàtiques, però no per als textos i per als vídeos que també es creen fent servir aquestes eines generatives.
+El problema és que les metadades de les imatges són fàcils d'eliminar, de manera que caldrà avançar en aquest tipus de certificacions, que és, precisament, el que reclamen les legislacions dels EUA i de la UE.
+Un problema afegit és el dels drets de les imatges: no està clar quines ha fet servir Sora per entrenar-se i pot reproduir-se el problema que ja hi ha amb les altres eines d'IA, tant de text com d'imatges fixes.
+Fotograma d'un vídeo generat per Sora, l'eina d'IA d'OpenAI per crear vídeos a partir d'instruccions escrites (OpenAI)
+  ARXIVAT A:
+INTERNET
+TECNOLOGIA
+INTEL·LIGÈNCIA ARTIFICIAL
+compartir a Facebook
+compartir a X
+EL MÉS LLEGIT
+Rànquing
+Què explica la diferència de resultats a l'informe PISA en escoles i instituts similars
+Viu 5 anys en un hotel de Nova York sense pagar i reclama que n'és el propietari
+Gratuïtat del túnel del Cadí: la Generalitat en revisarà els criteris per agilitzar els tràmits
+Detecten un cas de pesta negra als Estats Units: com es transmet i com s'ha de tractar
+Una empresa de Begur gasta més de 3 milions de litres d'aigua per omplir piscines
+* Dades de les últimes 24h
+AVUI ÉS NOTÍCIA
+Què explica la diferència de resultats a l'informe PISA en escoles i instituts similars
+Mireia Rom Salvador
+Eleccions a Galícia: per què les pot guanyar Pedro Sánchez tot i perdre-les
+De Politkóvskaia a Navalni: la llista de rivals de Putin morts en estranyes circumstàncies
+TV3
+Catalunya Ràdio
+Notícies
+Esports
+EL MÉS LLEGIT
+EL MÉS VIST
+EL MÉS ESCOLTAT
+El més llegit de Notícies
+Viu 5 anys en un hotel de Nova York sense pagar i reclama que n'és el propietari
+L'assassí de tres germans a Madrid mata el company de cel·la i ho comunica per l'intèrfon
+Mor Aleksei Navalni, l'opositor rus aïllat en una presó de l'Àrtic
+Detecten un cas de pesta negra als Estats Units: com es transmet i com s'ha de tractar
+Alliberen Linito, un mico caputxí que ha viscut 35 anys engabiat en un pis a Barcelona
+Desmuntar anys de vida d'avui per demà: fan fora els usuaris d'un càmping de Coma-ruga
+El detingut per la brutal agressió al metro ja hauria atacat altres dones abans
+Què explica la diferència de resultats a l'informe PISA en escoles i instituts similars
+Detinguts per enviar al súper les filles, de 6 i 8 anys, gairebé nues i brutes a Palència
+Gratuïtat del túnel del Cadí: la Generalitat en revisarà els criteris per agilitzar els tràmits
+
+
+* Dades de les últimes 48h
+ALTRES INFORMACIONS:
+Vosaltres mateixosLa travessaÚltimes notíciesCalendari laboral 2022 i 2023Calendari escolar curs 2022-2023Ajuda Lloguer JovesEstalvi factura llum i gasMés temesAixò no és SuèciaPel·lícules
+Enllaços
+NOTÍCIES
+ESPORTS
+Corporatiu
+El grup
+Transparència
+Responsabilitat social
+Fundació La Marató
+Premsa
+Publicitat
+Vendes internacionals
+Presentació de projectes
+Espai Proveïdor - Client
+Perfil del contractant
+Còpia i Venda d'imatges
+Botiga
+Selecció de personal
+Càsting
+Contacta'ns
+Atenció a l'audiència
+Com veure'ns i escoltar-nos
+Visita'ns
+Llengua
+Promoció de la llengua
+És a dir
+Espai de l'aranès
+Bon dia. Directori de mitjans en llengua catalana
+Llibre d'estil
+Troba'ns a
+Mòbils i tauletes
+Televisions connectades
+Ajuda plataforma 3Cat
+Avís legal
+Cookies
+Delegat de protecció de dades
+Accessibilitat
+Mapa web
+© 3Cat

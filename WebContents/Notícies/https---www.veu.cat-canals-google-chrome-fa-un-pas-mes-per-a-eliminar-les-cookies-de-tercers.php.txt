@@ -1,0 +1,32 @@
+Registra't Accedeix
+Notícies Ciència Tecnologia Transport Economia Turisme Salut Esports Lleure Cultura
+Aquest article està pendent de revisió ortogràfica i gramatical. Saps català i vols modificar-ho?
+Google Chrome fa un pas més per a eliminar les cookies de tercers
+17 de decembre de 2023 Jordi Benlloch
+A partir del 4 de gener de 2024, l'1% dels usuaris a nivell mundial tindran desactivades per defecte les cookies de tercers.
+Google Chrome introduirà una nova opció de privacitat per a eliminar progressivament les cookies de tercers.
+Des del 4 de egener, Google Chrome iniciarà les proves d'una funció de Protecció contra el rastreig, limitant per defecte l'accés dels llocs web a les cookies dde tercers. Aquest procés serà gradual, ja que s'implementarà per a l'1% dels usuaris de Chrome en tot el món com part de l'iniciativa Privacy Sandbox de Google, que pretén eliminar les cookies de tercers per a tots els usuaris en la segona meitat de 2024.
+Google explica en el seu blog:
+Les cookies de tercers han sigut un component essencial de la web durant quasi tres dècades. Encara que es poden utilitzar per a seguir les teves activitats en diferents llocs web, també han servit per a habilitar una varietat d'experiències en línia, com facilitar l'inici de sessió o mostrar-te anuncis rellevants.
+Amb Privacy Sandbox, estem adoptant una estratègia responsable per a eliminar de forma progressiva les cookies de tercers en Chrome. Estem desenvolupant noves eines per a llocs que suporten casos d'ús clau i proporcionant temps perquè els desenvolupadors s'adapten. A mesura que implementem la Protecció contra el Rastreig, comencem amb un petit percentatge d'usuaris de Chrome perquè els desenvolupadors puguen provar la seva preparació per a un entorn web sense cookies de tercers.
+Com funciona la Protecció contra el Rastreig en Google Chrome?
+Si estàs entre l'1% seleccionat aleatòriament, rebràs una notificació en obrir Google Chrome en el teu ordinador o en Android.
+En navegar per la web, les cookies de tercers estaran limitades per defecte.
+Si una pàgina que necessites fer servir no funciona correctament, podràs habilutar temporalment les cookies de tercers en eixe lloc web de manera puntual a través d'una icona al costat de la barra de direccions.
+Google Google Chrome
+Comentaris
+Escriure comentari
+Vols ser el primer a comentar?
+Has trobat un error en l'article?
+Corregir article
+Google llança el domini .meme per a pàgines web d'humor
+Google va pagar 26 mil milions en 2021 per a ser el motor de cerques predeterminat en els telèfons
+Google acomiadarà a 12.000 treballadors, Microsoft 10.000 i Amazon 18.000
+Google està invertint a l'arquitectura RISC-V per al futur d'Android
+L'últim en Tecnologia
+Linkedin desenvolupa un nou xatbot IA per millorar la cerca de treball
+Meta anuncia que etiquetarà imatges generades per IA en Facebook i Instagram
+Neuralink implanta el seu xip en un humà per primera vegada
+La fi del suport de Windows 10 afectarà 240 milions d'ordinadors
+Qui som Cookies Termes i condicions Contacte
+Copyright ©2024 Tots els drets reservats

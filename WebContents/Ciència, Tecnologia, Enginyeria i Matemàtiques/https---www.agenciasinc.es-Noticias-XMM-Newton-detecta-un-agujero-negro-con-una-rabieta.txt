@@ -1,0 +1,101 @@
+EVOLUCIÓN HUMANA
+LINCE IBÉRICO
+CÁNCER
+MOSQUITO TIGRE
+EXOPLANETAS
+IBEROAMÉRICA
+OPINIÓN
+CIENCIA
+SALUD
+INNOVA
+TIERRA
+TECNOLOGÍA
+SOCIEDAD
+Iberoamérica
+Opinión
+Ciencia
+Salud
+Innova
+Tierra
+Tecnología
+Sociedad
+Visual
+Especiales
+MagaSINC
+Claves
+Suscripción boletín
+Agenda
+Sobre sinc
+El equipo
+Reconocimientos
+FAQ
+Contacto
+
+
+ASTRONOMÍA Y ASTROFÍSICA
+XMM-Newton detecta un agujero negro con una ‘rabieta’
+Este observatorio espacial de rayos X de la ESA ha sorprendido a un agujero negro que, como un niño pequeño alterado, no solo expulsa su comida, sino que tira todo: el gas de su disco de acreción sale despedido en todas direcciones, a tal velocidad que hace desaparecer el material interestelar circundante. Esto impide la formación de nuevas estrellas en una vasta región de su galaxia, llamada Markarian 817.
+SINC 1/2/2024 14:01 CEST
+Ilustración de una galaxia remodelada por los fuertes vientos de su agujero negro central. / ESA/ATG
+En el corazón de toda gran galaxia hay un agujero negro supermasivo, cuya inmensa gravedad atrae el gas de su entorno. A medida que el gas entra en espiral, se acumula en un disco de acreción plano alrededor del agujero, donde se calienta e ilumina. Con el tiempo, el material más cercano al agujero negro sobrepasa el punto de no retorno y es engullido.
+Sin embargo, los agujeros negros solo consumen una fracción de ese gas que se dirige hacia ellos. Al rodear un agujero negro, parte de la materia es expulsada al espacio, de forma parecida a como un niño desordenado derrama gran parte de lo que tiene en el plato.
+En la galaxia Markarian 817 se han detectado vientos ultrarrápidos de su agujero negro, con la suficiente energía como para alterar el carácter de la propia galaxia 
+En episodios más dramáticos, el niño, o el agujero negro en este caso, puede incluso “volcar la mesa”: el gas de su disco de acreción sale despedido en todas direcciones. Su velocidad es tal que hace desaparecer el material interestelar circundante. Esto no solo priva al agujero negro de alimento, sino que también significa que no pueden formarse nuevas estrellas en una vasta región, lo que cambia la estructura de la galaxia.
+Hasta ahora, este "viento de agujero negro" ultrarrápido solo se había detectado procedente de discos de acreción extremadamente brillantes, que están al límite de la cantidad de materia que pueden atraer. Pero el observatorio espacial XMM-Newton de la Agencia Espacial Europea (ESA) ha detectado viento ultrarrápido en una galaxia promedio que podría decirse que solo estaba merendando".
+Ventilador que sopla mucho con poca potencia
+"Podrías esperar vientos muy rápidos si se encendiera un ventilador a su máxima potencia. En la galaxia que estudiamos, llamada Markarian 817, el ventilador estaba encendido a una potencia más baja, pero aun así, se generaban vientos increíblemente energéticos", señala la investigadora Miranda Zak de la Universidad de Michigan (Reino Unido), primera autora del estudio, publicado en el Astrophysical Journal.
+Galaxia Markarian 187 vista por el telescopio espacial Hubble. / NASA, ESA, Hubble SM4 ERO Team
+"Es muy poco común observar vientos ultrarrápidos, y aún menos detectar los que tienen suficiente energía como para alterar el carácter de su galaxia anfitriona. El hecho de que Markarian 817 produjera estos vientos durante aproximadamente un año, mientras no se encontraba en un estado particularmente activo, apunta que los agujeros negros pueden remodelar sus galaxias anfitrionas mucho más de lo que se pensaba", añade el coautor Elias Kammoun, astrónomo de la Universidad Roma Tre (Italia).
+El hecho de que Markarian 817 produjera estos vientos durante un año, sin estar muy activa, apunta que los agujeros negros pueden remodelar sus galaxias anfitrionas mucho más de lo que pensábamos
+Elias Kammoun (Uniroma3)
+Los centros galácticos activos emiten luz de alta energía, incluidos rayos X. Sin embargo, Markarian 817 llamó la atención de los investigadores por su silencio. Miranda observó la galaxia con el observatorio Swift de la NASA: "La señal de rayos X era tan débil que estaba convencida de que estaba haciendo algo mal". 
+Rayos X bloqueados por el viento
+Las observaciones de seguimiento realizadas con el telescopio de rayos X XMM-Newton, más sensible, revelaron lo que realmente estaba ocurriendo: los vientos ultrarrápidos procedentes del disco de acreción estaban actuando como una mortaja, bloqueando los rayos X enviados desde el entorno inmediato del agujero negro (denominado corona). Estas mediciones fueron respaldadas por observaciones realizadas con el telescopio NuSTAR de la NASA.
+El estudio ayuda a comprender mejor cómo se influyen mutuamente y coevolucionan los agujeros negros y las galaxias
+Un análisis detallado de las mediciones de rayos X mostró que, lejos de emitir una única "ráfaga" de gas, el centro de Markarian 817 produjo una tormenta racheada en una amplia zona del disco de acreción. El viento duró varios cientos de días y estaba formado por al menos tres componentes distintos, cada uno de los cuales se movía a varios puntos porcentuales de la velocidad de la luz.
+Esto resuelve un enigma abierto en nuestra comprensión de cómo los agujeros negros y las galaxias que los rodean se influyen mutuamente y coevolucionan.
+Influencia de los vientos con condiciones
+Hay muchas galaxias -incluida la Vía Láctea- que parecen tener grandes regiones alrededor de sus centros en las que se forman muy pocas estrellas nuevas. Esto podría explicarse por los vientos de los agujeros negros que expulsan el gas de formación estelar, pero esto solo funciona si los vientos son lo suficientemente rápidos, se mantienen durante el tiempo suficiente y son generados por agujeros negros con niveles típicos de actividad.
+"Muchos de los problemas pendientes en el estudio de los agujeros negros consisten en lograr detecciones mediante largas observaciones que se prolongan durante muchas horas para captar sucesos importantes. Esto pone de relieve la importancia primordial de la misión XMM-Newton para el futuro. Ninguna otra misión puede ofrecer la combinación de su alta sensibilidad y su capacidad para realizar observaciones largas e ininterrumpidas", afirma Norbert Schartel, científico de este observatorio espacial de la ESA.
+Referencia:
+M. K. Zak et al. “Fierce Feedback in an Obscured, Sub-Eddington State of the Seyfert 1.2 Markarian 817”. Astrophysical Journal, 2024
+Fuente:
+ESA
+Derechos: Creative Commons.
+AGUJERO NEGRO GALAXIA XMM-NEWTON
+Artículos relacionados
+Así se ven docenas de discos de formación planetaria alrededor de sus estrellas
+SINC
+El sofisticado instrumento SPHERE ha observado desde Chile más de 80 estrellas en tres regiones de nuestra galaxia: Tauro, Orión y Camaleón I. Este sondeo pionero ha permitido desvelar los secretos del nacimiento de los planetas a su alrededor.
+Océanos de vapor de agua en un disco del que pueden surgir planetas
+SINC
+El agua es un ingrediente esencial para la vida y también se cree que desempeña un papel importante en la formación planetaria. Ahora, un equipo internacional de astrónomos ha encontrado en el disco interior de la joven estrella HL Tauri al menos tres veces más agua que en todos los océanos de la Tierra.
+LO MÁS VISTO
+Los ‘genes saltarines’ explican por qué los humanos no tienen cola
+Inteligencia artificial para mejorar tratamientos de enfermedades raras
+“Ya tenemos el catálogo de células del cerebro que quería Cajal”
+Descubiertas más de 100 nuevas especies en las profundidades marinas de Chile
+Océanos de vapor de agua en un disco del que pueden surgir planetas
+Nuevas hipótesis sobre la planta 'moly' de la Odisea, un enigma botánico milenario
+Los diez avances científicos de 2023 según la revista ‘Science’
+Un raro astrolabio andalusí refleja el intercambio científico entre árabes, judíos y cristianos
+Este científico busca fármacos para enfermedades raras y oncológicas en proteínas desordenadas
+La geoda más grande del mundo está en España y los mayores cristales, en México
+Comparte
+Publica
+Licencia Creative Commons
+Síguenos
+Creative Commons 4.0
+Puedes copiar, difundir y transformar los contenidos de SINC. Lee las condiciones de nuestra licencia
+Contacto
+Hemeroteca
+FAQ
+Enlaces de la ciencia
+Mapa del sitio
+Qué es SINC
+Licencia CC
+El equipo
+Colaboradores
+Reconocimientos
+SÍGUENOS EN
+Política de cookies Accesibilidad Aviso legal y Política de privacidad Desarrollado con eZ PublishTM

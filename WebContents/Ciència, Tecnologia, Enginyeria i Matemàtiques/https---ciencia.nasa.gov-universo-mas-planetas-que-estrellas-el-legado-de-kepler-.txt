@@ -1,0 +1,84 @@
+Explore
+News & Events
+Multimedia
+NASA+
+Inicio
+Ciencias terrestres
+Sistema solar
+Universo
+Gente de la NASA
+Acerca de Ciencia
+5 MIN DE LECTURA
+Más planetas que estrellas: El legado de Kepler
+Equipo de redacción de Ciencia
+MAR 06, 2024
+ARTÍCULO
+La nave espacial Kepler en la sede de Ball Aerospace & Technologies Corp., en Boulder, Colorado. La misión Kepler estudió una región de la galaxia de la Vía Láctea, descubriendo los primeros exoplanetas del tamaño de la Tierra y determinando que hay más planetas que estrellas en nuestra galaxia.
+NASA/JPL-Caltech/Ball
+La misión Kepler permitió el descubrimiento de miles de exoplanetas, revelando una profunda verdad acerca de nuestro lugar en el cosmos: existen más planetas que estrellas en la galaxia de la Vía Láctea. Sin embargo, el camino hacia este cambio fundamental en nuestra comprensión del universo requirió casi 20 años de persistencia antes de que la misión se hiciera realidad al ser seleccionada en 2001.
+Esta imagen muestra la “primera luz” del telescopio Kepler: un campo de visión completo de una extensa área de cielo abundante en estrellas en las constelaciones del Cisne y La Lira que abarca 100 grados cuadrados. Los 42 rectángulos individuales se deben a los dispositivos de carga acoplada (CCD) que poseen un total de 95 megapíxeles.
+NASA/J. Jenkins
+Los astrónomos habían asumido, pero no habían confirmado aún, la existencia de exoplanetas cuando el concepto de lo que se convertiría en la misión Kepler fue sugerido por primera vez en 1983. No fue sino hasta la década de 1990 que se hicieron las primeras confirmaciones de planetas que orbitan alrededor de estrellas fuera de nuestro sistema solar, la mayoría de ellos gigantes gaseosos que orbitan cerca de su estrella anfitriona, algo para nada similar a lo que sabemos a partir de nuestro propio sistema solar.
+Cuando Kepler fue lanzado en 2009, habían sido descubiertos menos de 400 exoplanetas. Hoy en día, se ha confirmado la existencia de más de 5.500 exoplanetas, y más de la mitad de ellos fueron descubiertos a partir de los datos de Kepler. Muchos de estos exoplanetas confirmados residen en la llamada “zona habitable” de su estrella, lo que los convierte en los principales candidatos para futuras observaciones con el fin de descubrir más misterios del universo, incluyendo el potencial para la existencia de vida.
+La misión Kepler fue diseñada para abordar las preguntas “¿Qué tan frecuentes son otros mundos?” y “¿Qué tan único es nuestro sistema solar?”. Incluso si Kepler hubiera descubierto lo contrario —que los exoplanetas eran poco comunes—, de todos modos Kepler habría sido una misión histórica ya que la pregunta que abordaba era científicamente muy profunda.
+Jeff Van Cleve, integrante del equipo de Kepler, en el Laboratorio de Fotometría de Precisión del Centro de Investigación Ames en febrero de 2007. El aparato detrás de él es la Instalación del Banco de Pruebas Kepler, una maqueta del sistema que proporcionaría una demostración clave de la capacidad de Kepler.
+NASA/Ames
+Las versiones anteriores de la propuesta de la misión habían sido rechazadas cuatro veces desde 1992. En aquel entonces, la misión era conocida como FrRecuencia de Planetas Interiores del Tamaño de la Tierra (FRESIP, por sus siglas en inglés). Después del segundo rechazo, en 1994, los miembros del equipo David Koch, Jill Tarter y Carl Sagan sugirieron el cambio de nombre de FRESIP a Kepler.
+Uno de los cambios técnicos realizados a la propuesta de 1994 antes de la presentación de 1996 fue el cambio de la órbita, del punto Lagrange L2 a una órbita heliocéntrica. Esto permitía a Kepler utilizar timones de reacción para apuntar la nave espacial, lo que reducía el consumo de combustible del propulsor y ahorraba en costos.
+Esto no fue suficiente para convencer a la NASA. Para abordar las preocupaciones sobre la misión propuesta, se llevaron a cabo dos demostraciones importantes, una después del rechazo de 1996 y otra tras el rechazo en 1998. Las demostraciones redujeron el riesgo que hacía que algunos analistas tuvieran dudas y brindaron al equipo de Kepler la oportunidad de perfeccionar sus operaciones.
+Los 42 CCD del plano focal de Kepler tienen un tamaño aproximado de 930 centímetros cuadrados (un pie cuadrado). En las esquinas del plano focal hay cuatro módulos de orientación delgados que son unos CCD mucho más pequeños en comparación con los 42 CCD utilizados para la investigación científica. Esos CCD más pequeños fueron utilizados para rastrear la posición de Kepler y transmitir esa información a su sistema de orientación para mantener la nave espacial apuntada con precisión.
+NASA/Misión Kepler
+La primera demostración comprobó que el monitoreo continuo y automático de miles de estrellas era posible. Para esa demostración, se instaló un instrumento llamado fotómetro Vulcano en el Observatorio Lick en California, el cual transmitía sus datos por radio al Centro de Investigación Ames de la NASA en Silicon Valley, California, para su análisis automatizado. La segunda demostración (después del rechazo de 1998) fue la construcción de la Instalación del Banco de Pruebas Kepler.
+El banco de pruebas demostró que la tecnología existente de dispositivos de carga acoplada (CCD, por sus siglas en inglés), que no es diferente de la una cámara digital para aficionados, podía lograr la precisión necesaria para detectar planetas del tamaño de la Tierra en medio de los diversos tipos de ruido que se esperaba encontrar en todo el sistema: desde vibraciones hasta movimiento de imágenes e impactos de rayos cósmicos. El personal de Kepler en el centro Ames construyó un intrincado cielo simulado y Ball Aerospace, el socio de la industria a lo largo de los muchos años de propuestas y para la misión en sí, construyó el simulador numérico para la demostración. El banco de pruebas del laboratorio del centro Ames está ahora en exhibición en el Museo Nacional del Aire y el Espacio del Smithsonian.
+This landscape of “mountains” and “valleys” speckled with glittering stars is actually the edge of a nearby, young, star-forming region called NGC 3324 in the Carina Nebula. Captured in infrared light by NASA’s new James Webb Space Telescope, this image reveals for the first time previously invisible areas of star birth.
+NASA, ESA, CSA, and STScI
+Estas demostraciones finalmente pusieron fin a las preocupaciones restantes. En 2001, Kepler fue seleccionado más de 17 años después de que su investigador principal, William Borucki, hubiera escrito un artículo que estudiaba la utilización de un fotómetro espacial para detectar planetas del tamaño de la Tierra con su colega Audrey Summers de la Oficina de Estudios Teóricos y Planetarios de la División de Ciencias Espaciales en el centro Ames.
+En los ocho años transcurridos entre su selección y su lanzamiento el 6 de marzo de 2009, la misión respondió a una serie de desafíos y cambios que estaban en gran medida fuera del control del equipo, tales como el establecimiento por parte de la NASA de una política que requería que el Centro de Vuelo Espacial Goddard de la NASA en Greenbelt, Maryland, o el Laboratorio de Propulsión a Chorro (JPL, por sus siglas en inglés) en el sur de California gestionaran las misiones planetarias; cambios en los requisitos contables y el aumento de los costos de lanzamiento. Esos elementos de la historia de Kepler se cuentan en detalle en el último libro (en inglés) de la Oficina de Historia de la NASA, Programa Discovery de la NASA: Los primeros veinte años de exploración planetaria competitiva.
+Por James Anderson
+Historiador
+Read this story in English here.
+Comparte
+Detalles
+ÚLTIMA ACTUALIZACIÓN
+Mar 06, 2024
+EDITOR
+Términos relacionados
+Universo
+The National Aeronautics and Space Administration
+NASA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery.
+About NASA's Mission
+Join Us
+Home
+News & Events
+Multimedia
+NASA+
+Missions
+Humans in Space
+Earth & Climate
+The Solar System
+The Universe
+Science
+Aeronautics
+Technology
+Learning Resources
+About NASA
+NASA en Español
+Follow NASA
+More NASA Social Accounts
+NASA Newsletters
+Sitemap
+For Media
+Privacy Policy
+FOIA
+No FEAR Act
+Office of the IG
+Budget & Annual Reports
+Agency Financial Reports
+Contact NASA
+Accessibility
+Page Last Updated:
+11 hours ago
+Page Editor:
+SMD Content Editors
+Responsible NASA Official for Ciencia:
+Dana Bolles

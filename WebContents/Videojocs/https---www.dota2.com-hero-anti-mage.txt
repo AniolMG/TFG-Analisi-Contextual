@@ -1,0 +1,79 @@
+GAME
+HEROES
+NEWS
+ESPORTS
+LOGIN
+SELECT LANGUAGE
+PLAY FOR FREE
+AGILITY
+ANTI-MAGE
+SLASHES HIS FOES WITH MANA-DRAINING ATTACKS
+Should Anti-Mage have the opportunity to gather his full strength, few can stop his assaults. Draining mana from enemies with every strike or teleporting short distances to escape an ambush, cornering him is a challenge for any foe.
+Read Full History
+ATTACK TYPE
+MELEE
+COMPLEXITY
+ANTI-MAGE
+1
+ABILITIES
+538
++2.6
+219
++0.6
+19
++1.6
+24
++2.8
+12
++1.8
+ATTRIBUTES
+Carry
+Support
+Nuker
+Disabler
+Jungler
+Durable
+Escape
+Pusher
+Initiator
+ROLES
+ATTACK
+53-57
+1.4
+150
+DEFENSE
+5.0
+25%
+MOBILITY
+310
+0.6
+1800 / 800
+STATS
+ABILITY DETAILS:
+MANA BREAK
+Burns an opponent's mana on each attack and deals damage equal to a percentage of the mana burnt. Enemies with no mana left are temporarily slowed.
+ABILITY:
+Passive
+DAMAGE TYPE:
+Physical
+PIERCES SPELL IMMUNITY:
+No
+MANA BURNED AS DAMAGE:
+50%
+MANA BURNED PER HIT:
+25 / 30 / 35 / 40
+MAX MANA BURNED PER HIT:
+1.6% / 2.4% / 3.2% / 4%
+MOVE SPEED SLOW ON FULL DRAIN:
+25% / 30% / 35% / 40%
+SLOW DURATION:
+0.75
+A modified technique of the Turstarkuri monks' peaceful ways is to turn magical energies on their owner.
+PREVIOUS HERO
+ANCIENT APPARITION
+RANGED
+ALL HEROES
+NEXT HERO
+ARC WARDEN
+RANGED
+Dota and the Dota logo are trademarks and/or registered trademarks of Valve Corporation. 2023 Valve Corporation, all rights reserved.
